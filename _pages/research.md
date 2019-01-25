@@ -8,9 +8,12 @@ comments: false
 
 *Page under construction*
 
-**TODO**: More details, ongoing projects (Tango, RealVNF), PhD since 2017, ...
-
 I'm a PhD researcher at the computer networks group at Paderborn University. My research focus is on network softwarization and cloud computing, but I am also interested in machine learning and applying it to the networking domain.
+
+
+
+
+TODO: More details, ongoing projects (Tango, RealVNF), PhD since 2017, ...
 
 ## Projects
 
@@ -23,8 +26,6 @@ In 5GTANGO, I work on evolving the SDK by developing new tools like the service 
 My work in 5GTANGO involves (among others) the following technologies and languages: Python, JavaScript, OpenAPI/Swagger, Docker, Kubernetes, YAML/JSON schemas.
 
 ### Software Campus: RealVNF
-
-
 
 
 ## Research topics
