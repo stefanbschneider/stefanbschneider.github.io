@@ -12,8 +12,7 @@ I'm a PhD researcher at the computer networks group at Paderborn University. My 
 
 
 
-
-TODO: More details, ongoing projects (Tango, RealVNF), PhD since 2017, ...
+**TODO**: More details, ongoing projects (Tango, RealVNF), add figures and links to github repos and papers, ...
 
 ## Projects
 
@@ -27,6 +26,9 @@ My work in 5GTANGO involves (among others) the following technologies and langua
 
 ### Software Campus: RealVNF
 
+ "Software Campus trains and professionally develops tomorrow's senior IT  executives while opening up excellent career prospects to young IT  experts in Germany. Software Campus combines scientific leading-edge  research with hands-on management practice into an entirely new and  innovative concept."
+
+In collaboration with Huawei, the project  investigates means to improve coordination of chained virtual network  functions under realistic conditions. RealVNF addresses real-world  challenges such as scalability issues, failures, etc. using a modern  agile approach and leveraging state-of-the-art techniques such as deep  learning.
 
 ## Research topics
 

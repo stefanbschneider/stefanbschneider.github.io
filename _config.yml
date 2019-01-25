@@ -300,3 +300,5 @@ defaults:
       header:
         overlay_image: /assets/images/header.jpeg
         caption: "Photo credit: [Pexels](http://pexels.com/)"
+        show_overlay_excerpt: true
+        excerpt: "PhD Researcher at Paderborn University"
