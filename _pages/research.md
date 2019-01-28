@@ -10,7 +10,7 @@ comments: false
 
 I'm a PhD researcher at the computer networks group at Paderborn University. My research focus is on network softwarization and cloud computing, but I am also interested in machine learning and applying it to the networking domain.
 
-
+I enjoy tackling and solving challenging problems and am always looking to learn something new. If you are interested in collaborating, feel free to contact me: stefan.schneider@upb.de
 
 **TODO**: More details, ongoing projects (Tango, RealVNF), add figures and links to github repos and papers, ...
 
@@ -26,13 +26,20 @@ My work in 5GTANGO involves (among others) the following technologies and langua
 
 ### Software Campus: RealVNF
 
- "Software Campus trains and professionally develops tomorrow's senior IT  executives while opening up excellent career prospects to young IT  experts in Germany. Software Campus combines scientific leading-edge  research with hands-on management practice into an entirely new and  innovative concept."
+ "Software Campus trains and professionally develops tomorrow's senior IT executives while opening up excellent career prospects to young IT experts in Germany. Software Campus combines scientific leading-edge research with hands-on management practice into an entirely new and innovative concept."
 
-In collaboration with Huawei, the project  investigates means to improve coordination of chained virtual network  functions under realistic conditions. RealVNF addresses real-world  challenges such as scalability issues, failures, etc. using a modern  agile approach and leveraging state-of-the-art techniques such as deep  learning.
+In collaboration with Huawei, the project "RealVNF" investigates means to improve coordination (i.e., scaling, placement, resource allocation, scheduling, routing) of chained virtual network functions (VNFs) under realistic conditions. RealVNF addresses real-world challenges such as scalability issues, failures, etc. using a modern, agile approach and leveraging state-of-the-art techniques such as deep reinforcement learning.
 
 ## Research topics
 
 ### B-JointSP
+
+B-JointSP is an optimization problem focusing on the *joint scaling and placement* of NFV network services, consisting of interconnected virtual network functions (VNFs), as well as routing of flows from sources through these VNFs. The exceptional about B-JointSP is its consideration of *realistic, bidirectional network services*, in which flows return to their sources and may have a non-linear service structure. It even supports *stateful VNFs* that need to be traversed by the same flows in both upstream and downstream direction. Furthermore, B-JointSP allows the reuse of VNFs across different network services and supports physical, legacy network functions.
+
+To solve B-JointSP, we formalized it as mixed integer linear program (MILP), which can be used to find optimal solutions, but is NP-hard (see proof in paper). Hence, we also designed an efficient heuristic algorithm that finds close-to-optimal solutions even for large problem instances within seconds.
+
+* Paper: https://ieeexplore.ieee.org/document/8459915
+* Source code on GitHub: https://github.com/CN-UPB/B-JointSP
 
 ### Specification and analysis of network services using Petri nets
 
