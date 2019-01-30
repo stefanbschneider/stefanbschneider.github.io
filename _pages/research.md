@@ -6,8 +6,6 @@ author_profile: true
 comments: false
 ---
 
-*Page under construction. TODO: Add figures/images. Shorter summaries of research topics + links to more details?*
-
 I'm a PhD researcher at the computer networks group at Paderborn University. My research focus is on network softwarization and cloud computing, but I am also interested in machine learning and applying it to the networking domain.
 
 I enjoy tackling and solving challenging problems and am always looking to learn something new. If you are interested in collaborating, feel free to contact me: stefan.schneider@upb.de
@@ -32,6 +30,8 @@ In collaboration with Huawei, the project "RealVNF" investigates means to improv
 
 ### Specification of network services
 
+<img src="../assets/images/service-spec.png" alt="service-spec" width="500"/>
+
 #### Specification and analysis of network services using Petri nets
 
 For optimal placement and orchestration of network services, it is crucial that their structure and semantics are specified clearly and comprehensively and are available to an orchestrator. Existing specification approaches are either ambiguous or miss important aspects regarding the behavior of virtual network functions (VNFs) forming a service. We propose to formally and unambiguously specify the behavior of these functions and services using Queuing Petri Nets (QPNs). QPNs are an established method that allows to express queuing, synchronization, stochastically distributed processing delays, and changing traffic volume and characteristics at each VNF. With QPNs, multiple VNFs can be connected to complete network services in any structure, even specifying bidirectional network services containing loops.
@@ -43,6 +43,8 @@ We propose a tool-based workflow that supports the specification of network serv
 
 ### Coordination of network services
 
+<img src="../assets/images/embedding.png" alt="embedding" width="500"/>
+
 #### B-JointSP: Scaling and Placing Bidirectional Services with Stateful Virtual and Physical Network Functions
 
 B-JointSP is an optimization problem focusing on the *joint scaling and placement* of NFV network services, consisting of interconnected virtual network functions (VNFs), as well as routing of flows from sources through these VNFs. The exceptional about B-JointSP is its consideration of *realistic, bidirectional network services*, in which flows return to their sources and may have a non-linear service structure. It even supports *stateful VNFs* that need to be traversed by the same flows in both upstream and downstream direction. Furthermore, B-JointSP allows the reuse of VNFs across different network services and supports physical, legacy network functions.
@@ -52,7 +54,9 @@ To solve B-JointSP, we formalized it as mixed integer linear program (MILP), whi
 * Conference paper: https://ieeexplore.ieee.org/document/8459915
 * Source code: https://github.com/CN-UPB/B-JointSP
 
-### Evaluation of (placed) network services
+### Evaluation of network service placement
+
+<img src="../assets/images/pal.png" alt="PAL" width="500"/>
 
 #### Abstraction layer and emulation platform for VNF placement algorithms
 
