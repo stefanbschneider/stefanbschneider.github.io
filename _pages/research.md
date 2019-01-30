@@ -38,8 +38,8 @@ For optimal placement and orchestration of network services, it is crucial that 
 
 We propose a tool-based workflow that supports the specification of network services and the automatic generation of corresponding simulation code to enable an in-depth analysis of their behavior and performance. In a case study, we show how developers can benefit from analysis insights, e.g., to anticipate the impact of different service configurations. We also discuss how management and orchestration systems can benefit from our clear and comprehensive specification approach and its extensive analysis possibilities, leading to better placement of VNFs and improved Quality of Service.
 
-* Conference paper (pre-print): https://ris.uni-paderborn.de/record/3287
-* Source code: https://github.com/CN-UPB/ns-simulation-compiler
+* [Conference paper (pre-print)](https://ris.uni-paderborn.de/record/3287)
+* [Source code (GitHub)](https://github.com/CN-UPB/ns-simulation-compiler)
 
 ### Coordination of network services
 
@@ -51,8 +51,8 @@ B-JointSP is an optimization problem focusing on the *joint scaling and placemen
 
 To solve B-JointSP, we formalized it as mixed integer linear program (MILP), which can be used to find optimal solutions, but is NP-hard (see proof in paper). Hence, we also designed an efficient heuristic algorithm that finds close-to-optimal solutions even for large problem instances within seconds.
 
-* Conference paper: https://ieeexplore.ieee.org/document/8459915
-* Source code: https://github.com/CN-UPB/B-JointSP
+* [Conference paper](https://ieeexplore.ieee.org/document/8459915)
+* [Source code (GitHub)](https://github.com/CN-UPB/B-JointSP)
 
 ### Evaluation of network service placement
 
@@ -63,5 +63,5 @@ To solve B-JointSP, we formalized it as mixed integer linear program (MILP), whi
 In recent years, a variety of different approaches have been proposed to tackle the problem of scaling and placing network services, consisting of interconnected virtual network functions (VNFs). In this work, we present a placement abstraction layer (PAL) that provides a clear and simple northbound interface for using such algorithms while hiding their internal functionality and implementation. 
 Through its southbound interface, PAL can connect to different back ends that evaluate the calculated placements independent of the calculated performance claims made by the algorithms themselves, e.g., using simulations, emulations, or testbed approaches. As an example for such evaluation back ends, we introduce a novel placement emulation framework (PEF) that allows executing calculated placements using real, container-based VNFs on real-world network topologies. In a case study, we show how PAL and PEF facilitate reusing and evaluating placement algorithms as well as validating their underlying models and performance claims.
 
-* Conference paper (pre-print): https://ris.uni-paderborn.de/record/6972
-* Source code: https://github.com/CN-UPB/placement-emulation
+* [Conference paper (pre-print)](https://ris.uni-paderborn.de/record/6972)
+* [Source code (GitHub)](https://github.com/CN-UPB/placement-emulation)

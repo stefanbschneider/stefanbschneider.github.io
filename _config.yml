@@ -298,7 +298,7 @@ defaults:
       layout: single
       author_profile: true
       header:
-        overlay_image: /assets/images/header.jpeg
+        overlay_image: /assets/images/skyline_large.jpeg
         caption: "Photo credit: [Pexels](http://pexels.com/)"
         show_overlay_excerpt: true
-        excerpt: "PhD Researcher at Paderborn University"
+        excerpt: "Researcher at Paderborn University"
