@@ -19,3 +19,9 @@ comments: false
 
 * [17th ACM International Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc 2016)](https://www.sigmobile.org/mobihoc/2016/)
 
+# Miscellaneous
+
+* 2014-2018: Active member at the [Eurobiz e.V. student organization](https://eurobiz.uni-paderborn.de/en/home-en/)
+  Commitment for and activities with exchange students coming to Paderborn, Germany. 
+  Activities include trips to different German cities and cultural evenings to facilitate cultural exchange.
+  As an active member, I organized several events, e.g., day trips or a big celebration with around 1000 guests.
