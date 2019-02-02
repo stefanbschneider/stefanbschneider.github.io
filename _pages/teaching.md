@@ -6,7 +6,7 @@ author_profile: true
 comments: false
 ---
 
-Since my PhD position is currently entirely funded through the European H2020 project 5GTANGO, I do not have teaching obligations. However, I do help in preparing, executing, and grading both written and oral exams in the networking and programming lectures of my research group. Furthermore, I supervised/advised several students in bachelor's or master's theses, projects, seminars, or classes.
+Since my PhD position is currently entirely funded through the [European H2020 project 5GTANGO](http://5gtango.eu/), I do not have teaching obligations. However, I do help in preparing, executing, and grading both written and oral exams in the networking and programming lectures of my research group. Furthermore, I supervised/advised several students in bachelor's or master's theses, projects, seminars, or classes.
 
 # Student projects
 
@@ -26,3 +26,7 @@ Before starting my PhD, during my bachelor's, I held exercise lessons for two le
 
 * April - July 2014, [Systems software](https://cs.uni-paderborn.de/cn/teaching/courses/konzepte-und-methoden-der-systemsoftware/), Paderborn University
 * October 2012 - February 2013, Programming basics (Java), Paderborn University
+
+## Other
+
+* Since 2017: Mentor for undergraduate/bachelor students with meetings every semester
