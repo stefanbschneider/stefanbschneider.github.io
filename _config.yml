@@ -109,24 +109,18 @@ author:
   location         : "Paderborn University, Germany"
   email            : "stefan.schneider@upb.de"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      #url: mailto:stefan.schneider@upb.de
-    # - label: "Website"
-      # icon: "fas fa-fw fa-link"
-      # # url: "https://your-website.com"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/stefanbschneider/"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      #url: "https://twitter.com/stefan_schn"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      icon: "fab fa-twitter"
+      url: "https://twitter.com/stefan_schn"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      #url: "https://github.com/stefanbschneider"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      icon: "fab fa-github"
+      url: "https://github.com/stefanbschneider"
+    - label: "Google Scholar"
+      icon: "fab fa-google"
+      url: "https://scholar.google.de/citations?user=7fimejMAAAAJ&hl=en"
 
 # Site Footer
 footer:
@@ -137,21 +131,13 @@ footer:
     - label: "Twitter"
       icon: "fab fa-twitter"
       url: "https://twitter.com/stefan_schn"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/stefanbschneider"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+    - label: "Google Scholar"
+      icon: "fab fa-google"
+      url: "https://scholar.google.de/citations?user=7fimejMAAAAJ&hl=en"
+ 
 
 
 # Reading Files
