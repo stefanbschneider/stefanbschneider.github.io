@@ -107,8 +107,11 @@ author:
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Enthusiastic researcher and developer, always curious and eager to learn and to challenge myself. Enjoy tackling difficult problems and finding creative solutions. Focusing on research in future Internet and AI."
   location         : "Paderborn University, Germany"
-  email            : "stefan.schneider@upb.de"
+  #email            : "stefan.schneider@upb.de"
   links:
+    - label: "E-Mail"
+      icon: "far fa-envelope"
+      url: "mailto:stefan.schneider@upb.de"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/stefanbschneider/"
