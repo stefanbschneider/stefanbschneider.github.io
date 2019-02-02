@@ -6,9 +6,9 @@ author_profile: true
 comments: false
 ---
 
-I'm a PhD researcher at the computer networks group at Paderborn University. My research focus is on network softwarization and cloud computing, but I am also interested in machine learning and applying it to the networking domain.
+I'm a PhD student and researcher at the computer networks group at Paderborn University. My research focus is on 5G, network softwarization/virtualization, and cloud computing, but I am also interested in machine learning and applying it to the networking domain.
 
-I enjoy tackling and solving challenging problems and am always looking to learn something new. If you are interested in collaborating, feel free to contact me: stefan.schneider@upb.de
+I enjoy tackling and solving challenging problems and am always looking to learn something new. If you are interested in collaborating, feel free to contact me.
 
 ## Projects
 
@@ -22,11 +22,13 @@ My work in 5GTANGO involves (among others) the following technologies and langua
 
 ### RealVNF: Improved coordination of chained VNFs under realistic conditions (Software Campus)
 
- "Software Campus trains and professionally develops tomorrow's senior IT executives while opening up excellent career prospects to young IT experts in Germany. Software Campus combines scientific leading-edge research with hands-on management practice into an entirely new and innovative concept."
+ "[Software Campus](https://www.softwarecampus.de/en/) trains and professionally develops tomorrow's senior IT executives while opening up excellent career prospects to young IT experts in Germany. Software Campus combines scientific leading-edge research with hands-on management practice into an entirely new and innovative concept."
 
 In collaboration with Huawei, the project "RealVNF" investigates means to improve coordination (i.e., scaling, placement, resource allocation, scheduling, routing) of chained virtual network functions (VNFs) under realistic conditions. RealVNF addresses real-world challenges such as scalability issues, failures, etc. using a modern, agile approach and leveraging state-of-the-art techniques such as deep reinforcement learning.
 
 ## Research topics
+
+Most of my research focuses on automated, optimized coordination or management of network services in network function virtualization (NFV) and distributed cloud computing. In my research, I consider the whole lifecycle from specification of services, their orchestration, and their evaluation.
 
 ### Specification of network services
 
