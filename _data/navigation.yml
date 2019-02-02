@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Research"
+    url: /
+  - title: "Projects"
+    url: /projects/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Service"
+    url: /service/
+  - title: "Profile"
+    url: /profile/
