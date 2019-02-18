@@ -14,7 +14,7 @@ Since my PhD position is currently entirely funded through the [European H2020 p
 
 # Theses
 
-* 2018-2019: A Scaling- and Placing-Algorithm for Virtualized Network Functions using Queuing Petri Nets (MA)
+* 2018-2019: Peter Steinberg. Using Queuing Petri Nets in a Scaling and Placing Algorithm for Chains of Virtual Network Functions (master's thesis)
 
 # Classes
 
