@@ -31,5 +31,9 @@ gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 #   gem "jekyll-include-cache"
 #
 # If you have any other plugins, put them here!
+
+# for testing with Travis CI
+gem "html-proofer"
+
 group :jekyll_plugins do
 end
