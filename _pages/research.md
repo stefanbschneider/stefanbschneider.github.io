@@ -52,10 +52,3 @@ Through its southbound interface, PAL can connect to different back ends that ev
 * [Conference paper (pre-print)](https://ris.uni-paderborn.de/record/6972)
 * [Source code (GitHub)](https://github.com/CN-UPB/placement-emulation)
 
-# Publications
-
-You can find an up-to-date list of my publications here:
-
-* [My university's research archive (with open-access PDFs for most publications)](https://ris.uni-paderborn.de/person/stefanschneider)
-* [My Google Scholar profile (with citation counts)](https://scholar.google.com/citations?user=https://scholar.google.de/citations?user=7fimejMAAAAJ&hl=en&user=7fimejMAAAAJ)
-
