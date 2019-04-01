@@ -6,53 +6,70 @@ author_profile: true
 comments: false
 ---
 
-**Core Languages (decreasing proficiency): Python, Java, C++**
-
 # Education 
 
-**M.S. Computer Science, Paderborn University, Germany, 2015 – 2017**
+### Expected 2021: PhD Computer Science, Paderborn University, Germany.
 
-* Honors degree with grade 1.0 (German grades: 1.0 = excellent, 4.0 = sufficient) 
-* 1-year project developing a vehicular networking stack (C++, ØMQ); live demo at conference in the US
+Topic: Predictability and Dependability in Network Function Virtualization
 
-**B.S. Computer Science, Paderborn University, Germany, 2011 – 2015**
+### April 2017: MSc Computer Science, Paderborn University, Germany. Grade: 1.0 with honors
 
-* Honors degree with grade 1.3 (German grades: 1.0 = excellent, 4.0 = sufficient)
-* Exchange semester at the University of Oklahoma, USA, Aug – Dec 2013 
+Specialization area: Embedded systems and systems software
+
+### May 2015: BSc Computer Science, Paderborn University, Germany. Grade: 1.3 with honors
+
+Aug – Dec 2013: Exchange semester at the University of Oklahoma, USA
+
+### June 2011: Abitur, Matthias-Claudius-Gymnasium, Gehrden, Germany. Grade: 1.4
+
+Equivalent to GCE A level. Award for best student of the year in mathematics.
+
+**German grades:** 1.0 = excellent, 4.0 = sufficient/passing grade.
 
 # Experience 
 
-**PhD Student & Researcher, Computer Networks Group, Paderborn University, May 2017 – 2021**
+### 2017-Present: PhD Researcher, Computer Networks Group, Paderborn University, Germany.
 
-* Individual and collaborative research in 5G, network softwarization, automation, and management
-* Currently 9 accepted publications (4 as first author) at international, peer-reviewed IEEE conferences
-* Currently advice 15 students (4 student assistants, 1 thesis, 10 in project group)
+Research focusing on network function virtualization (NFV), 5G, could, and AI
 
-**Student Researcher, Distributed Systems Group, Paderborn University, Oct 2015 – Sep 2016**
+* Completed research:
+  - Devised novel approach for generic, yet precise specification of complex network services
+  - Developed a multi-objective optimization algorithm for network service orchestration
+  - Designed a framework for reusing and evaluating different orchestration algorithms
+  - Investigated fundamental trade-offs in dynamic resource allocation (NFV, cloud) 
+* Ongoing and future research:
+  - Investigating predictive and pro-active service orchestration using machine learning
+  - Developing a deep reinforcement learning (RL) approach for service orchestration
+  - Creating a network simulation environment for training and evaluating RL agents
+  - Introducing fault injection for training and evaluating fault-tolerant orchestration
 
-* Implemented and evaluated different protocols for vehicular communication using simulation (C++, R)
-* Received the group’s “Distinguished Student 2016” award for my work
+### 2015-2016: Student Researcher (MSc), Distributed Systems Group, Paderborn University, Germany
 
-# Projects
+* Implemented and evaluated protocols for vehicular communication using simulation
+* Developed an ideal “oracle” protocol for assessing a protocol’s optimality gap
+* Improved simulation performance by optimizing data base indexing and operations
 
-**5GTANGO, European open-source Project (15 partners), 2017 – 2020**
+### April-Jul 2014: Student Teaching Assistant (BSc), Computer Networks Group, Paderborn University, Germany
 
-* Simplified and accelerated 5G service development by implementing tools for service descriptor generation and organization as well as combining them in a graphical web app
-* Developed services for quick configuration and monitoring of manufacturing machines
-* Technology: Python, Docker, Kubernetes, JavaScript, Travis/Jenkins, Ansible, Angular, Jupyter notebooks
+Taught 2 weekly tutorials for ~20 undergraduate students on systems software for 1 semester
 
-**Software Campus (RealVNF), German Research Project (with Huawei), 2018 – 2020**
+### 2012-2013: Student Teaching Assistant (BSc), Databases and Electronic-Commerce Group, Paderborn University, Germany
 
-* Training for future IT leaders: Project and funds proposal, recruitment, project management & lead
-* My project focuses on improved, practically useful approaches for 5G service coordination (e.g., with ML)
-* Technology: Deep reinforcement learning using Python with Pandas & sklearn, Keras with Tensorflow
+Taught 1 weekly tutorial for ~20 undergraduate students on Java basics for 1 semester
 
-# Awards/Scholarships
+# Honors and Awards
 
-* Scholarship of the German Academic Scholarship Foundation (Studienstiftung), Feb 2016
-* German national scholarship (Deutschlandstipendium), Sep 2015
-* PRISMA scholarship for outstanding computer science students at the Paderborn University, Aug 2015
+* 2018-2020: Accepted at Software Campus and received 100K grant for managing my own 2-year IT project ("RealVNF")
+* Sep 2016: "Distinguished Student 2016" of the Distributed Systems Group, Paderborn University
+* 2016-2017: Scholarship of the German Academic Scholarship Foundation (Studienstiftung)
+* 2015-2016: German national scholarship (Deutschlandstipendium)
+* 2015-2017: PRISMA scholarship for outstanding computer science students at the Paderborn University
 
-Last updated: Feb 2, 2019
+# Skills and Interests
+
+* Languages: English (full professional), German (native), Spanish (intermediate), Finnish (beginner)
+* Core programming languages (decreasing proficiency): Python, Java, C++
+
+*Last updated: April 1, 2019*
 
 For more details, refer to [my LinkedIn profile](https://www.linkedin.com/in/stefanbschneider/).
