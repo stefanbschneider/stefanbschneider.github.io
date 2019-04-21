@@ -13,6 +13,8 @@ comments: false
 
 ## 2019
 
+**S. Schneider**, M. Peuster, D. Behnke, M. Müller, P. Bök, and H. Karl: **Putting 5G into Production: Realizing a Smart Manufacturing Vertical Scenario**. Accepted at 2019 European Conference on Networks and Communications (EuCNC).
+
 **S. Schneider**, A. Sharam, H. Karl, and H. Wehrheim: [Specifying and Analyzing Virtual Network Services Using Queuing Petri Nets](https://ris.uni-paderborn.de/record/3287). Accpeted at 2019 IFIP/IEEE International Symposium on Integrated Network Management (IM).
 
 M. Peuster, **S. Schneider**, M. Zhao, G. Xilouris, P. Trakadas, F. Vicens, W. Tavernier, T. Soenen, R. Vilalta, G. Andreou, D. Kyriazis, H.Karl: **Introducing Automated Verification and Validation for Virtualized Network Functions and Services**. Accepted at IEEE Communications Magazine (2019).
