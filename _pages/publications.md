@@ -19,7 +19,7 @@ M. Müller, D. Behnke, P. Bök, M. Peuster, **S. Schneider**, H. Karl: **5G as K
 
 **S. Schneider**, A. Sharam, H. Karl, and H. Wehrheim: [Specifying and Analyzing Virtual Network Services Using Queuing Petri Nets](https://ris.uni-paderborn.de/record/3287). Accpeted at 2019 IFIP/IEEE International Symposium on Integrated Network Management (IM).
 
-M. Peuster, **S. Schneider**, M. Zhao, G. Xilouris, P. Trakadas, F. Vicens, W. Tavernier, T. Soenen, R. Vilalta, G. Andreou, D. Kyriazis, H.Karl: **Introducing Automated Verification and Validation for Virtualized Network Functions and Services**. Accepted at IEEE Communications Magazine (2019).
+M. Peuster, **S. Schneider**, M. Zhao, G. Xilouris, P. Trakadas, F. Vicens, W. Tavernier, T. Soenen, R. Vilalta, G. Andreou, D. Kyriazis, H.Karl: [Introducing Automated Verification and Validation for Virtualized Network Functions and Services](https://ieeexplore.ieee.org/abstract/document/8713807). Accepted at IEEE Communications Magazine (2019).
 
 M. Peuster, **S. Schneider**, D. Behnke, M. Müller, Patrick-Benjamin Bök, and H. Karl: **Prototyping and Demonstrating 5G Verticals: The Smart Manufacturing Case**. Accepted at 2019 IEEE Conference on Network Softwarization (NetSoft) Demo Track.
 
@@ -47,4 +47,4 @@ S. Laux, G. S. Pannu, **S. Schneider**, J. Tiemann, F. Klingler, C. Sommer, and 
 
 
 
-*Last updated: April 1, 2019*
+*Last updated: June 6, 2019*
