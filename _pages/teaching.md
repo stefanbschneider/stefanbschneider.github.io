@@ -21,7 +21,15 @@ Since my PhD position is currently entirely funded through the [European H2020 p
 
 # Theses
 
-* Master's thesis (ongoing): "Using Queuing Petri Nets in a Scaling and Placing Algorithm for Chains of Virtual Network Functions" by Peter Steinberg
+## Bachelor's theses
+
+* "A Simian Army for Network Function Virtualization: Monkeys in a Telco Network" by Kai Hannemann (ongoing)
+* "Fully Distributed Scaling, Placement, and Routing in Network Function Virtualization" by Lars Dietrich Klenner (ongoing)
+
+## Master's theses
+
+* "Performance Prediction in Virtual Network Function Placement Using Machine Learning Techniques" by P.S. Narayanan (ongoing)
+* "Using Queuing Petri Nets in a Scaling and Placing Algorithm for Chains of Virtual Network Functions" by Peter Steinberg (ongoing)
 
 # Classes
 
