@@ -28,6 +28,7 @@ Since my PhD position is currently entirely funded through the [European H2020 p
 
 ## Master's theses
 
+* "Machine Learning-Based Load Prediction for Network Function Virtualization Scenarios" by Christoph Kaiser (ongoing)
 * "Performance Prediction in Virtual Network Function Placement Using Machine Learning Techniques" by P.S. Narayanan (ongoing)
 * "Using Queuing Petri Nets in a Scaling and Placing Algorithm for Chains of Virtual Network Functions" by Peter Steinberg (ongoing)
 
