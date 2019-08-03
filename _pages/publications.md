@@ -13,6 +13,8 @@ comments: false
 
 ## 2019
 
+M. Peuster, **S. Schneider**, H. Karl: **The Softwarised Network Data Zoo**. Accepted at 2019 IEEE International Conference on Network and Service Management (CNSM).
+
 M. Müller, D. Behnke, P. Bök, M. Peuster, **S. Schneider**, H. Karl: **5G as Key Technology for Networked Factories: Application of Vertical-specific Network Services for Enabling Flexible Smart Manufacturing**. Accepted at 2019 IEEE International Conference on Industrial Informatics (INDIN).
 
 **S. Schneider**, M. Peuster, D. Behnke, M. Müller, P. Bök, and H. Karl: **Putting 5G into Production: Realizing a Smart Manufacturing Vertical Scenario**. Accepted at 2019 European Conference on Networks and Communications (EuCNC).
