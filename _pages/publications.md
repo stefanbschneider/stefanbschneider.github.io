@@ -13,6 +13,8 @@ comments: false
 
 ## 2019
 
+A. Nuriddinov, W. Tavernier, D. Colle, M. Pickavet, M. Peuster, **S. Schneider**: **Reproducible Functional Tests for Multi-scale Network Services**. Accepted at 2019 IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN).
+
 M. Peuster, **S. Schneider**, H. Karl: **The Softwarised Network Data Zoo**. Accepted at 2019 IEEE International Conference on Network and Service Management (CNSM).
 
 M. Müller, D. Behnke, P. Bök, M. Peuster, **S. Schneider**, H. Karl: **5G as Key Technology for Networked Factories: Application of Vertical-specific Network Services for Enabling Flexible Smart Manufacturing**. Accepted at 2019 IEEE International Conference on Industrial Informatics (INDIN).
