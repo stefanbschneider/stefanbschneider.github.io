@@ -25,7 +25,7 @@ M. Müller, D. Behnke, P. Bök, M. Peuster, **S. Schneider**, H. Karl: **5G as K
 
 **S. Schneider**, M. Peuster, D. Behnke, M. Müller, P. Bök, and H. Karl: [Putting 5G into Production: Realizing a Smart Manufacturing Vertical Scenario](https://ieeexplore.ieee.org/abstract/document/8802016). In 2019 European Conference on Networks and Communications (EuCNC).
 
-**S. Schneider**, A. Sharam, H. Karl, and H. Wehrheim: [Specifying and Analyzing Virtual Network Services Using Queuing Petri Nets](https://ris.uni-paderborn.de/record/3287). In 2019 IFIP/IEEE International Symposium on Integrated Network Management (IM).
+**S. Schneider**, A. Sharam, H. Karl, and H. Wehrheim: [Specifying and Analyzing Virtual Network Services Using Queuing Petri Nets](https://ieeexplore.ieee.org/abstract/document/8717787). In 2019 IFIP/IEEE International Symposium on Integrated Network Management (IM).
 
 M. Peuster, **S. Schneider**, M. Zhao, G. Xilouris, P. Trakadas, F. Vicens, W. Tavernier, T. Soenen, R. Vilalta, G. Andreou, D. Kyriazis, H.Karl: [Introducing Automated Verification and Validation for Virtualized Network Functions and Services](https://ieeexplore.ieee.org/abstract/document/8713807). In IEEE Communications Magazine (2019).
 
@@ -37,13 +37,13 @@ P. Twamley, M. Müller, P.-B. Bök, G. Xylouris, C. Sakkas, M.-A. Kourtis, M. Pe
 
 S. Dräxler, **S. Schneider**, and H. Karl: [Scaling and Placing Bidirectional Services with Stateful Virtual and Physical Network Functions](https://ieeexplore.ieee.org/document/8459915/). In 2018 IEEE Conference on Network Softwarization (NetSoft).
 
-**S. Schneider**, M. Peuster, and H. Karl: [A Generic Emulation Framework for Reusing and Evaluating VNF Placement Algorithms](https://ris.uni-paderborn.de/record/6972). In 2018 IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN).
+**S. Schneider**, M. Peuster, and H. Karl: [A Generic Emulation Framework for Reusing and Evaluating VNF Placement Algorithms](https://ieeexplore.ieee.org/abstract/document/8725795). In 2018 IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN).
 
-**S. Schneider**, M. Peuster, W. Tavernier, and H. Karl: [A Fully Integrated Multi-Platform NFV SDK](https://ris.uni-paderborn.de/record/6974). In 2018 IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN) Demo Track.
+**S. Schneider**, M. Peuster, W. Tavernier, and H. Karl: [A Fully Integrated Multi-Platform NFV SDK](https://ieeexplore.ieee.org/abstract/document/8725794). In 2018 IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN) Demo Track.
 
-M. Peuster, **S. Schneider**, F. T. Christ, and H. Karl: [A Prototyping Platform to Validate and Verify Network Service Header-based Service Chains](https://ris.uni-paderborn.de/record/6483). In 2018 IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN) 5GNetApp Workshop.
+M. Peuster, **S. Schneider**, F. T. Christ, and H. Karl: [A Prototyping Platform to Validate and Verify Network Service Header-based Service Chains](https://ieeexplore.ieee.org/abstract/document/8725614). In 2018 IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN) 5GNetApp Workshop.
 
-**S. Schneider**, S. Dräxler, and H. Karl: [Trade-offs in Dynamic Resource Allocation in Network Function Virtualization](https://ris.uni-paderborn.de/record/6970). In 2018 IEEE Global Communications Conference (GLOBECOM) Workshop on Advanced Control Planes for Software Networks (ACPSN).
+**S. Schneider**, S. Dräxler, and H. Karl: [Trade-offs in Dynamic Resource Allocation in Network Function Virtualization](https://ieeexplore.ieee.org/abstract/document/8644352). In 2018 IEEE Global Communications Conference (GLOBECOM) Workshop on Advanced Control Planes for Software Networks (ACPSN).
 
 ## 2017
 
@@ -55,4 +55,4 @@ S. Laux, G. S. Pannu, **S. Schneider**, J. Tiemann, F. Klingler, C. Sommer, and 
 
 
 
-*Last updated: September 4, 2019*
+*Last updated: September 12, 2019*
