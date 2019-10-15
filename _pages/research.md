@@ -6,7 +6,7 @@ author_profile: true
 comments: false
 ---
 
-I'm a PhD candidate and researcher at the [computer networks group at Paderborn University](https://cs.uni-paderborn.de/cn/). My research focus is on 5G, network softwarization/virtualization, and cloud computing, but I am also interested in machine learning and applying it to the networking domain.
+I'm a PhD candidate and researcher at the [computer networks group at Paderborn University](https://cs.uni-paderborn.de/cn/). My research focus is on 5G, network softwarization/virtualization, and cloud computing. I also use machine learning and reinforcement learning in my research and apply it to the networking domain.
 
 I enjoy tackling and solving challenging problems and am always looking to learn something new. If you are interested in collaborating, feel free to contact me.
 
