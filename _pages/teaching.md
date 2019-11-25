@@ -6,31 +6,23 @@ author_profile: true
 comments: false
 ---
 
-Since my PhD position is currently entirely funded through the [European H2020 project 5GTANGO](http://5gtango.eu/), I do not have teaching obligations. However, I do help in preparing, executing, and grading both written and oral exams in the networking and programming lectures of my research group. Furthermore, I supervised/advised several students in bachelor's or master's theses, projects, seminars, or classes.
-
-*I currently advise 25 students (last updated 19.4.19):*
-
-* 3 master's theses, 1 bachelor's thesis, and 2 graduate seminar theses
-* 3 research assistants in my RealVNF Software Campus project
-* 3 research assistants in the 5GTANGO H2020 project (together with a colleague)
-* Group of 13 students in 1-year graduate project (together with a colleague)
-
 # Student projects
 
-* 2019-2020: [BAcKFLiP: Benchmarking network functions to collect the world largest NFV performance dataset](https://cs.uni-paderborn.de/cn/teaching/theses-student-projects/student-project-groups-ongoing/backflip/) (1-year master's student project)
+* 2019-2020: [BAcKFLiP: Benchmarking network functions to collect the world largest NFV performance dataset](https://cs.uni-paderborn.de/cn/teaching/theses-student-projects/student-project-groups-ongoing/backflip/) (1-year master's student project with 11 graduate students)
 
 # Theses
 
 ## Bachelor's theses
 
-* "A Simian Army for Network Function Virtualization: Monkeys in a Telco Network" by Kai Hannemann (ongoing)
-* "Fully Distributed Scaling, Placement, and Routing in Network Function Virtualization" by Lars Dietrich Klenner (ongoing)
+* "A Simian Army for Network Function Virtualization: Monkeys in a Telco Network" by Kai Hannemann
+* "Fully Distributed Scaling, Placement, and Routing in Network Function Virtualization" by Lars Dietrich Klenner
 
 ## Master's theses
 
-* "Machine Learning-Based Load Prediction for Network Function Virtualization Scenarios" by Christoph Kaiser (ongoing)
-* "Performance Prediction in Virtual Network Function Placement Using Machine Learning Techniques" by P.S. Narayanan (ongoing)
-* "Using Queuing Petri Nets in a Scaling and Placing Algorithm for Chains of Virtual Network Functions" by Peter Steinberg (ongoing)
+* "Hierarchical Coordination of Virtual Network Function Chains" by Mirko Jürgens
+* "Machine Learning-Based Load Prediction for Network Function Virtualization Scenarios" by Christoph Kaiser
+* "Performance Prediction in Virtual Network Function Placement Using Machine Learning Techniques" by P.S. Narayanan
+* "Using Queuing Petri Nets in a Scaling and Placing Algorithm for Chains of Virtual Network Functions" by Peter Steinberg
 
 # Classes
 
