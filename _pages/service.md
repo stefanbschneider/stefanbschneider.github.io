@@ -6,6 +6,10 @@ author_profile: true
 comments: false
 ---
 
+# Organizer
+
+* Co-chair of a workshop on machine learning & networking 2020: https://mlkuvs.lkn.ei.tum.de
+
 # Reviewer
 
 * 2019: [IEEE Communication Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4234)
@@ -25,3 +29,4 @@ comments: false
   Commitment for and activities with exchange students coming to Paderborn, Germany. 
   Activities include trips to different German cities and cultural evenings to facilitate cultural exchange.
   As an active member, I organized several events, e.g., day trips or a big celebration with around 1000 guests.
+
