@@ -11,6 +11,10 @@ comments: false
 - [My Google Scholar profile](https://scholar.google.com/citations?user=https://scholar.google.de/citations?user=7fimejMAAAAJ&hl=en&user=7fimejMAAAAJ)
 - [My university’s research archive (with open-access pre-prints for most publications)](https://ris.uni-paderborn.de/person/stefanschneider)
 
+## 2020
+
+**S. Schneider**, P. Narayanan, M. Peuster, H. Karl: **Machine Learning for Dynamic Resource Allocation in Network Function Virtualization**. Under review at 2020 IEEE Conference on Network Softwarization (NetSoft).
+
 ## 2019
 
 **S. Schneider**, M. Peuster, K. Hannemann, D. Behnke, M. Müller, P. Bök, H. Karl: **"Producing Cloud-Native": Smart Manufacturing Use Cases on Kubernetes**. Accepted at 2019 IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN) Demo Track.
