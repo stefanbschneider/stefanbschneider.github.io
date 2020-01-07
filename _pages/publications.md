@@ -17,7 +17,7 @@ comments: false
 
 ## 2019
 
-**S. Schneider**, M. Peuster, K. Hannemann, D. Behnke, M. Müller, P. Bök, H. Karl: **"Producing Cloud-Native": Smart Manufacturing Use Cases on Kubernetes**. Accepted at 2019 IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN) Demo Track.
+**S. Schneider**, M. Peuster, K. Hannemann, D. Behnke, M. Müller, P. Bök, H. Karl: ["Producing Cloud-Native": Smart Manufacturing Use Cases on Kubernetes](https://ris.uni-paderborn.de/record/13292). Accepted at 2019 IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN) Demo Track.
 
 M. Müller, D. Behnke, P. Bök, **S. Schneider**, M. Peuster, H. Karl: **Putting NFV into Reality: Physical Smart Manufacturing Testbed.** Accepted at 2019 IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN) Integrated Workshop on 5G, Security and AI (5GSecAI).
 
@@ -25,7 +25,7 @@ D. Behnke, M. Müller, P. Bök, **S. Schneider**, M. Peuster, H. Karl, A. Rocha,
 
 A. Nuriddinov, W. Tavernier, D. Colle, M. Pickavet, M. Peuster, **S. Schneider**: **Reproducible Functional Tests for Multi-scale Network Services**. Accepted at 2019 IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN).
 
-M. Peuster, **S. Schneider**, H. Karl: **The Softwarised Network Data Zoo**. Accepted at 2019 IEEE International Conference on Network and Service Management (CNSM). **Best Poster Award**
+M. Peuster, **S. Schneider**, H. Karl: [The Softwarised Network Data Zoo](https://ris.uni-paderborn.de/record/15371). Accepted at 2019 IEEE International Conference on Network and Service Management (CNSM). **Best Poster Award**
 
 M. Müller, D. Behnke, P. Bök, M. Peuster, **S. Schneider**, H. Karl: **5G as Key Technology for Networked Factories: Application of Vertical-specific Network Services for Enabling Flexible Smart Manufacturing**. Accepted at 2019 IEEE International Conference on Industrial Informatics (INDIN).
 
@@ -61,4 +61,4 @@ S. Laux, G. S. Pannu, **S. Schneider**, J. Tiemann, F. Klingler, C. Sommer, and 
 
 
 
-*Last updated: September 19, 2019*
+*Last updated: January 7, 2020*
