@@ -13,7 +13,9 @@ comments: false
 
 ## 2020
 
-**S. Schneider**, P. Narayanan, M. Peuster, H. Karl: **Machine Learning for Dynamic Resource Allocation in Network Function Virtualization**. Under review at 2020 IEEE Conference on Network Softwarization (NetSoft).
+**S. Schneider**, N. P. Satheeschandran, M. Peuster, H. Karl: **Machine Learning for Dynamic Resource Allocation in Network Function Virtualization**. Accepted at 2020 IEEE Conference on Network Softwarization (NetSoft).
+
+A. Zafeiropoulos, E. Fotopoulou, M. Peuster, **S. Schneider**, P. Gouvas, D. Behnke, M. Müller, P. Bök, P. Trakadas, P. Karkazis, H. Karl: **Benchmarking and Profiling 5G Verticals' Applications: An Industrial IoT Use Case**. Accepted at 2020 IEEE Conference on Network Softwarization (NetSoft).
 
 ## 2019
 
