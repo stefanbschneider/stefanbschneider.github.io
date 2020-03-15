@@ -35,5 +35,8 @@ gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 # for testing with Travis CI
 gem "html-proofer"
 
+# for jemoji
+gem "jemoji"
+
 group :jekyll_plugins do
 end
