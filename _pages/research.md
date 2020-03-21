@@ -6,6 +6,8 @@ author_profile: true
 comments: false
 ---
 
+**I set up a simple website to visualize the COVID-19 situation and spread in Germany, Europe, and globally: [stefanbschneider.github.io/covid19](https://stefanbschneider.github.io/covid19)**
+
 I'm a PhD candidate and researcher at the [computer networks group at Paderborn University](https://cs.uni-paderborn.de/cn/). My research focus is on 5G, network softwarization/virtualization, and cloud computing. I also use machine learning and reinforcement learning in my research and apply it to the networking domain.
 
 I enjoy tackling and solving challenging problems and am always looking to learn something new. If you are interested in collaborating, feel free to contact me.
