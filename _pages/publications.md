@@ -17,6 +17,8 @@ comments: false
 
 A. Zafeiropoulos, E. Fotopoulou, M. Peuster, **S. Schneider**, P. Gouvas, D. Behnke, M. Müller, P. Bök, P. Trakadas, P. Karkazis, H. Karl: **Benchmarking and Profiling 5G Verticals' Applications: An Industrial IoT Use Case**. Accepted at 2020 IEEE Conference on Network Softwarization (NetSoft).
 
+M. Müller, D. Behnke, P. Bök, **S. Schneider**, M. Peuster, H. Karl: **Cloud-Native Threat Detection and Containment for Smart Manufacturing**. Accepted at 2020 IEEE Conference on Network Softwarization (NetSoft) Demo Track.
+
 ## 2019
 
 **S. Schneider**, M. Peuster, K. Hannemann, D. Behnke, M. Müller, P. Bök, H. Karl: ["Producing Cloud-Native": Smart Manufacturing Use Cases on Kubernetes](https://ris.uni-paderborn.de/record/13292). Accepted at 2019 IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN) Demo Track.
