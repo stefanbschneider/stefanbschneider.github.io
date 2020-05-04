@@ -13,7 +13,9 @@ comments: false
 # Reviewer
 
 * 2019: [IEEE Communication Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4234)
-* 2020: [Elsevier Computer Communications](https://www.journals.elsevier.com/computer-communications)
+* 2020: 
+  * [Elsevier Computer Communications](https://www.journals.elsevier.com/computer-communications)
+  * [Elsevier Computer Networks](https://www.journals.elsevier.com/computer-networks)
 
 # Invited talks and tutorials
 
