@@ -1,0 +1,52 @@
+{% assign publications = site.data.data.publications %}
+{% if publications %}
+<section class="section publications-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ publications.title }}
+  </h2>
+
+  {% if publications.intro %}
+  <div class="intro">
+    {{ publications.intro | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
+
+  <div class="publication-subheader">Publications in International Journals:</div>
+
+  {% assign i = 0 %}
+  {% for publication in publications.journals %}
+  {% assign i = i | plus:1 %}
+  <div class="item">
+    <div class="publication-title"><span class="publication-counter">[J{{ i }}]</span> <a href="{{ publication.link }}" target="_blank">{{ publication.title }}</a></div>
+    <div class="publication-authors">{{ publication.authors }}</div>
+    <div class="publication-conference">{{ publication.published_in }}, {{ publication.year }}
+        {% if publication.preprint %}
+        [<a href="{{ publication.preprint }}" target="_blank">preprint</a>]
+        {% endif %}
+    </div>
+  </div><!--//item-->
+  {% endfor %}
+  
+  <div class="publication-subheader">Peer-reviewed Conference Publications:</div>
+
+  {% assign i = 0 %}
+  {% for publication in publications.conferences %}
+  {% assign i = i | plus:1 %}
+  <div class="item">
+    <div class="publication-title"><span class="publication-counter">[C{{ i }}]</span> <a href="{{ publication.link }}" target="_blank">{{ publication.title }}</a></div>
+    <div class="publication-authors">{{ publication.authors }}</div>
+    <div class="publication-conference">{{ publication.published_in }}, {{ publication.year }}
+        {% if publication.preprint %}
+        [<a href="{{ publication.preprint }}" target="_blank">preprint</a>]
+        {% endif %}
+    </div>
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}

@@ -1,0 +1,25 @@
+{% assign reviews = site.data.data.reviews %}
+{% if reviews %}
+<section class="section publications-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-search fa-stack-1x fa-inverse"></i>
+    </span>
+    Reviews
+  </h2>
+
+  <div class="intro">
+    I served as a reviewer for the fllowing international journals and conferences:
+  </div><!--//intro-->
+
+  <ul>
+  {% for review in reviews %}
+    <li>{{ review.year }} - {{ review.title }}</li>
+  {% endfor %}
+  </ul>
+
+
+</section><!--//section-->
+{% endif %}

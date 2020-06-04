@@ -1,0 +1,394 @@
+/* ======= Base ======= */
+html {
+    height: 100%;
+}
+
+body {
+    /*
+        'Roboto Slab', serif;
+        'Roboto', sans-serif;
+        'Roboto Mono', monospace;
+    */
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200;
+    color: $text-color-secondary;
+    background: $background-dark;
+    font-size: 14px;
+    padding: 30px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    height: 100%;
+
+    background-image: url(../images/back1.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1, h2, h3, h4, h5, h6  {
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+    color: darken($theme-color, 20%);
+    &:hover {
+        text-decoration: underline;
+        color: darken($theme-color, 80%);
+    }
+    &:focus {
+        text-decoration: none;
+    }
+}
+
+p {
+    line-height: 1.5;
+}
+
+.center-content {
+    align-content: center;
+    text-align: center;
+}
+
+.wrapper {
+    background:$theme-color;
+    max-width: 1000px;
+    margin: 0 auto;
+    position: relative;
+    /*border: 3px solid #f00;*/
+    @include box-shadow(0px 0px 8px 2px rgba(0,0,0,0.4));
+}
+
+.sidebar-wrapper {
+    background: $theme-color;
+    position: absolute;
+    right: 0;
+    width: 280px;
+    height: 100%;
+    min-height: 800px;
+    text-shadow: 1px 1px 2px #333;
+    color: #fff;
+    a {
+        color: #fff;
+    }
+    .profile-container {
+        padding: 30px;
+        //background: darken($theme-color, 10%);
+        background: rgba(0, 0, 0, 0.2);
+        text-align: center;
+        color: #fff;
+    }
+    .name {
+        font-size: 24px;
+        font-weight: 900;
+        margin-top: 0;
+        margin-bottom: 10px;
+    }
+    .tagline {
+        color: rgba(256, 256, 256, 0.6);
+        font-size: 16px;
+        font-weight: 400;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .profile {
+        margin-bottom: 15px;
+    }
+
+    .avatar {
+        //used for profile image
+        max-width: 140px;
+        margin-bottom: 15px;
+        border: 3px solid #fff;
+        border-radius: 100%;
+        box-shadow: 1px 1px 2px #333;
+    }
+    .contact-list {
+        .fas, .fab {
+            margin-right: 5px;
+            font-size: 18px;
+            vertical-align: middle;
+        }
+        li {
+            margin-bottom: 15px;
+            &:last-child {
+                margin-bottom: 0;
+            }
+        }
+    }
+    .container-block {
+        padding: 30px;
+    }
+    .container-block-title {
+        text-transform: uppercase;
+        font-size: 16px;
+        font-weight: 700;
+        margin-top: 0;
+        margin-bottom: 15px;
+    }
+    .degree {
+        font-size: 14px;
+        margin-top: 0;
+        margin-bottom: 5px;
+    }
+    .education-container {
+        .item {
+            margin-bottom: 15px;
+            &:last-child {
+                margin-bottom: 0;
+            }
+        }
+        .meta {
+            color: rgba(256, 256, 256, 0.6);
+            font-weight: 500;
+            margin-bottom: 0px;
+            margin-top: 0;
+        }
+        .time {
+            color: rgba(256, 256, 256, 0.6);
+            font-weight: 500;
+            margin-bottom: 0px;
+        }
+    }
+    .languages-container {
+        .lang-desc {
+            color: rgba(256, 256, 256, 0.6);
+        }
+    }
+
+    .languages-list {
+        margin-bottom: 0;
+        li {
+            margin-bottom: 10px;
+            &:last-child {
+                margin-bottom: 0;
+            }
+        }
+    }
+
+    .interests-list {
+        margin-bottom: 0;
+        li {
+            margin-bottom: 10px;
+            &:last-child {
+                margin-bottom: 0;
+            }
+        }
+    }
+}
+
+.main-wrapper {
+    background: #fff;
+    padding-top: 0px;
+    padding-bottom: 30px;
+    padding-left: 60px;
+    padding-right: 340px;
+    .section-title {
+        text-transform: uppercase;
+        font-size: 20px;
+        font-weight: 500;
+        color: darken($theme-color, 15%);
+        position: relative;
+        margin-top: 0;
+        margin-bottom: 20px;
+    }
+    .section {
+        margin-bottom: 60px;
+    }
+
+    .experiences-section, .educations-section {
+        .item {
+            margin-bottom: 30px;
+        }
+    }
+    .upper-row {
+        position: relative;
+        overflow: hidden;
+        margin-bottom: 2px;
+    }
+    .job-title, .degree {
+        color: $text-color;
+        font-size: 16px;
+        margin-top: 0;
+        margin-bottom: 0;
+        font-weight: 500;
+    }
+    .time {
+        position: absolute;
+        right: 0;
+        top: 0;
+        color: $text-grey;
+    }
+    .company, .university {
+        margin-bottom: 10px;
+        color: $text-grey;
+    }
+
+    .project-title {
+        font-size: 16px;
+        font-weight: 400;
+        margin-top: 0;
+        margin-bottom: 5px;
+    }
+    .projects-section {
+        .intro {
+            margin-bottom: 30px;
+        }
+        .item {
+            margin-bottom: 15px;
+        }
+    }
+    .teaching-subheader{
+        font-size: 16px;
+        color: $text-grey;
+        margin-bottom: 8px;
+        margin-top: 16px;
+    }
+
+    .publication-subheader{
+        font-size: 16px;
+        color: $text-grey;
+        margin-bottom: 8px;
+        margin-top: 16px;
+    }
+    .publication-counter{
+        color: $text-grey;
+    }
+    .publication-title {
+        //font-size: 16px;
+        font-weight: 400;
+        color: $text-color;
+        margin-bottom: 1px;
+    }
+    .publication-authors {
+        font-style: italic;
+        color: $text-color;
+        font-size: small;
+        margin-bottom: 1px;
+        //margin-left: 16px;
+    }
+    .publication-conference {
+        color: $text-color;
+        font-size: small;
+        //margin-left: 16px;
+    }
+    .publications-section {
+        .intro {
+            margin-bottom: 20px;
+        }
+        .item {
+            margin-bottom: 15px;
+        }
+    }
+}
+
+
+.block-text{
+    text-align: justify;
+}
+
+
+.menu {
+    .menu-wrapper {
+        background: #fff; 
+        position: relative;
+        /*border: 3px solid #f00;*/
+        font-size: 16px;
+        /*padding-left: 60px;*/
+        /*padding-right: 340px;*/
+        margin-bottom: 30px;
+        padding-top: 0px;
+        text-align: left;
+        text-shadow: 1px 1px 3px #333;
+    }
+    a {
+        position: relative;
+        background: $theme-color;
+        color: #fff;
+        font-weight: 400;
+        padding-top: 4px;
+        padding-bottom: 4px;
+        margin-right: 1%;
+        margin-bottom: 4px;
+        font-size: 14px;
+        min-width: 100px;
+        width: 24%;
+        text-align: center;
+        text-transform: uppercase;
+        &:hover {
+            color: #fff;
+            text-decoration: none;
+        }
+        &:focus {
+            color: #fff;
+            text-decoration: none;
+        }
+        
+    }
+}
+
+
+.skillset {
+    .item {
+        margin-bottom: 15px;
+        overflow: hidden;
+    }
+    .level-title {
+        font-size: 14px;
+        margin-top: 0;
+        margin-bottom: 12px;
+    }
+    .level-bar {
+        height: 12px;
+        background: $smoky-white;
+    }
+    .level-bar-inner {
+        height: 12px;
+        background: lighten($theme-color, 15%);
+    }
+}
+
+
+
+
+.footer {
+    padding-top: 30px;
+    .copyright {
+        line-height: 1.6;
+        color: #ccc;
+        font-size: 13px;
+    }
+
+    a {
+        color: #ccc;
+        &:hover {
+            color: #fff;
+            text-decoration: underline;
+        }
+        &:focus {
+            color: #fff;
+            text-decoration: none;
+        }
+        
+    }
+
+    .fa-heart {
+        color: $heart;
+    }
+
+}
+
+
+.video-wrapper {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 */
+    padding-top: 25px;
+    height: 0;
+}
+.video-wrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
