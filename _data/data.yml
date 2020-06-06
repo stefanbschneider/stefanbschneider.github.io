@@ -217,19 +217,19 @@ publications:
         authors: "M. Müller, D. Behnke, P. Bök, S. Schneider, M. Peuster, and H. Karl"
         published_in: "IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), 5GSecAI2019 Workshop, Dallas, USA"
         year: 2019
-        link: "https://ris.uni-paderborn.de/record/15375"
+        link: "https://ieeexplore.ieee.org/document/9040133"
         preprint: "https://ris.uni-paderborn.de/record/15375"
       - title: "NFV-driven intrusion detection for smart manufacturing"
         authors: "D. Behnke, M. Müller, P. Bök, S. Schneider, M. Peuster, and H. Karl"
         published_in: "IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), 5GSecAI2019 Workshop, Dallas, USA"
         year: 2019
-        link: "https://ris.uni-paderborn.de/record/15376"
+        link: "https://ieeexplore.ieee.org/document/9039956"
         preprint: "https://ris.uni-paderborn.de/record/15376"
       - title: "Reproducible Functional Tests for Multi-scale Network Services"
         authors: "A. Nuriddinov, W. Tavernier, D. Colle, M. Pickavet, M. Peuster, and S. Schneider"
         published_in: "IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), Dallas, USA"
         year: 2019
-        link: "https://ris.uni-paderborn.de/record/15372" 
+        link: "https://ieeexplore.ieee.org/abstract/document/9039968" 
         preprint: "https://ris.uni-paderborn.de/record/15372" 
       - title: "The Softwarised Network Data Zoo"
         authors: "M. Peuster, S. Schneider, and H. Karl"
@@ -237,11 +237,13 @@ publications:
         year: 2019
         link: "http://dl.ifip.org/db/conf/cnsm/cnsm2019/1570555677.pdf"
         preprint: "https://arxiv.org/abs/1905.04962" 
+        award: "Best Poster Award"
+        award_link: http://www.cnsm-conf.org/2019/awards.html)
       - title: "5G as Key Technology for Networked Factories: Application of Vertical-specific Network Services for Enabling Flexible Smart Manufacturing"
         authors: "M. Müller, D. Behnke, P. Bök, M. Peuster, S. Schneider, and H. Karl"
         published_in: "IEEE Conference on Industrial Informatics (INDIN), Helsinki, Finnland"
         year: 2019
-        link: "https://ris.uni-paderborn.de/record/15369"
+        link: "https://ieeexplore.ieee.org/abstract/document/8972305"
         preprint: "https://ris.uni-paderborn.de/record/15369"
       - title: "Putting 5G into Production: Realizing a Smart Manufacturing Vertical Scenario"
         authors: "S. Schneider, M. Peuster, D. Behnke, M. Müller, P. Bök, and H. Karl"
@@ -315,6 +317,7 @@ publications:
         preprint: "https://www2.tkn.tu-berlin.de/bib/laux2016openc2x/laux2016openc2x.pdf"
       
 
+# TODO: continue updating here
 talks:
     title: Talks and Demonstrations
     intro: ""
