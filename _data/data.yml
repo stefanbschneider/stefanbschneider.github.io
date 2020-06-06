@@ -7,147 +7,152 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Dr. Manuel Peuster
-    tagline: Systems, Cloud, and Networking Researcher
-    avatar: mp2.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Stefan Schneider
+    tagline: Cloud, Networking, and AI Researcher
+    avatar: bio-photo.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: manuel@peuster.de
+    email: stefan.schneider@upb.de
     phone: 
     website: #do not add http://
-    linkedin: peuster
-    xing: Manuel_Peuster
-    github: mpeuster
+    linkedin: stefanbschneider
+    xing:
+    github: stefanbschneider
     gitlab:
     bitbucket:
-    twitter: '@ManuelPeuster'
+    twitter: '@stefan_schn'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    googleschoolar: https://scholar.google.de/citations?user=M39N8Y4AAAAJ&hl=en
+    googleschoolar: https://scholar.google.de/citations?user=7fimejMAAAAJ&hl=en
 
     languages:
       - idiom: German
         level: Native
-
       - idiom: English
         level: Professional
+      - idiom: Spanish
+        level: Intermediate
+      - idiom: Finnish
+        level: Beginner
   
     interests:
       - item: Cloud Computing
         icon: fa-cloud
         link: 
-
       - item: NFV & SDN
         icon: fa-server
         link:
-
-      - item: IoT
-        icon: fa-robot
+      - item: IoT, 5G & Beyond
+        icon: fa-broadcast-tower
         link:
-      
+      - item: Machine Learning
+        icon: fa-brain
+        link:
       - item: Software Architecture
         icon: fa-drafting-compass
         link:
-
       - item: DevOps
         icon: fa-terminal
         link:
 
     hobbies:
-      - item: (Volunteer) Firefighting
-        icon: fa-fire-extinguisher
-        link: https://www.paderborn.de/microsite/feuerwehr/ehrenamt/loeschzuege/Loeschzug-Stadtheide.php
-
-      - item: Cooking
+      - item: Traveling & Languages
+        icon: fa-globe
+        link:
+      - item: Hiking & Running
+        icon: fa-hiking
+        link:
+      - item: Cooking & Eating
         icon: fa-utensils
         link:
-
-      - item: Motorcycling
-        icon: fa-motorcycle
+      - item: Technology & Coding
+        icon: fa-laptop-code
         link:
-
-      - item: Mountain Biking
-        icon: fa-bicycle
-        link:
-
       
 
 career-profile:
     title: Bio
     summary: |
-      Manuel Peuster holds a PhD in computer science from [Paderborn University](https://cs.uni-paderborn.de/en/), Germany. His research interests include network softwarization
-      (NFV/SDN), 5G and next generation networks, Industrial Internet of things (IIoT), as well as
-      benchmarking and performance prediction of distributed systems. He was involved in several publicly-founded [research and innovation projects](projects.html),
-      like [SONATA-NFV](http://sonata-nfv.eu/) and [5GTANGO](https://5gtango.eu/). He is an active contributor to 
-      [OpenSource MANO](https://osm.etsi.org/) and leads several open-source [projects](projects.html), such as [Containernet](https://containernet.github.io/).
-      Manuel has (co-) authored and published more than [40 research papers](publications.html) in international journals and in peer-reviewed conferences and has 
-      more than 15 years of experience as software developer in various areas.
-
-      In his spare time he enjoys riding motorbikes and is an active volunteer firefighter 
-      at the fire department of the city of [Paderborn](https://www.paderborn.de/microsite/feuerwehr/ehrenamt/loeschzuege/Loeschzug-Stadtheide.php) 
-      as well as at the fire department of his hometown [Stadt Waldeck/Nieder-Werbe](http://www.feuerwehr-nieder-werbe.de/) where
-      he also serves as president of the local [fire house's booster club](http://www.feuerwehr-nieder-werbe.de/page/view/static/vorstand).
+      Computer science PhD candidate and researcher at the [Paderborn University](https://cs.uni-paderborn.de/en/), Germany. 
+      Research interests include network softwarization
+      and optimization, cloud computing, 5G and and beyond, as well as
+      machine learning and reinforcement learning. 
+      
+      Always curious and eager to learn and to challenge myself. 
+      Enjoy tackling difficult problems and finding creative solutions.
 
 education:
     - degree: PhD in Computer Science
-      university: Paderborn University
-      time: 2015 - 2020
-      details: |
-        Topic "Enhancing Development and Deployment of Softwarised Network Services"
+      university: Paderborn University, Germany
+      time: 2017 - 2021
+      details: 
   
     - degree: MSc in Computer Science
-      university: Paderborn University
-      time: 2012 - 2014
+      university: Paderborn University, Germany
+      time: 2015 - 2017
       details: |
-        Thesis "An Architecture and Testbed for Energy Efficient On-demand Mobile Network Management", Grade 1.1 with honors
+        Grade: 1.0 with honors
+        Thesis: Specifying, Scaling, Placing, and Reusing Bidirectional Forwarding Graphs of Virtual Network Functions
 
     - degree: BSc in Computer Science
-      university: Paderborn University
-      time: 2008 - 2012
+      university: University of Oklahoma, USA
+      time: 2013
+      details: "Exchange Semester"
+
+    - degree: BSc in Computer Science
+      university: Paderborn University, Germany
+      time: 2011 - 2015
       details: |
-        Thesis "Defining and Deploying Complex Appliances in Multi-Site Cloud Environments", Grade 1.9
+        Grade: 1.3 with honors
+        Thesis: A Heuristic for Capacitated, Hierarchical Resource Location Problems
+        Minor: Psychology
 
 experiences:
     - role: Research Associate
-      time: 2015 - 2020
+      time: 2017 - Present
       company: Paderborn University, Germany
       details: |
-        Research areas: Network function virtualization (NFV), software defined networks (SDN), 5G network architectures and wireless access networks, Industrial Internet of things (IIoT), and benchmarking.
+        Research at the [computer networks group](https://en.cs.uni-paderborn.de/cn/): 
+        Network management and optimization, network softwarization (NFV/SDN), cloud computing, 5G and and beyond, as well as machine learning and reinforcement learning.
 
     - role: Student Research Assistant
+      time: 2015-2016
+      company: Paderborn University, Germany
+      details: |
+        Researching, implementing, and evaluating different protocols for vehicular networking at the [computer and communication systems group](https://www.ccs-labs.org/).
+
+    - role: Student Teaching Assistant
       time: 2012-2014
       company: Paderborn University, Germany
       details: |
-        Worked as a student assistant in several national and international research projects.
-        Developed several research prototypes and simulation frameworks in the areas of cloud computing and mobile networks.
-
-    - role: Software Developer
-      time: 2004 - 2014
-      company: Conpatec Software GbR, Germany
-      details: |
-        Requirements analysis, design, and implementation of software tools for statics calculations of lightweight metal constructions based on the Microsoft .Net Framework.
+        Teaching weekly tutorials on Java fundamentals at the [databases and electronic commerce group](https://cs.uni-paderborn.de/en/ecdb/)
+        and later on systems software at the [computer networks group](https://en.cs.uni-paderborn.de/cn/).
 
 awards:
-  - name: "Best Poster Award"
-    time: 10/2019
-    location: Halifax, Canada
-    details: "15th International Conference on Network and Service Management (CNSM)"
-    link: "http://www.cnsm-conf.org/2019/index.html"
-  - name: "Best Student Paper Award"
-    time: 06/2018
-    location: Montreal, Canada
-    details: 4th IEEE Conference on Network Softwarization (NetSoft)
-    link: "http://netsoft2018.ieee-netsoft.org/"
-  - name: "Outstanding Technical Contributor "
-    time: 10/2017
-    location: Madrid, Spain
-    details: European Telecommunication Standards Institute (ETSI) OpenSource MANO (OSM)
-    link: "https://osm.etsi.org/news-events/osm-awards"
-  - name: "Best Demo Award"
-    time: 06/2017
-    location: Bologna, Italy
-    details: 3rd IEEE Conference on Network Softwarization (NetSoft)
+  - name: "Software Campus: Funding & Training for Future IT-Leaders"
+    time: July 2018
+    details: Accepted at Software Campus with 100K grant to lead my own 2-year research project
+    link: "https://softwarecampus.de/en/"
+  - name: "Distinguished Student 2016"
+    time: September 2018
+    details: "At the [computer and communication systems group](https://www.ccs-labs.org/), Paderborn University"
+  - name: "Scholarship by the German Academic Scholarship Foundation"
+    time: February 2016
+    details: Germany's oldest and most prestigious scholarship foundation
+    link: "https://www.studienstiftung.de/en/leitbild/"
+  - name: "German National Scholarship"
+    time: September 2015
+    details: "National scholarship awarded to less than 1% of students in Germany"
+    link: "https://www.studienfonds-owl.de/en/scholarships/deutschlandstipendium/"
+  - name: CS Scholarship at Paderborn University
+    time: August 2015
+    details: "Paderborn University's computer science scholarship incl. conference grants"
+    link: https://cs.uni-paderborn.de/en/studies/kosten-und-finanzierung/prisma
+  - name: Award by the German Mathematics Association
+    time: June 2011
+    details: "Award for outstanding performance in math (best of my year)"
+    link: https://www.mathematik.de/abiturpreis
 
 projects:
     title: Research and Innovation Projects
@@ -159,47 +164,22 @@ projects:
         details: '"5G development and validation platform for global industry-specific network services and apps"'
         founding: European, Horzion 2020
         time: 2017 - 2020
-      - title: "SONATA NFV"
-        link: "http://sonata-nfv.eu/"
-        details: '"Agile service development and orchestration in 5G virtualized networks"'
-        founding: European, Horzion 2020
-        time: 2015 - 2017
-      - title: "GreenTouch"
-        link: "http://www.greentouch.org/"
-        details: '"Mission to deliver the architecture, specifications, and roadmap to increase network energy efficiency by a factor of 1000 compared to 2010 levels"'
-        founding: ICT industry consortium
-        time: 2014 - 2015
-      - title: "Communicate Green"
-        link: "http://www.communicate-green.de/"
-        details: '"Implementing an adaptive, context-aware and technology-comprehensive power management in radio networks"'
-        founding: BMWi
-        time: 2013 - 2014
-      - title: "SAIL"
-        link: "https://sail-project.eu"
-        details: '"Research and development of novel networking technologies using proof-of-concept prototypes to lead the way to the network of the future"'
-        founding: European, FP7
-        time: 2012 - 2013
 
-opensourceprojects:
-    title: Open-Source Projects
-    intro: I am involved into the following open-source projects.
+# opensourceprojects:
+    # title: Open-Source Projects
+    # intro: I am involved into the following open-source projects.
 
-    assignments:
-      - title: "The Softwarized Network Data Zoo (SNDZoo)"
-        link: "https://sndzoo.github.io/"
-        details: "Founder and lead developer of the SNDZoo project, a collection of open data sets to support machine learning research in the NFV and SDN domain."
-        founding:
-        time: 2015 - now
-      - title: "Open Source MANO (OSM)"
-        link: "https://osm.etsi.org"
-        details: "Contributor to the OSM project and lead developer of its emulator platform. OSM is an European Telecommunication Standards Institute (ETSI) project developing an open-source management and orchestration (MANO) system."
-        founding:
-        time: 2017 - now
-      - title: "Containernet"
-        link: "https://containernet.github.io/"
-        details: "Founder and lead developer of Containernet, a fork of Mininet that allows to use Docker containers as part of complex network emulations."
-        founding:
-        time: 2015 - now
+    # assignments:
+      # - title: "The Softwarized Network Data Zoo (SNDZoo)"
+        # link: "https://sndzoo.github.io/"
+        # details: "Founder and lead developer of the SNDZoo project, a collection of open data sets to support machine learning research in the NFV and SDN domain."
+        # founding:
+        # time: 2015 - now
+      # - title: "Open Source MANO (OSM)"
+        # link: "https://osm.etsi.org"
+        # details: "Contributor to the OSM project and lead developer of its emulator platform. OSM is an European Telecommunication Standards Institute (ETSI) project developing an open-source management and orchestration (MANO) system."
+        # founding:
+        # time: 2017 - now
 
 publications:
     title: Publications
@@ -556,26 +536,26 @@ reviews:
   - title: "Computer Communications Journal (Elsevier)"
     year: 2019
 
-skills:
-    title: Skills &amp; Technologies
+# skills:
+    # title: Skills &amp; Technologies
 
-    toolset:
-      - name: Programming (Python, C, C++, C#, ...)
-        level: 95%
+    # toolset:
+      # - name: Programming (Python, C, C++, C#, ...)
+        # level: 95%
 
-      - name: Software Architecture
-        level: 90%
+      # - name: Software Architecture
+        # level: 90%
 
-      - name: DevOps & Automation
-        level: 80%
+      # - name: DevOps & Automation
+        # level: 80%
 
-      - name: Container Tech. (Docker, Kubernets)
-        level: 80%
+      # - name: Container Tech. (Docker, Kubernets)
+        # level: 80%
 
-      - name: Cloud Stacks (OpenStack, AWS, Azure)
-        level: 75%
+      # - name: Cloud Stacks (OpenStack, AWS, Azure)
+        # level: 75%
 
-      - name: Project Management
-        level: 70%
+      # - name: Project Management
+        # level: 70%
 
 
