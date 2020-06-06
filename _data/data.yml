@@ -190,7 +190,43 @@ publications:
 
     papers:
       - title: "Machine Learning for Dynamic Resource Allocation in Network Function Virtualization"
-        authors: "
+        authors: "S. Schneider, N. P. Satheeschandran, M. Peuster, and H. Karl"
+        published_in: "IEEE Conference on Network Softwarization (NetSoft)"
+        year: 2020
+        link: "https://ris.uni-paderborn.de/record/16219"
+        preprint: "https://ris.uni-paderborn.de/record/16219"
+      - title: "Benchmarking and Profiling 5G Verticals' Applications: an Industrial IoT Use Case"
+        authors: "A. Zafeiropoulos , E. Fotopoulou, M. Peuster, S. Schneider, P. Gouvas, D. Behnke, M. Müller, P. Bök, P. Trakadas, P. Karkazis, and H. Karl"
+        published_in: "IEEE Conference on Network Softwarization (NetSoft)"
+        year: 2020
+        link: "https://ris.uni-paderborn.de/record/16222"
+        preprint: "https://ris.uni-paderborn.de/record/16222"
+      - title: "Cloud-Native Threat Detection and Containment for Smart Manufacturing"
+        authors: "M. Müller, D. Behnke, P. Bök, S. Schneider, M. Peuster, and H. Karl"
+        published_in: "IEEE Conference on Network Softwarization (NetSoft) Demo Track"
+        year: 2020
+        link:
+        preprint:
+      - title: "Producing Cloud-Native: Smart Manufacturing Use Cases on Kubernetes"
+        authors: "S. Schneider, M. Peuster, K. Hannemann, D. Behnke, M. Müller, P. Bök, and H. Karl"
+        published_in: "IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), Demo Track, Dallas, USA"
+        year: 2019
+        link: "https://ris.uni-paderborn.de/record/13292"
+        preprint: "https://ris.uni-paderborn.de/record/13292"
+      - title: "Putting NFV into Reality: Physical Smart Manufacturing Testbed"
+        authors: "M. Müller, D. Behnke, P. Bök, S. Schneider, M. Peuster, and H. Karl"
+        published_in: "IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), 5GSecAI2019 Workshop, Dallas, USA"
+        year: 2019
+        link: "https://ris.uni-paderborn.de/record/15375"
+        preprint: "https://ris.uni-paderborn.de/record/15375"
+      - title: "NFV-driven intrusion detection for smart manufacturing"
+        authors: "D. Behnke, M. Müller, P. Bök, S. Schneider, M. Peuster, and H. Karl"
+        published_in: "IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), 5GSecAI2019 Workshop, Dallas, USA"
+        year: 2019
+        link: "https://ris.uni-paderborn.de/record/15376"
+        preprint: "https://ris.uni-paderborn.de/record/15376"
+        
+        
       - title: "Introducing Automated Verification and Validation for Virtualized Network Functions and Services"
         authors: "Peuster, M., Schneider, S., Zhao, M., Xilouris, G., Trakadas, P., Vicens, F., Tavernier, W., Soenen, T., Vilalta, R., Andreou, G.,  Kyriazis, D."
         published_in: "IEEE Communications Magazine, 57(5), pp.96-102. IEEE"
@@ -253,36 +289,8 @@ publications:
         published_in: "In IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), Dallas, USA. IEEE"
         year: 2019
         link: "https://ris.uni-paderborn.de/record/15372"
-      - title: "Putting NFV into Reality: Physical Smart Manufacturing Testbed"
-        authors: "Müller M., Behnke D., Bök P-B., Schneider S., Peuster M., Karl H."
-        published_in: "In IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), 5GSecAI2019 Workshop, Dallas, USA. IEEE"
-        year: 2019
-        link: "https://ris.uni-paderborn.de/record/15375"
-      - title: "NFV-driven intrusion detection for smart manufacturing"
-        authors: "Behnke D., Müller M., Bök P-B., Schneider S., Peuster M., Karl H., Rocha A., Mesquita M., Bonnet J."
-        published_in: "In IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), 5GSecAI2019 Workshop, Dallas, USA. IEEE"
-        year: 2019
-        link: "https://ris.uni-paderborn.de/record/15376"
-      - title: "Producing Cloud-Native: Smart Manufacturing Use Cases on Kubernetes"
-        authors: "Schneider S., Peuster M., Hannemann K., Behnke D., Müller M., Bök P-B., Karl H."
-        published_in: "In IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), Demo, Dallas, USA. IEEE"
-        year: 2019
-        link: "https://ris.uni-paderborn.de/record/13292"
-      - title: "Benchmarking and Profiling 5G Verticals' Applications: an Industrial IoT Use Case"
-        authors: "Zafeiropoulos A., Fotopoulou E., Peuster M., Schneider S., Gouvas P., Behnke D., Müller M. Bök P-B., Trakadas P., Karkazis P., Karl H."
-        published_in: "In IEEE Conference on Network Softwarization (NetSoft), Ghent, Belgium. IEEE"
-        year: 2020
-        link: "https://ris.uni-paderborn.de/record/16222"
-      - title: "Machine Learning for Dynamic Resource Allocation in Network Function Virtualization"
-        authors: "Schneider S., Satheeschandran NP., Peuster M., Karl H."
-        published_in: "In IEEE Conference on Network Softwarization (NetSoft), Ghent, Belgium. IEEE"
-        year: 2020
-        link: "https://ris.uni-paderborn.de/record/16219"
-      - title: "Cloud-Native Threat Detection and Containment for Smart Manufacturing"
-        authors: "Müller M., Behnke D., Bök P-B., Schneider S., Peuster M., Karl H."
-        published_in: "In IEEE Conference on Network Softwarization (NetSoft), Demo, Ghent, Belgium. IEEE"
-        year: 2020
-        link: ""
+      
+      
 
 talks:
     title: Talks and Demonstrations
