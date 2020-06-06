@@ -1,5 +1,3 @@
-{% assign reviews = site.data.data.reviews %}
-{% if reviews %}
 <section class="section publications-section">
 
   <h2 class="section-title">
@@ -7,19 +5,41 @@
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-search fa-stack-1x fa-inverse"></i>
     </span>
-    Reviews
+    Service
   </h2>
 
+
+  {% assign orga = site.data.data.organization %}
+  {% if orga %}
+  <h3 class="subsection-title">Organized Events</h3>
   <div class="intro">
-    I served as a reviewer for the following international journals and conferences:
+    I helped organizing the following conferences and workshops:
+  </div><!--//intro-->
+
+  <ul>
+  {% for org in orga %}
+    <li>{{ org.year }}: {{ org.role }} at 
+		<a href="{{ org.link }}" target="_blank">{{ org.event }}</a>
+	</li>
+  {% endfor %}
+  </ul>
+  {% endif %}
+
+
+  {% assign reviews = site.data.data.reviews %}
+  {% if reviews %}
+  <h3 class="subsection-title">Reviews</h3>
+  <div class="intro">
+    I served as a reviewer for the following international journals:
   </div><!--//intro-->
 
   <ul>
   {% for review in reviews %}
-    <li>{{ review.year }} - {{ review.title }}</li>
+    <li>{{ review.year }}: {{ review.title }}</li>
   {% endfor %}
   </ul>
+  {% endif %}
 
 
 </section><!--//section-->
-{% endif %}
+

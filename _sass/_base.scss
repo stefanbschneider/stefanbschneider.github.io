@@ -192,6 +192,14 @@ p {
         margin-top: 0;
         margin-bottom: 20px;
     }
+	.subsection-title {
+		font-size: 16px;
+		font-weight: 400;
+		color: darken($theme-color, 15%);
+        position: relative;
+        margin-top: 10px;
+        margin-bottom: 5px;
+	}
     .section {
         margin-bottom: 60px;
     }

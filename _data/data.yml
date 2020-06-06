@@ -345,19 +345,35 @@ publications:
       
 
 
+
 talks:
+    # currently not used
     title: Talks and Demonstrations
     intro: ""
-
     assignments:
+    # This is manuels
       - title: "Paper presentation: BCG2 architecture"
         link: "https://conferences.sigcomm.org/sigcomm/2015/atc.php"
         location: "ATC workshop, ACM SIGCOMM, London, GB"
         date: 08/2015
 
 reviews:
-  - title: "European Workshop on Software Defined Networks (EWSDN)"
-    year: 2015
+  - title: "Elsevier Computer Communications"
+    year: 2020
+  - title: "Elsevier Computer Networks"
+    year: 2020
+  - title: "IEEE Communication Letters"
+    year: 2019
+    
+organization:
+  - event: Workshop on Machine Learning & Networking (FG MLN)
+    link: https://mlkuvs.lkn.ei.tum.de/
+    role: Co-Chair
+    year: 2020
+  - event: ACM International Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc)
+    link: https://www.sigmobile.org/mobihoc/2016/
+    role: Student Volunteer
+    year: 2016
 
 # skills:
     # title: Skills &amp; Technologies
