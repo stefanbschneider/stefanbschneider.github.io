@@ -16,17 +16,28 @@
   </div><!--//intro-->
   {% endif %}
 
-  {% for project in projects.assignments %}
+  {% for project in projects.projects %}
   <div class="item">
 
     <div class="meta">
 
       <div class="upper-row">
-        <h3 class="job-title"><a href="{{ project.link }}" target="_balnk">{{ project.title }}</a></h3>
-        <div class="time">{{ project.founding }}</div>
+        <h3 class="job-title"><a href="{{ project.link }}" target="_blank">{{ project.title }}</a></h3>
+        
       </div><!--//upper-row-->
 
-      <div class="company">{{ project.time }}</div>
+	  <div class="project-time">{{ project.time }}
+      <span class="project-funding">
+		{% if project.funding_link %}
+		<a href="{{ project.funding_link }}" target="_blank">
+			{{ project.funding }}
+		</a>
+		{% else %}
+		{{ project.funding }}
+		{% endif %}
+		</span>
+	  </div>
+	  
 
     </div><!--//meta-->
 
@@ -35,6 +46,12 @@
       {{ project.details | markdownify }}
     </div><!--//details-->
     {% endif %}
+	
+	{% if project.technology %}
+	<i class="fas fa-cogs">
+		<span class="project-tech">{{ project.technology }}</span>
+	</i>
+	{% endif %}
 
   </div><!--//item-->
   {% endfor %}

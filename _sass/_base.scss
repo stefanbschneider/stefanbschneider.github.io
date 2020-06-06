@@ -19,7 +19,7 @@ body {
     -moz-osx-font-smoothing: grayscale;
     height: 100%;
 
-    background-image: url(../images/back1.jpg);
+    //background-image: url(../images/back1.jpg);
     background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
@@ -238,6 +238,23 @@ p {
             margin-bottom: 15px;
         }
     }
+	.project-time {
+		color: $text-grey;
+		text-align: left;
+		margin-top: 5px;
+		margin-bottom: 5px;
+	}
+	.project-funding {
+		color: $text-grey;
+		float: right;
+	}
+	
+	.project-tech {
+		font-family: 'Roboto', sans-serif;
+		font-weight: 200;
+		margin-bottom: 15px;
+	}
+	
     .teaching-subheader{
         font-size: 16px;
         color: $text-grey;

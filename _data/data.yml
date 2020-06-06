@@ -158,14 +158,41 @@ awards:
 
 projects:
     title: Research and Innovation Projects
-    intro: I was involved in the following research and innovation projects.
+    intro:
+    # TODO: can I list my current Huawei project here? Or is it under NDA? What can I write/say about it?
 
-    assignments:
-      - title: "5GTANGO"
+    projects:
+      - title: "RealVNF: Improved Coordination of Chained VNFs Under Realistic Conditions"
+        link: https://realvnf.github.io/
+        funding: Software Campus, BMBF
+        funding_link: https://softwarecampus.de/en/
+        time: 2018 - 2021
+        details: |
+          My own research project focusing on self-learning network management through machine learning.
+          - Planned, applied for, and received 100K grant to launch my own IT research project
+          - Recruited and leading 4 student assistants & collaborating with researchers from Huawei
+          - Combining networking and machine learning to tackle real-world problems
+        technology: Leadership, Network Management, 5G and Beyond, Machine Learning, Reinforcement Learning, Tensorflow, Keras, OpenAI Gym, Python
+      - title: "5GTANGO: 5G Development and Validation Platform for Global Industry-Specific Network Services and Apps"
         link: "https://5gtango.eu/"
-        details: '"5G development and validation platform for global industry-specific network services and apps"'
-        founding: European, Horzion 2020
+        funding: European Project, Horzion 2020
         time: 2017 - 2020
+        details: |
+          Innovation action with 18 European partners from industry and academia.
+          - Designed and developed cloud-native smart manufacturing scenario and deployed it on Kubernetes
+          - Implemented various tools to simplify and accelerate 5G service development
+        technology: 5G, IoT, NFV, Kubernetes, Docker, DevOps, Python
+      - title: "OpenC2X: Open Source Experimental and Prototyping Platform Supporting ETSI ITS-G5"
+        link: "https://www.ccs-labs.org/software/openc2x/"
+        funding: Graduate Student Project
+        time: 2015 - 2016
+        details: |
+          Design and development of a prototyping platform congestion control and messaging of an ETSI ITS vehicular networking stack.
+          Publication and presentation of results and live demo at the 2016 IEEE Vehicular Networking Conference.
+        technology: Vehicular Networking, C++, ZMQ Messaging, Linux
+        
+  # Todo: bigger spacing between projects. Add project logos?
+  # TODO: personal projects
 
 # opensourceprojects:
     # title: Open-Source Projects
@@ -317,7 +344,7 @@ publications:
         preprint: "https://www2.tkn.tu-berlin.de/bib/laux2016openc2x/laux2016openc2x.pdf"
       
 
-# TODO: continue updating here
+
 talks:
     title: Talks and Demonstrations
     intro: ""
@@ -327,96 +354,10 @@ talks:
         link: "https://conferences.sigcomm.org/sigcomm/2015/atc.php"
         location: "ATC workshop, ACM SIGCOMM, London, GB"
         date: 08/2015
-      - title: "Project demonstration: BCG2"
-        location: "GreenTouch final event, New York, US"
-        date: 06/2015
-      - title: "Project presentation: SONATA NFV"
-        location: "NFV Workshop, Leibniz University Hannover, DE"
-        date: 10/2015
-      - title: "Technology demonstration: BCG2"
-        location: "IEEE INFOCOM, San Francisco, US"
-        date: 04/2016
-        link: "https://infocom2016.ieee-infocom.org/"
-      - title: "Paper presentation: E-State"
-        location: "IEEE NetSoft, Seoul, KR"
-        date: 06/2016
-        link: "http://sites.ieee.org/netsoft-2016/"
-      - title: "Paper presentation: NFV profiling"
-        location: "EWSDN, The Hague, NL"
-        date: 10/2016
-        link: "https://www.ewsdn.eu/"
-      - title: "SONATA SDK: Rapid prototyping of network services"
-        location: "SDN World Congress, The Hague, NL"
-        date: 10/2016
-        link: "https://www.youtube.com/watch?v=ncj2llNZ6qg"
-      - title: "Paper presentation: MeDICINE (now: vim-emu)"
-        location: "IEEE NFV-SDN, Palo Alto, US"
-        date: 11/2016
-        link: "http://nfvsdn2016.ieee-nfvsdn.org/"
-      - title: "Technology demonstration: vim-emu"
-        location: "IEEE NetSoft, Bologna, IT"
-        date: 07/2017
-        link: "http://sites.ieee.org/netsoft-2017/"
-      - title: "Paper presentation: SFC profiling"
-        location: "IEEE NFV-SDN, Berlin, DE"
-        date: 11/2017
-        link: "http://nfvsdn2017.ieee-nfvsdn.org/"
-      - title: "Paper presentation: MANO smoke testing"
-        location: "EuCNC, Ljubljana, SI"
-        date: 06/2018
-        link: "https://www.eucnc.eu/2018/www.eucnc.eu/index.html"
-      - title: "Paper presentation: SHarP"
-        location: "IEEE NetSoft, Montreal, CA"
-        date: 06/2018
-        link: "http://netsoft2018.ieee-netsoft.org/"
-      - title: "Paper presentation: T-CP"
-        location: "IEEE/IFIP CNSM, Rom, IT"
-        date: 11/2018
-        link: http://cnsm-conf.org/2018/
-      - title: "Draft presentation: VNF benchmarking methodology"
-        location: "IETF 104, Prague, CZ"
-        date: 03/2019
-        link: "https://datatracker.ietf.org/meeting/104/session/bmwg"
-      - title: "Technology demonstration: 5GTANGO IIoT pilot"
-        location: "IEEE NetSoft, Paris, FR"
-        date: 06/2019
-        link: "https://netsoft2019.ieee-netsoft.org/"
-      - title: "Poster/paper presentation: Softwareized Network Data Zoo"
-        location: "IEEE/IFIP CNSM, Halifax, CA"
-        date: 10/2019
-        link: "http://www.cnsm-conf.org/2019/poster-sessions.html"
 
 reviews:
   - title: "European Workshop on Software Defined Networks (EWSDN)"
     year: 2015
-  - title: "IEEE Journal on Selected Areas in Communications (JSAC)"
-    year: 2015
-  - title: "IEEE Conference on Network Softwarization (NetSoft)"
-    year: 2015
-  - title: "IEEE International Conference on Sensing, Communication, and Netowrking (SECON)"
-    year: 2015
-  - title: "IEEE Transactions on Mobile Computing (TMC)"
-    year: 2015
-  - title: "IEEE Wireless Communications and Networking Conference (WCNC)"
-    year: 2015
-  - title: "IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM)"
-    year: 2015
-  - title: "IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN)"
-    year: 2016
-  - title: "Workshop on Software-Driven Flexible and Agile Networking (INFOCOM Workshops)"
-    year: 2016
-  - title: "IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN)"
-    year: 2017
-  - title: "IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN)"
-    year: 2018
-  - title: "Advances in Science, Technology and Engineering Systems Journal (ASTESJ)"
-    year: 2019
-  - title: "IEEE Communications Standards Magazine"
-    year: 2019
-  - title: "IEEE Communications Magazine"
-    year: 2019
-  - title: "Computer Communications Journal (Elsevier)"
-    year: 2019
 
 # skills:
     # title: Skills &amp; Technologies

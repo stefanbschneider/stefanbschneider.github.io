@@ -21,3 +21,4 @@ Open: [http://127.0.0.1:4000/](http://127.0.0.1:4000/)
 * `_config.yml`
 * Add data to `data/_data.yml`
 * Change style in `_sass/_base.scss`
+  * Background image: Under body/background image inside the scss file
