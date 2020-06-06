@@ -15,8 +15,23 @@
     {{ publications.intro | markdownify }}
   </div><!--//intro-->
   {% endif %}
+  
+  
+  {% assign i = 0 %}
+  {% for publication in publications.papers %}
+  {% assign i = i | plus:1 %}
+  <div class="item">
+    <div class="publication-title"><span class="publication-counter">[{{ i }}]</span> <a href="{{ publication.link }}" target="_blank">{{ publication.title }}</a></div>
+    <div class="publication-authors">{{ publication.authors }}</div>
+    <div class="publication-conference">{{ publication.published_in }}, {{ publication.year }}
+        {% if publication.preprint %}
+        [<a href="{{ publication.preprint }}" target="_blank">preprint</a>]
+        {% endif %}
+    </div>
+  </div><!--//item-->
+  {% endfor %}
 
-  <div class="publication-subheader">Publications in International Journals:</div>
+  <!-- <div class="publication-subheader">Publications in International Journals:</div>
 
   {% assign i = 0 %}
   {% for publication in publications.journals %}
@@ -29,7 +44,7 @@
         [<a href="{{ publication.preprint }}" target="_blank">preprint</a>]
         {% endif %}
     </div>
-  </div><!--//item-->
+  </div>
   {% endfor %}
   
   <div class="publication-subheader">Peer-reviewed Conference Publications:</div>
@@ -45,8 +60,8 @@
         [<a href="{{ publication.preprint }}" target="_blank">preprint</a>]
         {% endif %}
     </div>
-  </div><!--//item-->
-  {% endfor %}
+  </div>
+  {% endfor %} -->
 
 </section><!--//section-->
 {% endif %}

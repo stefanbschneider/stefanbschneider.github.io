@@ -57,6 +57,9 @@ sidebar:
         link:
 
     hobbies:
+      - item: Technology & Coding
+        icon: fa-laptop-code
+        link:
       - item: Traveling & Languages
         icon: fa-globe
         link:
@@ -65,9 +68,6 @@ sidebar:
         link:
       - item: Cooking & Eating
         icon: fa-utensils
-        link:
-      - item: Technology & Coding
-        icon: fa-laptop-code
         link:
       
 
@@ -130,6 +130,8 @@ experiences:
         and later on systems software at the [computer networks group](https://en.cs.uni-paderborn.de/cn/).
 
 awards:
+  title: "Honors & Awards"
+  awards:
   - name: "Software Campus: Funding & Training for Future IT-Leaders"
     time: July 2018
     details: Accepted at Software Campus with 100K grant to lead my own 2-year research project
@@ -184,181 +186,45 @@ projects:
 publications:
     title: Publications
     intro: |
-      I have authored and co-authored more than 40 research papers in international journals as well as in peer-reviewed conferences. You can find the full list of my publications on my [Google Scholar profile](https://scholar.google.de/citations?user=M39N8Y4AAAAJ&hl=en).
+      I have authored and co-authored more than 20 research papers in international, peer-reviewed journals or conferences. A full list of my publications and citations is on [Google Scholar](https://scholar.google.de/citations?user=7fimejMAAAAJ&hl=en).
 
-    journals:
-      - title: "DevOps for Network Function Virtualisation: An Architectural Approach"
-        authors: "Karl, H., Dräxler, S., Peuster, M., Galis, A., Bredel, M., Ramos, A., Martrat, J., Siddiqui, M.S., Van Rossem, S., Tavernier, W. and Xilouris, G."
-        published_in: "Transactions on Emerging Telecommunications Technologies, 27(9), pp.1206-1215"
-        year: 2016
-        link: "https://doi.org/10.1002/ett.3084"
-      - title: "Joint testing and profiling of microservice-based network services using TTCN-3"
-        authors: "Peuster, M., Dröge, C., Boos, C. and Karl, H."
-        published_in: "ICT Express, 5(2), pp.150-153. ScienceDirect"
-        year: 2019
-        preprint: "https://ris.uni-paderborn.de/record/8113"
-        link: "https://doi.org/10.1016/j.icte.2019.02.001"
-      - title: "A flow handover protocol to support state migration in softwarized networks"
-        authors: "Peuster, M., Küttner, H. and Karl, H."
-        published_in: "International Journal of Network Management, p.e2067. Wiley"
-        year: 2019
-        preprint: "https://ris.uni-paderborn.de/record/8795"
-        link: "https://doi.org/10.1002/nem.2067"
-      - title: "Empowering Network Service Developers: Enhanced NFV DevOps and Programmable MANO"
-        authors: "Soenen, T., Tavernier, W., Peuster, M., Vicens, F., Xilouris, G., Kolometsos, S., Kourtis, M.A. and Colle, D."
-        published_in: "IEEE Communications Magazine, 57(5), pp.89-95. IEEE"
-        year: 2019
-        link: "https://doi.org/10.1109/MCOM.2019.1800810"
+    papers:
+      - title: "Machine Learning for Dynamic Resource Allocation in Network Function Virtualization"
+        authors: "
       - title: "Introducing Automated Verification and Validation for Virtualized Network Functions and Services"
-        authors: "Peuster, M., Schneider, S., Zhao, M., Xilouris, G., Trakadas, P., Vicens, F., Tavernier, W., Soenen, T., Vilalta, R., Andreou, G. and Kyriazis, D."
+        authors: "Peuster, M., Schneider, S., Zhao, M., Xilouris, G., Trakadas, P., Vicens, F., Tavernier, W., Soenen, T., Vilalta, R., Andreou, G.,  Kyriazis, D."
         published_in: "IEEE Communications Magazine, 57(5), pp.96-102. IEEE"
         year: 2019
         link: "https://doi.org/10.1109/MCOM.2019.1800873"
         preprint: "https://ris.uni-paderborn.de/record/9824"
-      - title: "Automated testing of NFV orchestrators against carrier-grade multi-PoP scenarios using emulation-based smoke testing"
-        authors: "Peuster, M., Marchetti, M., de Blas, G.G. and Karl, H."
-        published_in: "EURASIP Journal on Wireless Communications and Networking, 2019(1), p.172. Springer"
-        year: 2019
-        link: "https://doi.org/10.1186/s13638-019-1493-2"
-
-    conferences:
-      - title: "A Topology-Aware Adaptive Deployment Framework for Elastic Applications"
-        authors: "Keller, M., Peuster, M., Robbert, C. and Karl, H."
-        published_in: "In 17th International Conference on Intelligence in Next Generation Networks (ICIN) (pp. 61-69). IEEE"
-        year: 2013
-        link: "https://doi.org/10.1109/ICIN.2013.6670895"
-      - title: "An Evaluation Testbed for Adaptive, Topology-Aware Deployment of Elastic Applications"
-        authors: "Keller, M., Robbert, C. and Peuster, M."
-        published_in: "In ACM SIGCOMM Computer Communication Review (Vol. 43, No. 4, pp. 469-470). ACM"
-        year: 2013
-        link: "https://doi.org/10.1145/2534169.2491689"
-      - title: "An Architecture for Energy-aware On-demand Mobile Network Management"
-        authors: "Peuster, M. and Karl, H."
-        published_in: "In Proceedings of the 5th Workshop on All Things Cellular: Operations, Applications and Challenges (pp. 25-30). ACM"
-        year: 2015
-        link: "https://doi.org/10.1145/2785971.2785973"
-        preprint: "https://ris.uni-paderborn.de/record/986"
-      - title: "Demonstrating on-demand cell switching with a two-layer mobile network testbed"
-        authors: "Peuster, M., Karl, H., Redondi, A.E. and Capone, A."
-        published_in: "In IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS) (pp. 1015-1016). IEEE"
-        year: 2016
-        link: "https://doi.org/10.1109/INFCOMW.2016.7562232"
-        preprint: "https://ris.uni-paderborn.de/record/731"
-      - title: "E-State: Distributed state management in elastic network function deployments"
-        authors: "Peuster, M. and Karl, H."
-        published_in: "In IEEE NetSoft Conference and Workshops (NetSoft) (pp. 6-10). IEEE"
-        year: 2016
-        link: "https://doi.org/10.1109/NETSOFT.2016.7502432"
-        preprint: "https://ris.uni-paderborn.de/record/732"
-      - title: "MeDICINE: Rapid prototyping of production-ready network services in multi-PoP environments"
-        authors: "Peuster, M., Karl, H. and Van Rossem, S."
-        published_in: "In IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN) (pp. 148-153). IEEE"
-        year: 2016
-        link: "https://doi.org/10.1109/NFV-SDN.2016.7919490"
-        preprint: "https://ris.uni-paderborn.de/record/738"
-      - title: "Monitoring and debugging using an SDK for NFV-powered telecom applications"
-        authors: "Van Rossem, S., Tavernier, W., Peuster, M., Colle, D., Pickavet, M. and Demeester, P."
-        published_in: "In IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN) (pp. 1-5). IEEE"
-        year: 2016
-        link: "https://biblio.ugent.be/publication/8521281/file/8521284.pdf"
-        preprint: "https://ris.uni-paderborn.de/record/985"
-      - title: "Understand Your Chains: Towards Performance Profile-Based Network Service Management"
-        authors: "Peuster, M. and Karl, H."
-        published_in: "In Fifth European Workshop on Software-Defined Networks (EWSDN) (pp. 7-12). IEEE"
-        year: 2016
-        link: "https://doi.org/10.1109/EWSDN.2016.9"
-        preprint: "https://ris.uni-paderborn.de/record/730"
-      - title: "SONATA: Service programming and orchestration for virtualized software networks"
-        authors: "Dräxler, S., Karl, H., Peuster, M., Kouchaksaraei, H.R., Bredel, M., Lessmann, J., Soenen, T., Tavernier, W., Mendel-Brin, S. and Xilouris, G."
-        published_in: "In IEEE International Conference on Communications Workshops (ICC Workshops) (pp. 973-978). IEEE"
-        year: 2017
-        link: "https://doi.org/10.1109/ICCW.2017.7962785"
-        preprint: "https://ris.uni-paderborn.de/record/717"
-      - title: "A flexible multi-pop infrastructure emulator for carrier-grade MANO systems"
-        authors: "Peuster, M., Draxler, S., Kouchaksaraei, H.R., Rossem, S.V., Tavernier, W. and Karl, H."
-        published_in: "In IEEE Conference on Network Softwarization (NetSoft) (pp. 1-3). IEEE"
-        year: 2017
-        link: "https://doi.org/10.1109/NETSOFT.2017.8004250"
-        preprint: "https://ris.uni-paderborn.de/record/723"
-      - title: "Profile your chains, not functions: Automated network service profiling in DevOps environments"
-        authors: "Peuster, M. and Karl, H."
-        published_in: "In IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN) (pp. 1-6). IEEE"
-        year: 2017
-        link: "https://doi.org/10.1109/NFV-SDN.2017.8169826"
-        preprint: "https://ris.uni-paderborn.de/record/981"
-      - title: "A network service development kit supporting the end-to-end lifecycle of NFV-based telecom services"
-        authors: "Van Rossem, S., Peuster, M., Conceição, L., Kouchaksaraei, H.R., Tavernier, W., Colle, D., Pickavet, M. and Demeester, P."
-        published_in: "In IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN) (pp. 1-2). IEEE"
-        year: 2017
-        link: "https://doi.org/10.1109/NFV-SDN.2017.8169859"
       - title: "Verification and validation framework for 5G network services and apps"
-        authors: "Zhao, M., Le Gall, F., Cousin, P., Vilalta, R., Muñoz, R., Castro, S., Peuster, M., Schneider, S., Siapera, M., Kapassa, E. and Kyriazis, D."
+        authors: "Zhao, M., Le Gall, F., Cousin, P., Vilalta, R., Muñoz, R., Castro, S., Peuster, M., Schneider, S., Siapera, M., Kapassa, E.,  Kyriazis, D."
         published_in: "In IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN) (pp. 321-326). IEEE"
         year: 2017
         link: "https://doi.org/10.1109/NFV-SDN.2017.8169878"
-      - title: "Generating Resource and Performance Models for Service Function Chains: The Video Streaming Case"
-        authors: "Dräxler, S., Peuster, M., Illian, M. and Karl, H."
-        published_in: "In 4th IEEE Conference on Network Softwarization and Workshops (NetSoft) (pp. 318-322). IEEE"
-        year: 2018
-        link: "https://doi.org/10.1109/NETSOFT.2018.8460029"
-        preprint: "https://ris.uni-paderborn.de/record/2480"
-      - title: "Let the state follow its flows: An SDN-based flow handover protocol to support state migration"
-        authors: "Peuster, M., Küttner, H. and Karl, H."
-        published_in: "In 4th IEEE Conference on Network Softwarization and Workshops (NetSoft) (pp. 97-104). IEEE"
-        year: 2018
-        preprint: "https://ris.uni-paderborn.de/record/3345"
-        link: "https://doi.org/10.1109/NETSOFT.2018.8460007"
-      - title: "Containernet 2.0: A Rapid Prototyping Platform for Hybrid Service Function Chains"
-        authors: "Peuster, M., Kampmeyer, J. and Karl, H."
-        published_in: "In 4th IEEE Conference on Network Softwarization and Workshops (NetSoft) (pp. 335-337). IEEE"
-        year: 2018
-        preprint: "https://ris.uni-paderborn.de/record/3346"
-        link: "https://doi.org/10.1109/NETSOFT.2018.8459905"
       - title: "5GTANGO: An Approach for Testing NFV Deployments"
-        authors: "Twamley, P., Müller, M., Bök, P.B., Xilouris, G.K., Sakkas, C., Kourtis, M.A., Peuster, M., Schneider, S., Stavrianos, P. and Kyriazis, D."
+        authors: "Twamley, P., Müller, M., Bök, P.B., Xilouris, G.K., Sakkas, C., Kourtis, M.A., Peuster, M., Schneider, S., Stavrianos, P.,  Kyriazis, D."
         published_in: "In European Conference on Networks and Communications (EuCNC) (pp. 1-218). IEEE"
         year: 2018
         link: "https://doi.org/10.1109/EuCNC.2018.8442844"
-      - title: "Programmable and Flexible Management and Orchestration of Virtualized Network Functions"
-        authors: "Kouchaksaraei, H.R., Dräxler, S., Peuster, M. and Karl, H."
-        published_in: "In European Conference on Networks and Communications (EuCNC) (pp. 1-9). IEEE"
-        year: 2018
-        link: "https://doi.org/10.1109/EuCNC.2018.8442528"
-        preprint: "https://ris.uni-paderborn.de/record/2666"
-      - title: "Emulation-based Smoke Testing of NFV Orchestrators in Large Multi-PoP Environments"
-        authors: "Peuster, M., Marchetti, M., De Blas, G.G. and Karl, H."
-        published_in: "In European Conference on Networks and Communications (EuCNC) (pp. 1-9). IEEE"
-        year: 2018
-        link: "https://doi.org/10.1109/EuCNC.2018.8442701"
-        preprint: "https://ris.uni-paderborn.de/record/3347"
-      - title: "Understand Your Chains and Keep Your Deadlines: Introducing Time-constrained Profiling for NFV"
-        authors: "Peuster, M. and Karl, H."
-        published_in: "In 14th International Conference on Network and Service Management (CNSM) (pp. 240-246). IEEE"
-        year: 2018
-        link: "https://ieeexplore.ieee.org/abstract/document/8584974"
       - title: "A Generic Emulation Framework for Reusing and Evaluating VNF Placement Algorithms"
-        authors: "Schneider, S., Peuster, M. and Karl, H."
+        authors: "Schneider, S., Peuster, M.,  Karl, H."
         published_in: "In IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN) (pp. 1-6). IEEE"
         year: 2018
         link: "https://doi.org/10.1109/NFV-SDN.2018.8725795"
         preprint: "https://ris.uni-paderborn.de/record/6972"
       - title: "A Fully Integrated Multi-Platform NFV SDK"
-        authors: "Schneider, S., Peuster, M., Tavernier, W. and Karl, H."
+        authors: "Schneider, S., Peuster, M., Tavernier, W.,  Karl, H."
         published_in: "In IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN) (pp. 1-2). IEEE"
         year: 2018
         link: "https://doi.org/10.1109/NFV-SDN.2018.8725794"
         preprint: "https://ris.uni-paderborn.de/record/6974"
       - title: "A Prototyping Platform to Validate and Verify Network Service Header-based Service Chains"
-        authors: "Peuster, M., Schneider, S., Christ, F.T. and Karl, H."
+        authors: "Peuster, M., Schneider, S., Christ, F.T.,  Karl, H."
         published_in: "In IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN) (pp. 1-5). IEEE"
         year: 2018
         preprint: "https://ris.uni-paderborn.de/record/6483"
         link: "https://doi.org/10.1109/NFV-SDN.2018.8725614"
-      - title: "SLA-controlled Proxy Service Through Customisable MANO Supporting Operator Policies"
-        authors: "Soenen, T., Vicens, F., Bonnet, J., Parada, C., Kapassa, E., Touloupou, M., Fotopoulou, E., Zafeiropoulos, A., Pol, A., Kolometsos, S., Peuster, M., and Xilouris, G."
-        published_in: "In IFIP/IEEE Symposium on Integrated Network and Service Management (IM). IEEE"
-        year: 2019
-        link: "https://ieeexplore.ieee.org/abstract/document/8717922"
       - title: "Prototyping and Demonstrating 5G Verticals: The Smart Manufacturing Case"
         authors: "Peuster M., Schneider S., Behnke D., Müller M., Bök P-B., Karl H."
         published_in: "In IEEE 5th Conference on Network Softwarization (NetSoft), Paris, France. IEEE"
@@ -387,12 +253,6 @@ publications:
         published_in: "In IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), Dallas, USA. IEEE"
         year: 2019
         link: "https://ris.uni-paderborn.de/record/15372"
-      - title: "FOP4: Function Offloading Prototyping in Heterogeneous and Programmable Network Scenarios"
-        authors: "Moro D., Peuster M., Karl H., Capone A."
-        published_in: "In IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), Dallas, USA. IEEE"
-        year: 2019
-        link: "https://ris.uni-paderborn.de/record/15373"
-        preprint: "https://ris.uni-paderborn.de/record/15373"
       - title: "Putting NFV into Reality: Physical Smart Manufacturing Testbed"
         authors: "Müller M., Behnke D., Bök P-B., Schneider S., Peuster M., Karl H."
         published_in: "In IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), 5GSecAI2019 Workshop, Dallas, USA. IEEE"
@@ -403,12 +263,6 @@ publications:
         published_in: "In IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), 5GSecAI2019 Workshop, Dallas, USA. IEEE"
         year: 2019
         link: "https://ris.uni-paderborn.de/record/15376"
-      - title: "Demonstrating FOP4: A Flexible Platform to Prototype NFV Offloading Scenarios"
-        authors: "Moro D., Peuster M., Karl H., Capone A."
-        published_in: "In IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), Demo, Dallas, USA. IEEE"
-        year: 2019
-        link: "https://ris.uni-paderborn.de/record/15374"
-        preprint: "https://ris.uni-paderborn.de/record/15374"
       - title: "Producing Cloud-Native: Smart Manufacturing Use Cases on Kubernetes"
         authors: "Schneider S., Peuster M., Hannemann K., Behnke D., Müller M., Bök P-B., Karl H."
         published_in: "In IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), Demo, Dallas, USA. IEEE"
@@ -429,12 +283,6 @@ publications:
         published_in: "In IEEE Conference on Network Softwarization (NetSoft), Demo, Ghent, Belgium. IEEE"
         year: 2020
         link: ""
-
-      #- title: "title"
-      #  authors: "authors"
-      #  published_in: "published"
-      #  year: 0
-      #  link: "link"
 
 talks:
     title: Talks and Demonstrations
