@@ -171,7 +171,7 @@ projects:
         funding_link: https://softwarecampus.de/en/
         time: 2018 - 2021
         details: |
-          My own research project focusing on self-learning network management through machine learning.
+          My own research project on self-learning network management through machine learning.
           - Planned, applied for, and received 100K grant to launch my own IT research project
           - Recruited and leading 4 student assistants & collaborating with researchers from Huawei
           - Combining networking and machine learning to tackle real-world problems
@@ -194,8 +194,22 @@ projects:
           Publication and presentation of results and live demo at the 2016 IEEE Vehicular Networking Conference.
         technology: Vehicular Networking, C++, ZMQ Messaging, Linux
         
-  # Todo: bigger spacing between projects. Add project logos?
+  # Todo: Add project logos?
   # TODO: personal projects
+  
+personal_projects:
+  title: Personal Projects
+  intro:
+  projects:
+    - title: "COVID-19: Daily Updates"
+      link: "https://stefanbschneider.github.io/covid19/"
+      time: 2020
+      details: |
+        Website with up-to-date information and data on the COVID-19 spread.
+        Visualization and analysis of trends worldwide and, in particular, in Germany.
+      technology: Python, Jupyter, Matplotlib, Pandas, Google Cloud, GitHub Pages
+# TODO: List of my AI repos?
+
 
 publications:
     title: Publications

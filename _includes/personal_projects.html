@@ -1,11 +1,11 @@
-{% assign projects = site.data.data.projects %}
+{% assign projects = site.data.data.personal_projects %}
 {% if projects %}
 <section class="section projects-section">
 
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fas fa-vial fa-stack-1x fa-inverse"></i>
+      <i class="fas fa-code-branch fa-stack-1x fa-inverse"></i>
     </span>
     {{ projects.title }}
   </h2>
@@ -57,10 +57,4 @@
   {% endfor %}
 
 </section><!--//section-->
-{% endif %}
-
-
-{% assign personal_projects = site.data.data.personal_projects %}
-{% if personal_projects %}
-{% include personal_projects.html %}
 {% endif %}
