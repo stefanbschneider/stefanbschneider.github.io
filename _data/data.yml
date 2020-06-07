@@ -191,22 +191,6 @@ projects:
   # Todo: bigger spacing between projects. Add project logos?
   # TODO: personal projects
 
-# opensourceprojects:
-    # title: Open-Source Projects
-    # intro: I am involved into the following open-source projects.
-
-    # assignments:
-      # - title: "The Softwarized Network Data Zoo (SNDZoo)"
-        # link: "https://sndzoo.github.io/"
-        # details: "Founder and lead developer of the SNDZoo project, a collection of open data sets to support machine learning research in the NFV and SDN domain."
-        # founding:
-        # time: 2015 - now
-      # - title: "Open Source MANO (OSM)"
-        # link: "https://osm.etsi.org"
-        # details: "Contributor to the OSM project and lead developer of its emulator platform. OSM is an European Telecommunication Standards Institute (ETSI) project developing an open-source management and orchestration (MANO) system."
-        # founding:
-        # time: 2017 - now
-
 publications:
     title: Publications
     intro: |
@@ -348,11 +332,10 @@ talks:
     title: Talks and Demonstrations
     intro: ""
     assignments:
-    # This is manuels
-      - title: "Paper presentation: BCG2 architecture"
-        link: "https://conferences.sigcomm.org/sigcomm/2015/atc.php"
-        location: "ATC workshop, ACM SIGCOMM, London, GB"
-        date: 08/2015
+      - title:
+        link:
+        location:
+        date:
 
 reviews:
   - title: "Elsevier Computer Communications"
@@ -372,6 +355,7 @@ organization:
     role: Student Volunteer
     year: 2016
 
+# I don't like the progress bars --> disabled
 # skills:
     # title: Skills &amp; Technologies
 
@@ -393,5 +377,44 @@ organization:
 
       # - name: Project Management
         # level: 70%
+        
+# icons instead
+skills_icons:
+  title: "Skills & Technology"
+  groups:
+    - name: Languages
+      skills:
+        - name: German (native),
+        - name: English (professional),
+        - name: Spanish,
+        - name: Finnish (intermediate)
+    - name: Programming
+      skills:
+        - name: Python, 
+          icon: fab fa-python
+        - name: Java,
+          icon: fab fa-java
+        - name: C++,
+        - name: JavaScript
+          icon: fab fa-js
+    - name: Cloud & Container
+      skills:
+        - name: Docker,
+          icon: fab fa-docker
+        - name: Kubernetes,
+        - name: AWS,
+          icon: fab fa-aws
+        - name: GCP
+          icon: fab fa-google
+        - name: DevOps
+          icon: fas fa-sync-alt
+    - name: Machine Learning
+      skills:
+        - name: sklearn,
+          icon: fas fa-brain
+        - name: TensorFlow,
+        - name: Keras,
+        - name: Reinforcement Learning
+          icon: fas fa-robot
 
 
