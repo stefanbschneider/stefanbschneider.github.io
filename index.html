@@ -16,3 +16,7 @@ layout: default
 {% include skills.html %}
 
 {% include skills_icons.html %}
+
+{% unless sidebar.enable_hobbies %}
+{% include hobbies.html %}
+{% endunless %}

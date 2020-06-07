@@ -1,5 +1,9 @@
 {% assign hobbies = site.data.data.sidebar.hobbies %}
+{% assign sidebar_enabled = site.data.data.sidebar.enable_hobbies %}
 {% if hobbies %}
+
+{% if sidebar_enabled %}
+
 <div class="interests-container container-block">
 
   <h2 class="container-block-title">
@@ -20,4 +24,31 @@
   </ul>
 
 </div><!--//interests-->
+
+{% else %}
+
+<section class="section">
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-smile fa-stack-1x fa-inverse"></i>
+    </span>
+    Hobbies
+  </h2>
+
+	<ul class="list-unstyled interests-list">
+    {% for hobby in hobbies %}
+
+    <li><i class="fas {{ hobby.icon }}"></i>
+      {% if hobby.link %}
+        <a href="{{ hobby.link }}">{{ hobby.item }}</a>
+      {% else %}
+        {{ hobby.item }}
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+ </section>
+
+{% endif %}
 {% endif %}
