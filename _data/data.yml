@@ -130,27 +130,27 @@ awards:
   title: "Honors & Awards"
   awards:
   - name: "Software Campus: Funding & Training for Future IT-Leaders"
-    time: July 2018
+    time: 07/2018
     details: Accepted at Software Campus with 100K grant to lead my own 2-year research project
     link: "https://softwarecampus.de/en/"
   - name: "Distinguished Student 2016"
-    time: September 2018
-    details: "At the [computer and communication systems group](https://www.ccs-labs.org/), Paderborn University"
-  - name: "Scholarship by the German Academic Scholarship Foundation"
-    time: February 2016
-    details: Germany's oldest and most prestigious scholarship foundation
+    time: 10/2018
+    details: "Awarded by the [computer and communication systems group](https://www.ccs-labs.org/), Paderborn University"
+  - name: "German Academic Scholarship"
+    time: 02/2016
+    details: Awarded by Germany's oldest and most prestigious scholarship foundation
     link: "https://www.studienstiftung.de/en/leitbild/"
   - name: "German National Scholarship"
-    time: September 2015
+    time: 09/2015
     details: "National scholarship awarded to less than 1% of students in Germany"
     link: "https://www.studienfonds-owl.de/en/scholarships/deutschlandstipendium/"
   - name: CS Scholarship at Paderborn University
-    time: August 2015
+    time: 08/2015
     details: "Paderborn University's computer science scholarship incl. conference grants"
     link: https://cs.uni-paderborn.de/en/studies/kosten-und-finanzierung/prisma
   - name: Award by the German Mathematics Association
-    time: June 2011
-    details: "Award for outstanding performance in math (best of my year)"
+    time: 06/2011
+    details: "Award for outstanding performance in mathematics (best of my year)"
     link: https://www.mathematik.de/abiturpreis
 
 projects:
