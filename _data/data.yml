@@ -106,23 +106,25 @@ education:
 experiences:
     - role: Research Associate
       time: 2017 - Present
-      company: Paderborn University, Germany
+      company: Computer Networks Group, Paderborn University, Germany
+      link: "https://en.cs.uni-paderborn.de/cn/"
       details: |
-        Research at the [computer networks group](https://en.cs.uni-paderborn.de/cn/): 
-        Network management and optimization, network softwarization (NFV/SDN), cloud computing, 5G and and beyond, as well as machine learning and reinforcement learning.
+        Research on network management and optimization, network softwarization (NFV/SDN), cloud computing, 5G and beyond, as well as machine learning and reinforcement learning.
 
     - role: Student Research Assistant
       time: 2015-2016
-      company: Paderborn University, Germany
+      company: Computer and Communication Systems Group, Paderborn University, Germany
+      link: https://www.ccs-labs.org/
       details: |
-        Researching, implementing, and evaluating different protocols for vehicular networking at the [computer and communication systems group](https://www.ccs-labs.org/).
+        Researching, implementing, and evaluating different protocols for vehicular networking.
 
     - role: Student Teaching Assistant
       time: 2012-2014
       company: Paderborn University, Germany
       details: |
-        Teaching weekly tutorials on Java fundamentals at the [databases and electronic commerce group](https://cs.uni-paderborn.de/en/ecdb/)
-        and later on systems software at the [computer networks group](https://en.cs.uni-paderborn.de/cn/).
+        Teaching weekly tutorials on 
+        - Java fundamentals at the [databases and electronic commerce group](https://cs.uni-paderborn.de/en/ecdb/)
+        - Systems software at the [computer networks group](https://en.cs.uni-paderborn.de/cn/).
 
 awards:
   title: "Honors & Awards"
