@@ -88,25 +88,20 @@ education:
       time: 2017 - 2021
       details: 
   
-    - degree: MSc in Computer Science
+    - degree: MSc in Computer Science (Grade 1.0 with honors)
       university: Paderborn University, Germany
       time: 2015 - 2017
-      details: |
-        Grade: 1.0 with honors
-        Thesis: Specifying, Scaling, Placing, and Reusing Bidirectional Forwarding Graphs of Virtual Network Functions
+      details: 
 
-    - degree: BSc in Computer Science
+    - degree: BSc in Computer Science (Exchange semester)
       university: University of Oklahoma, USA
       time: 2013
-      details: "Exchange Semester"
+      details:
 
-    - degree: BSc in Computer Science
+    - degree: BSc in Computer Science (Grade 1.3 with honors)
       university: Paderborn University, Germany
       time: 2011 - 2015
-      details: |
-        Grade: 1.3 with honors
-        Thesis: A Heuristic for Capacitated, Hierarchical Resource Location Problems
-        Minor: Psychology
+      details: "German grades: 1.0 = excellent, 4.0 = sufficient/passing grade"
 
 experiences:
     - role: Research Associate
