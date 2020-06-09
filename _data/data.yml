@@ -38,7 +38,7 @@ sidebar:
         level: Beginner
   
     interests:
-      - item: Cloud Computing
+      - item: Cloud & Edge Computing
         icon: fa-cloud
         link: 
       - item: NFV & SDN
@@ -77,7 +77,7 @@ career-profile:
     summary: |
       Computer science PhD candidate and researcher at the [Paderborn University](https://cs.uni-paderborn.de/en/), Germany. 
       Research interests include network softwarization
-      and optimization, cloud computing, 5G and beyond, as well as
+      and optimization, cloud and edge computing, 5G and beyond, as well as
       machine learning, in particular reinforcement learning. 
       
       - 5+ years of experience in networking research and engineering
@@ -115,7 +115,7 @@ experiences:
       company: Computer Networks Group, Paderborn University, Germany
       link: "https://en.cs.uni-paderborn.de/cn/"
       details: |
-        Research on network management and optimization, network softwarization (NFV/SDN), cloud computing, 5G and beyond, as well as machine learning and reinforcement learning.
+        Research on network management and optimization, network softwarization (NFV/SDN), cloud and edge computing, 5G and beyond, as well as machine learning and reinforcement learning.
 
     - role: Student Research Assistant
       time: 2015-2016
