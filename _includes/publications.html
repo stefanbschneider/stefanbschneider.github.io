@@ -25,7 +25,10 @@
     <div class="publication-authors">{{ publication.authors }}</div>
     <div class="publication-conference">{{ publication.published_in }}, {{ publication.year }}
         {% if publication.preprint %}
-        [<a href="{{ publication.preprint }}" target="_blank">preprint</a>]
+        [<a href="{{ publication.preprint }}" target="_blank">preprint</a>] 
+        {% endif %}
+		{% if publication.code %}
+        [<a href="{{ publication.code }}" target="_blank">code</a>]
         {% endif %}
     </div>
 	<div class="publication-award">

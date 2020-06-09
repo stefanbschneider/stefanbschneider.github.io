@@ -223,6 +223,7 @@ publications:
         year: 2020
         link: "https://ris.uni-paderborn.de/record/16219"
         preprint: "https://ris.uni-paderborn.de/record/16219"
+        code: "https://github.com/CN-UPB/ml-for-resource-allocation"
       - title: "Benchmarking and Profiling 5G Verticals' Applications: an Industrial IoT Use Case"
         authors: "A. Zafeiropoulos , E. Fotopoulou, M. Peuster, S. Schneider, P. Gouvas, D. Behnke, M. Müller, P. Bök, P. Trakadas, P. Karkazis, and H. Karl"
         published_in: "IEEE Conference on Network Softwarization (NetSoft)"
@@ -235,24 +236,28 @@ publications:
         year: 2020
         link:
         preprint:
+        code: https://github.com/sonata-nfv/tng-industrial-pilot
       - title: "Producing Cloud-Native: Smart Manufacturing Use Cases on Kubernetes"
         authors: "S. Schneider, M. Peuster, K. Hannemann, D. Behnke, M. Müller, P. Bök, and H. Karl"
         published_in: "IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), Demo Track, Dallas, USA"
         year: 2019
         link: "https://ris.uni-paderborn.de/record/13292"
         preprint: "https://ris.uni-paderborn.de/record/13292"
+        code: https://github.com/sonata-nfv/tng-industrial-pilot
       - title: "Putting NFV into Reality: Physical Smart Manufacturing Testbed"
         authors: "M. Müller, D. Behnke, P. Bök, S. Schneider, M. Peuster, and H. Karl"
         published_in: "IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), 5GSecAI2019 Workshop, Dallas, USA"
         year: 2019
         link: "https://ieeexplore.ieee.org/document/9040133"
         preprint: "https://ris.uni-paderborn.de/record/15375"
+        code: https://github.com/sonata-nfv/tng-industrial-pilot
       - title: "NFV-driven intrusion detection for smart manufacturing"
         authors: "D. Behnke, M. Müller, P. Bök, S. Schneider, M. Peuster, and H. Karl"
         published_in: "IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), 5GSecAI2019 Workshop, Dallas, USA"
         year: 2019
         link: "https://ieeexplore.ieee.org/document/9039956"
         preprint: "https://ris.uni-paderborn.de/record/15376"
+        code: https://github.com/sonata-nfv/tng-industrial-pilot
       - title: "Reproducible Functional Tests for Multi-scale Network Services"
         authors: "A. Nuriddinov, W. Tavernier, D. Colle, M. Pickavet, M. Peuster, and S. Schneider"
         published_in: "IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), Dallas, USA"
@@ -267,24 +272,28 @@ publications:
         preprint: "https://arxiv.org/abs/1905.04962" 
         award: "Best Poster Award"
         award_link: http://www.cnsm-conf.org/2019/awards.html)
+        code: https://sndzoo.github.io/
       - title: "5G as Key Technology for Networked Factories: Application of Vertical-specific Network Services for Enabling Flexible Smart Manufacturing"
         authors: "M. Müller, D. Behnke, P. Bök, M. Peuster, S. Schneider, and H. Karl"
         published_in: "IEEE Conference on Industrial Informatics (INDIN), Helsinki, Finnland"
         year: 2019
         link: "https://ieeexplore.ieee.org/abstract/document/8972305"
         preprint: "https://ris.uni-paderborn.de/record/15369"
+        code: https://github.com/sonata-nfv/tng-industrial-pilot
       - title: "Putting 5G into Production: Realizing a Smart Manufacturing Vertical Scenario"
         authors: "S. Schneider, M. Peuster, D. Behnke, M. Müller, P. Bök, and H. Karl"
         published_in: "European Conference on Networks and Communications (EuCNC), Valecia, Spain"
         year: 2019
         link: "https://doi.org/10.1109/EuCNC.2019.8802016"
         preprint: "https://ris.uni-paderborn.de/record/9270"
+        code: https://github.com/sonata-nfv/tng-industrial-pilot
       - title: "Specifying and Analyzing Virtual Network Services Using Queuing Petri Nets"
         authors: "S. Schneider, A. Sharam, H. Karl, and H. Wehrheim"
         published_in: "IFIP/IEEE International Symposium on Integrated Network Management (IM)"
         year: 2019
         link: https://ieeexplore.ieee.org/abstract/document/8717787
         preprint: https://ris.uni-paderborn.de/record/3287
+        code: https://github.com/CN-UPB/ns-simulation-compiler
       - title: "Introducing Automated Verification and Validation for Virtualized Network Functions and Services"
         authors: "M. Peuster, S. Schneider, M. Zhao, G. Xilouris, P. Trakadas, F. Vicens, W. Tavernier, T. Soenen, R. Vilalta, G. Andreou, and D. Kyriazis"
         published_in: "IEEE Communications Magazine, 57(5), pp. 96-102"
@@ -297,6 +306,7 @@ publications:
         year: 2019
         link: "https://doi.org/10.1109/NETSOFT.2019.8806685"
         preprint: "https://ris.uni-paderborn.de/record/8792"
+        code: https://github.com/CN-UPB/ns-simulation-compiler
       - title: "5GTANGO: An Approach for Testing NFV Deployments"
         authors: "P. Twamley, M. Müller, P. Bök, G. Xilouris, C. Sakkas, M. A. Kourtis, M. Peuster, S. Schneider, P. Stavrianos, and D. Kyriazis"
         published_in: "European Conference on Networks and Communications (EuCNC)"
@@ -308,30 +318,35 @@ publications:
         year: 2018
         link: https://ieeexplore.ieee.org/document/8459915
         preprint: https://ris.uni-paderborn.de/record/2481
+        code: https://github.com/CN-UPB/B-JointSP
       - title: "A Generic Emulation Framework for Reusing and Evaluating VNF Placement Algorithms"
         authors: "S. Schneider, M. Peuster, and H. Karl"
         published_in: "IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), Verona, Italy"
         year: 2018
         link: "https://doi.org/10.1109/NFV-SDN.2018.8725795"
         preprint: "https://ris.uni-paderborn.de/record/6972"
+        code: https://github.com/CN-UPB/placement-emulation
       - title: "A Fully Integrated Multi-Platform NFV SDK"
         authors: "S. Schneider, M. Peuster, W. Tavernier, and H. Karl"
         published_in: "IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), Verona, Italy"
         year: 2018
         link: "https://doi.org/10.1109/NFV-SDN.2018.8725794"
         preprint: "https://ris.uni-paderborn.de/record/6974"
+        code: https://github.com/CN-UPB/demo-multi-platform-nfv-sdk
       - title: "A Prototyping Platform to Validate and Verify Network Service Header-based Service Chains"
         authors: "M. Peuster, S. Schneider, F. T. Christ, and H. Karl"
         published_in: "IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), Verona, Italy"
         year: 2018
         preprint: "https://ris.uni-paderborn.de/record/6483"
         link: "https://doi.org/10.1109/NFV-SDN.2018.8725614"  
+        code: https://containernet.github.io/
       - title: "Trade-offs in Dynamic Resource Allocation in Network Function Virtualization"
         authors: "S. Schneider, S. Dräxler, and H. Karl"
         published_in: "IEEE Global Communications Conference (GLOBECOM) ACPSN Workshop"
         year: 2018
         link: https://ieeexplore.ieee.org/abstract/document/8644352
         preprint: https://ris.uni-paderborn.de/record/6970
+        code: https://github.com/CN-UPB/B-JointSP
       - title: "Verification and Validation Framework for 5G Network Services and Apps"
         authors: "M. Zhao, F. Le Gall, P. Cousin, R. Vilalta, R. Muñoz, S. Castro, M. Peuster, S. Schneider, M. Siapera, E. Kapassa, and D. Kyriazis"
         published_in: "IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN)"
@@ -343,7 +358,7 @@ publications:
         year: 2016
         link: "https://ieeexplore.ieee.org/abstract/document/7835955"
         preprint: "https://www2.tkn.tu-berlin.de/bib/laux2016openc2x/laux2016openc2x.pdf"
-      
+        code: https://www.ccs-labs.org/software/openc2x/
 
 
 
