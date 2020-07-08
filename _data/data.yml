@@ -381,7 +381,11 @@ reviews:
     year: 2019
     
 organization:
-  - event: Workshop on Machine Learning & Networking (FG MLN)
+  - event: 2nd KuVS Workshop on Machine Learning & Networking (FG MLN)
+    link: http://www.comnet.informatik.uni-wuerzburg.de/veranstaltungen/local-events/2nd-kuvs-fachgespraech-machine-learning-and-networking/
+    role: TPC Member
+    year: 2020
+  - event: 1st KuVS Workshop on Machine Learning & Networking (FG MLN)
     link: https://mlkuvs.lkn.ei.tum.de/
     role: Co-Chair
     year: 2020
