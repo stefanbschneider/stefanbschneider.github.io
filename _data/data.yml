@@ -162,9 +162,15 @@ awards:
 projects:
     title: Research and Innovation Projects
     intro:
-    # TODO: can I list my current Huawei project here? Or is it under NDA? What can I write/say about it?
-
     projects:
+      - title: "Distributed and Robust Learning in 5G and Beyond"
+        funding: Industry Research Project
+        time: 2020 - 2021
+        details: |
+          Research project on machine learning for autonomous coordination in 5G and beyond.
+          - Developing distributed and robust machine learning and deep reinforcement learning approaches for 5G networks and beyond
+          - Collaborating with researchers from Huawei Munich
+        technology: Machine Learning, Reinforcement Learning, 5G & Beyond, Cloud & Edge Computing, Python, TensorFlow, Ray RLlib, OpenAI Gym & Baselines
       - title: "RealVNF: Improved Coordination of Chained VNFs Under Realistic Conditions"
         link: https://realvnf.github.io/
         funding: Software Campus, BMBF
@@ -175,10 +181,10 @@ projects:
           - Planned, applied for, and received 100K grant to launch my own IT research project
           - Recruited and leading 4 student assistants & collaborating with researchers from Huawei
           - Combining networking and machine learning to tackle real-world problems
-        technology: Leadership, Network Management, 5G and Beyond, Machine Learning, Reinforcement Learning, Tensorflow, Keras, OpenAI Gym, Python
+        technology: Leadership, Network Management, 5G & Beyond, Machine Learning, Reinforcement Learning, Tensorflow, Keras, OpenAI Gym, Python
       - title: "5GTANGO: 5G Development and Validation Platform for Global Industry-Specific Network Services and Apps"
         link: "https://5gtango.eu/"
-        funding: European Project, Horzion 2020
+        funding: European Project, 5GPPP Horzion 2020
         time: 2017 - 2020
         details: |
           Innovation action with 18 European partners from industry and academia.
@@ -195,7 +201,6 @@ projects:
         technology: Vehicular Networking, C++, ZMQ Messaging, Linux
         
   # Todo: Add project logos?
-  # TODO: personal projects
   
 personal_projects:
   title: Personal Projects
