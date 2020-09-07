@@ -226,27 +226,27 @@ publications:
         authors: "S. Schneider, N. P. Satheeschandran, M. Peuster, and H. Karl"
         published_in: "IEEE Conference on Network Softwarization (NetSoft)"
         year: 2020
-        link: "https://ris.uni-paderborn.de/record/16219"
+        link: "https://ieeexplore.ieee.org/document/9165348"
         preprint: "https://ris.uni-paderborn.de/record/16219"
         code: "https://github.com/CN-UPB/ml-for-resource-allocation"
       - title: "Benchmarking and Profiling 5G Verticals' Applications: an Industrial IoT Use Case"
         authors: "A. Zafeiropoulos , E. Fotopoulou, M. Peuster, S. Schneider, P. Gouvas, D. Behnke, M. Müller, P. Bök, P. Trakadas, P. Karkazis, and H. Karl"
         published_in: "IEEE Conference on Network Softwarization (NetSoft)"
         year: 2020
-        link: "https://ris.uni-paderborn.de/record/16222"
+        link: "https://ieeexplore.ieee.org/document/9165348"
         preprint: "https://ris.uni-paderborn.de/record/16222"
       - title: "Cloud-Native Threat Detection and Containment for Smart Manufacturing"
         authors: "M. Müller, D. Behnke, P. Bök, S. Schneider, M. Peuster, and H. Karl"
         published_in: "IEEE Conference on Network Softwarization (NetSoft)"
         year: 2020
-        link:
+        link: "https://ieeexplore.ieee.org/document/9165321"
         preprint:
         code: https://github.com/sonata-nfv/tng-industrial-pilot
       - title: "Producing Cloud-Native: Smart Manufacturing Use Cases on Kubernetes"
         authors: "S. Schneider, M. Peuster, K. Hannemann, D. Behnke, M. Müller, P. Bök, and H. Karl"
         published_in: "IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), Demo Track, Dallas, USA"
         year: 2019
-        link: "https://ris.uni-paderborn.de/record/13292"
+        link: "https://ieeexplore.ieee.org/abstract/document/9040152"
         preprint: "https://ris.uni-paderborn.de/record/13292"
         code: https://github.com/sonata-nfv/tng-industrial-pilot
       - title: "Putting NFV into Reality: Physical Smart Manufacturing Testbed"
