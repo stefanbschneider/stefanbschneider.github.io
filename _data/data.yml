@@ -206,13 +206,20 @@ personal_projects:
   title: Personal Projects
   intro:
   projects:
+    - title: "Ideally: Organize & Grow Your Ideas"
+      link: "https://github.com/stefanbschneider/ideally"
+      time: 2020
+      details: |
+        Progressive Web App (PWA) to keep track of new ideas, organize them with tags, and add notes.
+        Implemented with Django and Bootstrap. Tested and deployed automatically on Heroku.
+      technology: Python, Django, Bootstrap, Heroku, CI/CD, User Management, Google Analytics
     - title: "COVID-19: Daily Updates"
       link: "https://stefanbschneider.github.io/covid19/"
       time: 2020
       details: |
         Website with up-to-date information and data on the COVID-19 spread.
         Visualization and analysis of trends worldwide and, in particular, in Germany.
-      technology: Python, Jupyter, Matplotlib, Pandas, Google Cloud, GitHub Pages
+      technology: Python, Jupyter, Matplotlib, Pandas, Google Cloud, GitHub Pages, Google Analytics
 # TODO: List of my AI repos?
 
 
