@@ -223,14 +223,14 @@ publications:
 
     papers:
       - title: "Self-Driving Network and Service Coordination Using Deep Reinforcement Learning"
-        authors: "S. Schneider, A. Manzoor, H. Qarawlus, R. Schellenberg, H. Karl, R. Khalili, A. Hecker"
+        authors: "S. Schneider, A. Manzoor, H. Qarawlus, R. Schellenberg, H. Karl, R. Khalili, and A. Hecker"
         published_in: "IEEE International Conference on Network and Service Management (CNSM)"
         year: 2020
         link:
         preprint: "https://ris.uni-paderborn.de/record/19609"
         code: "https://github.com/RealVNF/deep-rl-network-service-coordination"
       - title: "Every Node for Itself: Fully Distributed Service Coordination"
-        authors: "S. Schneider, L. D. Klenner, H. Karl"
+        authors: "S. Schneider, L. D. Klenner, and H. Karl"
         published_in: "IEEE International Conference on Network and Service Management (CNSM)"
         year: 2020
         link:
