@@ -222,6 +222,20 @@ publications:
       I have authored and co-authored more than 20 research papers in international, peer-reviewed journals or conferences. A full list of my publications and citations is on [Google Scholar](https://scholar.google.de/citations?user=7fimejMAAAAJ&hl=en).
 
     papers:
+      - title: "Self-Driving Network and Service Coordination Using Deep Reinforcement Learning"
+        authors: "S. Schneider, A. Manzoor, H. Qarawlus, R. Schellenberg, H. Karl, R. Khalili, A. Hecker"
+        published_in: "IEEE International Conference on Network and Service Management (CNSM)"
+        year: 2020
+        link:
+        preprint: "https://ris.uni-paderborn.de/record/19609"
+        code: "https://github.com/RealVNF/deep-rl-network-service-coordination"
+      - title: "Every Node for Itself: Fully Distributed Service Coordination"
+        authors: "S. Schneider, L. D. Klenner, H. Karl"
+        published_in: "IEEE International Conference on Network and Service Management (CNSM)"
+        year: 2020
+        link:
+        preprint: "https://ris.uni-paderborn.de/record/19607"
+        code: "https://github.com/CN-UPB/distributed-coordination"
       - title: "Machine Learning for Dynamic Resource Allocation in Network Function Virtualization"
         authors: "S. Schneider, N. P. Satheeschandran, M. Peuster, and H. Karl"
         published_in: "IEEE Conference on Network Softwarization (NetSoft)"
