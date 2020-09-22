@@ -212,7 +212,7 @@ personal_projects:
       details: |
         Progressive Web App (PWA) to keep track of new ideas, organize them with tags, and add notes.
         Implemented with Django and Bootstrap. Tested and deployed automatically on Heroku.
-      technology: Python, Django, Bootstrap, Heroku, CI/CD, User Management, Google Analytics
+      technology: Python, Django, Bootstrap, PWA, Heroku, CI/CD, User Management, Google Analytics
     - title: "COVID-19: Daily Updates"
       link: "https://stefanbschneider.github.io/covid19/"
       time: 2020
