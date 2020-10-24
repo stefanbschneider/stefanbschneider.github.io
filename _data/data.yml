@@ -250,6 +250,7 @@ publications:
         link: "https://ieeexplore.ieee.org/document/9165348"
         preprint: "https://ris.uni-paderborn.de/record/16219"
         code: "https://github.com/CN-UPB/ml-for-resource-allocation"
+        video: "https://youtu.be/65Qo3hTuAS4"
       - title: "Benchmarking and Profiling 5G Verticals' Applications: an Industrial IoT Use Case"
         authors: "A. Zafeiropoulos , E. Fotopoulou, M. Peuster, S. Schneider, P. Gouvas, D. Behnke, M. Müller, P. Bök, P. Trakadas, P. Karkazis, and H. Karl"
         published_in: "IEEE Conference on Network Softwarization (NetSoft)"
@@ -263,6 +264,7 @@ publications:
         link: "https://ieeexplore.ieee.org/document/9165321"
         preprint:
         code: https://github.com/sonata-nfv/tng-industrial-pilot
+        video: https://youtu.be/QrxQckSmPvg
       - title: "Producing Cloud-Native: Smart Manufacturing Use Cases on Kubernetes"
         authors: "S. Schneider, M. Peuster, K. Hannemann, D. Behnke, M. Müller, P. Bök, and H. Karl"
         published_in: "IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), Demo Track, Dallas, USA"
@@ -284,6 +286,7 @@ publications:
         link: "https://ieeexplore.ieee.org/document/9039956"
         preprint: "https://ris.uni-paderborn.de/record/15376"
         code: https://github.com/sonata-nfv/tng-industrial-pilot
+        video: https://youtu.be/j8nzvraxpBQ
       - title: "Reproducible Functional Tests for Multi-scale Network Services"
         authors: "A. Nuriddinov, W. Tavernier, D. Colle, M. Pickavet, M. Peuster, and S. Schneider"
         published_in: "IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), Dallas, USA"

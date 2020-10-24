@@ -30,10 +30,15 @@
 		{% if publication.code %}
         [<a href="{{ publication.code }}" target="_blank">code</a>]
         {% endif %}
+		{% if publication.video %}
+        [<a href="{{ publication.video }}" target="_blank">video</a>]
+        {% endif %}
     </div>
+	{% if publication.award %}
 	<div class="publication-award">
-		<a href="{{ publication.award_link }}" target="_blank">{{ publication.award }}</a>
+		<a href="{{ publication.award_link }}" target="_blank"><i class="fas fa-award"></i> {{ publication.award }}</a>
 	</div>
+	{% endif %}
   </div><!--//item-->
   {% endfor %}
 
