@@ -236,6 +236,7 @@ publications:
         link:
         preprint: "https://ris.uni-paderborn.de/record/19609"
         code: "https://github.com/RealVNF/deep-rl-network-service-coordination"
+        video: https://youtu.be/aOf08uCDNO8
       - title: "Every Node for Itself: Fully Distributed Service Coordination"
         authors: "S. Schneider, L. D. Klenner, and H. Karl"
         published_in: "IEEE International Conference on Network and Service Management (CNSM)"
@@ -243,6 +244,7 @@ publications:
         link:
         preprint: "https://ris.uni-paderborn.de/record/19607"
         code: "https://github.com/CN-UPB/distributed-coordination"
+        video: https://youtu.be/rKJoJUte-Hk
       - title: "Machine Learning for Dynamic Resource Allocation in Network Function Virtualization"
         authors: "S. Schneider, N. P. Satheeschandran, M. Peuster, and H. Karl"
         published_in: "IEEE Conference on Network Softwarization (NetSoft)"
