@@ -304,7 +304,7 @@ publications:
         link: "http://dl.ifip.org/db/conf/cnsm/cnsm2019/1570555677.pdf"
         preprint: "https://arxiv.org/abs/1905.04962" 
         award: "Best Poster Award"
-        award_link: http://www.cnsm-conf.org/2019/awards.html)
+        award_link: http://www.cnsm-conf.org/2019/awards.html
         code: https://sndzoo.github.io/
       - title: "5G as Key Technology for Networked Factories: Application of Vertical-specific Network Services for Enabling Flexible Smart Manufacturing"
         authors: "M. Müller, D. Behnke, P. Bök, M. Peuster, S. Schneider, and H. Karl"
