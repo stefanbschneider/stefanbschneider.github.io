@@ -233,7 +233,8 @@ publications:
         authors: "S. Schneider, A. Manzoor, H. Qarawlus, R. Schellenberg, H. Karl, R. Khalili, and A. Hecker"
         published_in: "IEEE International Conference on Network and Service Management (CNSM)"
         year: 2020
-        link:
+        link: "http://dl.ifip.org/db/conf/cnsm/cnsm2020/1570659307.pdf"
+        openaccess: "http://dl.ifip.org/db/conf/cnsm/cnsm2020/1570659307.pdf"
         preprint: "https://ris.uni-paderborn.de/record/19609"
         code: "https://github.com/RealVNF/deep-rl-network-service-coordination"
         video: https://youtu.be/aOf08uCDNO8
@@ -241,7 +242,8 @@ publications:
         authors: "S. Schneider, L. D. Klenner, and H. Karl"
         published_in: "IEEE International Conference on Network and Service Management (CNSM)"
         year: 2020
-        link:
+        link: "http://dl.ifip.org/db/conf/cnsm/cnsm2020/1570653213.pdf"
+        openaccess: "http://dl.ifip.org/db/conf/cnsm/cnsm2020/1570653213.pdf"
         preprint: "https://ris.uni-paderborn.de/record/19607"
         code: "https://github.com/CN-UPB/distributed-coordination"
         video: https://youtu.be/rKJoJUte-Hk
