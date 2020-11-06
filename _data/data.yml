@@ -82,7 +82,7 @@ career-profile:
       
       - 5+ years of experience in networking research and engineering
       - Project leader of own 2-year project from ideas to implementation (€ 100K grant)
-      - Author of 20+ peer-reviewed [publications](publications), incl. 1 best poster award
+      - Author of 20+ peer-reviewed [publications](publications) with 2 awards
       - Experienced collaborator in large interdisciplinary [projects](projects) with industry partners
       
       Always curious and eager to learn and to challenge myself. 
@@ -135,9 +135,13 @@ experiences:
 awards:
   title: "Honors & Awards"
   awards:
+  - name: "Best Student Paper"
+    time: 11/2020
+    details: For our [paper](http://dl.ifip.org/db/conf/cnsm/cnsm2020/1570659307.pdf) at 2020 IEEE/IFIP International Conference on Network and Service Management (CNSM)
+    link: 
   - name: "Software Campus: Funding & Training for Future IT-Leaders"
     time: 07/2018
-    details: Accepted at Software Campus with 100K grant to lead my own 2-year research project
+    details: Accepted at Software Campus with €100K grant to lead my own 2-year research project
     link: "https://softwarecampus.de/en/"
   - name: "Distinguished Student 2016"
     time: 10/2018
@@ -238,6 +242,8 @@ publications:
         preprint: "https://ris.uni-paderborn.de/record/19609"
         code: "https://github.com/RealVNF/deep-rl-network-service-coordination"
         video: https://youtu.be/aOf08uCDNO8
+        award: "Best Student Paper"
+        award_link:
       - title: "Every Node for Itself: Fully Distributed Service Coordination"
         authors: "S. Schneider, L. D. Klenner, and H. Karl"
         published_in: "IEEE International Conference on Network and Service Management (CNSM)"
