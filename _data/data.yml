@@ -210,7 +210,7 @@ personal_projects:
   title: Personal Projects
   intro:
   projects:
-    - title: "FeelYa: The app that gets you! Keep track of what you eat and do and improve how you feel."
+    - title: "FeelYa: The app that gets you!"
       link: "https://github.com/stefanbschneider/feelya"
       time: 2020
       details: |
