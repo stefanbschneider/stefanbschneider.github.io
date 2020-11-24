@@ -210,6 +210,14 @@ personal_projects:
   title: Personal Projects
   intro:
   projects:
+    - title: "FeelYa: The app that gets you! Keep track of what you eat and do and improve how you feel."
+      link: "https://github.com/stefanbschneider/feelya"
+      time: 2020
+      details: |
+        Progressive Web App (PWA) to securely and easily track food, activities, and personal well being.
+        Visualize tracked entries to understand what has a positive impact and what doesn't.
+        Implemented with Django and Bootstrap. [Deployed on Heroku.](https://feelya-app.herokuapp.com/)
+      technology: Python, Django, Bootstrap, Chart.js, PWA, Heroku, PostgreSQL, CI/CD, Google Analytics
     - title: "Ideally: Organize & Grow Your Ideas"
       link: "https://github.com/stefanbschneider/ideally"
       time: 2020
