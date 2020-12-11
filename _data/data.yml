@@ -241,6 +241,12 @@ publications:
       I have authored and co-authored more than 20 research papers in international, peer-reviewed journals or conferences. A full list of my publications and citations is on [Google Scholar](https://scholar.google.de/citations?user=7fimejMAAAAJ&hl=en).
 
     papers:
+      - title: "Divide and Conquer: Hierarchical Network and Service Coordination"
+        authors: "S. Schneider, M. Jürgens, and H. Karl"
+        published_in: "IFIP/IEEE International Symposium on Integrated Network Management (IM)"
+        year: 2021
+        preprint: "https://ris.uni-paderborn.de/download/20693/20694/preprint_with_header.pdf"
+        code: https://github.com/CN-UPB/hierarchical-coordination
       - title: "Self-Driving Network and Service Coordination Using Deep Reinforcement Learning"
         authors: "S. Schneider, A. Manzoor, H. Qarawlus, R. Schellenberg, H. Karl, R. Khalili, and A. Hecker"
         published_in: "IEEE International Conference on Network and Service Management (CNSM)"
