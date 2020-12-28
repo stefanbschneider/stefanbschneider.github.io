@@ -256,7 +256,7 @@ publications:
         preprint: "https://ris.uni-paderborn.de/record/19609"
         code: "https://github.com/RealVNF/deep-rl-network-service-coordination"
         video: https://youtu.be/aOf08uCDNO8
-        award: "Best Student Paper"
+        award: "Best Student Paper Award"
         award_link: "/assets/other/best_student_paper_cnsm2020.pdf"
       - title: "Every Node for Itself: Fully Distributed Service Coordination"
         authors: "S. Schneider, L. D. Klenner, and H. Karl"
