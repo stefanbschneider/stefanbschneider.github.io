@@ -26,6 +26,7 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     googleschoolar: https://scholar.google.de/citations?user=7fimejMAAAAJ&hl=en
+    blog: https://stefanbschneider.github.io/blog/
 
     languages:
       - idiom: German
@@ -210,6 +211,13 @@ personal_projects:
   title: Personal Projects
   intro:
   projects:
+    - title: "Personal Blog"
+      link: https://stefanbschneider.github.io/blog/
+      time: 2021
+      details: |
+        Personal blog for documenting things that I learned or want to learn. Mostly related to machine learning, networking, or technology in general.
+      technology: GitHub Pages, fastpages, Jupyter, Google Analytics
+  
     - title: "FeelYa: The app that gets you!"
       link: "https://github.com/stefanbschneider/feelya"
       time: 2020
