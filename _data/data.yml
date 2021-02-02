@@ -139,13 +139,13 @@ awards:
   - name: "Best Student Paper"
     time: 11/2020
     details: For our [paper](http://dl.ifip.org/db/conf/cnsm/cnsm2020/1570659307.pdf) at 2020 IEEE/IFIP International Conference on Network and Service Management (CNSM)
-    link: 
+    link: https://stefanbschneider.github.io/assets/other/best_student_paper_cnsm2020.pdf
   - name: "Software Campus: Funding & Training for Future IT-Leaders"
     time: 07/2018
-    details: Accepted at Software Campus with €100K grant to lead my own 2-year research project
+    details: Accepted at Software Campus with €100K grant to lead my own 2-year research project, [RealVNF](https://realvnf.github.io/).
     link: "https://softwarecampus.de/en/"
   - name: "Distinguished Student 2016"
-    time: 10/2018
+    time: 10/2016
     details: "Awarded by the [computer and communication systems group](https://www.ccs-labs.org/), Paderborn University"
   - name: "German Academic Scholarship"
     time: 02/2016
