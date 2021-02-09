@@ -39,6 +39,9 @@ sidebar:
         level: Beginner
   
     interests:
+      - item: Machine Learning
+        icon: fa-brain
+        link:
       - item: Cloud & Edge Computing
         icon: fa-cloud
         link: 
@@ -47,9 +50,6 @@ sidebar:
         link:
       - item: IoT, 5G & Beyond
         icon: fa-broadcast-tower
-        link:
-      - item: Machine Learning
-        icon: fa-brain
         link:
       - item: Software Architecture
         icon: fa-drafting-compass
