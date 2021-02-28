@@ -1,0 +1,43 @@
+<section class="section projects-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-microphone fa-stack-1x fa-inverse"></i>
+    </span>
+	Public Speaking
+  </h2>
+  <div class="intro">
+	<p>My talks and presentations at conferences, summits, and other events.</p>
+  </div>
+  
+  <!-- Conference presentations -->
+  <p>Paper presentations at the following conferences:</p>
+  
+  {% assign talks = site.data.data.presentations %}
+  <ul>
+      {% for talk in talks %}
+      {% if talk.link %}
+        <li>{{ talk.date }} - <a href="{{ talk.link }}" target="_blank">{{ talk.title }}</a>, {{ talk.location }}</li>
+      {% else %}
+      <li>{{ talk.date }} - {{ talk.title }}, {{ talk.location }}</li>
+      {% endif %}
+      {% endfor %}
+  </ul>
+  
+  <!-- Other talks -->
+  <p>Talks and presentations at other events:</p>
+
+  {% assign talks = site.data.data.talks %}
+  <ul>
+      {% for talk in talks %}
+      {% if talk.link %}
+        <li>{{ talk.date }} - <a href="{{ talk.link }}" target="_blank">{{ talk.title }}</a>, {{ talk.location }}</li>
+      {% else %}
+      <li>{{ talk.date }} - {{ talk.title }}, {{ talk.location }}</li>
+      {% endif %}
+      {% endfor %}
+  </ul>
+ 
+
+</section><!--//section-->

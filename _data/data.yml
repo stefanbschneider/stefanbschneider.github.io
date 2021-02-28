@@ -423,15 +423,60 @@ publications:
 
 
 
+
+# conference presentations in anti-chronological order
+presentations:
+- title: IFIP/IEEE International Symposium on Integrated Network Management (IM)
+  link: https://im2021.ieee-im.org/program
+  location: Online
+  date: 2021
+- title: IFIP/IEEE International Conference on Network and Service Management (CNSM)
+  link: http://www.cnsm-conf.org/2020/program.html
+  location: Online
+  date: 2020
+- title: IEEE Conference on Network Softwarization (NetSoft)
+  link: https://netsoft2020.ieee-netsoft.org/program/
+  location: Online
+  date: 2020
+- title: European Conference on Networks and Communications (EuCNC)
+  link: https://www.eucnc.eu/2019/www.eucnc.eu/thc5/index.html
+  location: Valencia, Spain
+  date: 2019
+- title: IFIP/IEEE International Symposium on Integrated Network Management (IM)
+  link: https://im2019.ieee-im.org/technical-sessions.html
+  location: Washington, DC, USA
+  date: 2019
+- title: IEEE Conference on Network Softwarization (NetSoft)
+  link: https://netsoft2018.ieee-netsoft.org/program/
+  location: Montreal, Canada
+  date: 2018
+- title: IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN)
+  link: https://nfvsdn2018.ieee-nfvsdn.org/program/
+  location: Verona, Italy
+  date: 2018
+- title: IEEE Global Communications Conference (GLOBECOM) ACPSN Workshop
+  link: https://globecom2018.ieee-globecom.org/workshop/ws-20-acpsn-international-workshop-advanced-control-planes-software-networks/program
+  location: Abu Dhabi, UAE
+  date: 2018
+- title: IEEE Vehicular Networking Conference (VNC)
+  link: https://ieee-vnc.org/2016/program.html#S1569538016
+  location: Columbus, OH, USA
+  date: 2016
+
+# other talks and presentations (not at conferences)
 talks:
-    # currently not used
-    title: Talks and Demonstrations
-    intro: ""
-    assignments:
-      - title:
-        link:
-        location:
-        date:
+- title: Challenges of AI in Network Management
+  link: https://datatracker.ietf.org/doc/agenda-110-nmrg/
+  location: IETF 110 Meeting (NMRG), Online
+  date: 2021
+- title: Demonstration of the SONATA NFV SDK
+  link: https://osm.etsi.org/wikipub/index.php/5th_OSM_Hackfest#SONATA_Hackfest_Sessions
+  location: 5th OSM Hackfest, Barcelona, Spain
+  date: 2019
+- title: PowerPoint Karaoke (1st place)
+  link: https://www.th-owl.de/en/news/artikel/detail/10-jahre-studienfonds-owl/
+  location: 10-year anniversary of OWL Studienfonds scholarship, Paderborn, Germany
+  date: 2016
 
 reviews:
   - title: "Elsevier Computer Communications"
