@@ -136,7 +136,7 @@ experiences:
 awards:
   title: "Honors & Awards"
   awards:
-  - name: "Best Student Paper"
+  - name: "Best Student Paper Award"
     time: 11/2020
     details: For our [paper](http://dl.ifip.org/db/conf/cnsm/cnsm2020/1570659307.pdf) at 2020 IEEE/IFIP International Conference on Network and Service Management (CNSM)
     link: https://stefanbschneider.github.io/assets/other/best_student_paper_cnsm2020.pdf
@@ -249,6 +249,12 @@ publications:
       I have authored and co-authored more than 20 research papers in international, peer-reviewed journals or conferences. A full list of my publications and citations is on [Google Scholar](https://scholar.google.de/citations?user=7fimejMAAAAJ&hl=en).
 
     papers:
+      - title: "Distributed Online Service Coordination Using Deep Reinforcement Learning"
+        authors: "S. Schneider, H. Qarawlus, and H. Karl"
+        published_in: "IEEE International Conference on Distributed Computing Systems (ICDCS)"
+        year: 2021
+        preprint: https://ris.uni-paderborn.de/download/21543/21544/public_author_version.pdf
+        code: https://github.com/RealVNF/distributed-drl-coordination
       - title: "Divide and Conquer: Hierarchical Network and Service Coordination"
         authors: "S. Schneider, M. Jürgens, and H. Karl"
         published_in: "IFIP/IEEE International Symposium on Integrated Network Management (IM)"
