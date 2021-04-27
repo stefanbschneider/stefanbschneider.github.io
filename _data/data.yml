@@ -82,8 +82,8 @@ career-profile:
       machine learning, in particular reinforcement learning. 
       
       - 5+ years of experience in networking research and engineering
-      - Project leader of own 2-year project from ideas to implementation (€ 100K grant)
-      - Author of 20+ peer-reviewed [publications](publications) with 2 awards
+      - Project leader of [own 2-year project](https://realvnf.github.io/) from ideas to implementation (€ 100K grant)
+      - Author of 25+ peer-reviewed [publications](publications) with 2 awards
       - Experienced collaborator in large interdisciplinary [projects](projects) with industry partners
       
       Always curious and eager to learn and to challenge myself. 
@@ -211,6 +211,12 @@ personal_projects:
   title: Personal Projects
   intro:
   projects:
+    - title: "Image Classification Web App"
+      link: https://github.com/stefanbschneider/pytorch-django
+      time: 2021
+      details: |
+        A simple Django web app using a pretrained PyTorch DenseNet model for classifying uploaded images. [Deployed on Heroku.](https://pytorch-django.herokuapp.com/)
+      technology: Python, Django, PyTorch, CI/CD
     - title: "Personal Blog"
       link: https://stefanbschneider.github.io/blog/
       time: 2021
@@ -231,7 +237,7 @@ personal_projects:
       time: 2020
       details: |
         Progressive Web App (PWA) to keep track of new ideas, organize them with tags, and add notes.
-        Implemented with Django and Bootstrap. Tested and deployed automatically on Heroku.
+        Implemented with Django and Bootstrap. Tested and [deployed automatically on Heroku](https://ideally-app.herokuapp.com/).
       technology: Python, Django, Bootstrap, PWA, Heroku, PostgreSQL, CI/CD, Google Analytics
     - title: "COVID-19: Daily Updates"
       link: "https://stefanbschneider.github.io/covid19/"
