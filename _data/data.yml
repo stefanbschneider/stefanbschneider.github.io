@@ -483,6 +483,10 @@ presentations:
 
 # other talks and presentations (not at conferences)
 talks:
+- title: "DeepCoMP: Multi-agent Reinforcement Learning for Multi-cell Selection in 5G and Beyond"
+  link: https://www.anyscale.com/ray-summit-2021
+  location: Ray Summit 2021, Online
+  date: 2021
 - title: Challenges of AI in Network Management
   link: https://datatracker.ietf.org/doc/agenda-110-nmrg/
   location: IETF 110 Meeting (NMRG), Online
