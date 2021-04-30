@@ -273,6 +273,7 @@ publications:
         year: 2021
         preprint: "https://ris.uni-paderborn.de/download/20693/20694/preprint_with_header.pdf"
         code: https://github.com/CN-UPB/hierarchical-coordination
+        video: https://youtu.be/0uQYqxtB3Q0
       - title: "Self-Driving Network and Service Coordination Using Deep Reinforcement Learning"
         authors: "S. Schneider, A. Manzoor, H. Qarawlus, R. Schellenberg, H. Karl, R. Khalili, and A. Hecker"
         published_in: "IEEE International Conference on Network and Service Management (CNSM)"
