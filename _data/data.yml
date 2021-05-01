@@ -259,6 +259,7 @@ publications:
         authors: "S. Schneider, R. Khalili, A. Manzoor, H. Qarawlus, R. Schellenberg, H. Karl, A. Hecker"
         published_in: "IEEE Transactions on Network and Service Management (TNSM)"
         year: 2021
+        link: https://ieeexplore.ieee.org/document/9419067
         preprint: https://ris.uni-paderborn.de/download/21808/21809/ris-accepted-version.pdf
         code: https://github.com/RealVNF/DeepCoord
       - title: "Distributed Online Service Coordination Using Deep Reinforcement Learning"
@@ -445,6 +446,10 @@ publications:
 
 # conference presentations in anti-chronological order
 presentations:
+- title: IEEE International Conference on Distributed Computing Systems (ICDCS)
+  link: https://icdcs2021.us/
+  location: Online
+  date: 2021
 - title: IFIP/IEEE International Symposium on Integrated Network Management (IM)
   link: https://im2021.ieee-im.org/program
   location: Online
