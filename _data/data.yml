@@ -59,7 +59,7 @@ sidebar:
         link:
 
     hobbies:
-      - item: Technology & Development
+      - item: Technology & Machine Learning
         icon: fa-laptop-code
         link:
       - item: Traveling & Languages
@@ -81,11 +81,11 @@ career-profile:
       and optimization, cloud and edge computing, 5G and beyond, as well as
       machine learning, in particular reinforcement learning. 
       
-      - 5+ years of experience in networking research and engineering
+      - 5+ years of experience in networking research and engineering with Python
       - Project leader of [own 2-year project](https://realvnf.github.io/) from ideas to implementation (€ 100K grant)
       - Author of 25+ peer-reviewed [publications](publications) with 2 awards
       - Experienced collaborator in large interdisciplinary [projects](projects) with industry partners
-      - Core maintainer of [Ray RLlib](https://github.com/ray-project/ray), a leading open-source framework for deep RL
+      - Open-source contributor and maintainer of [Ray RLlib](https://github.com/ray-project/ray), a leading framework for deep RL
       
       Always curious and eager to learn and to challenge myself. 
       Enjoy tackling difficult problems and finding creative solutions.
@@ -588,11 +588,18 @@ skills_icons:
           icon: fas fa-sync-alt
     - name: Machine Learning
       skills:
-        - name: sklearn,
+        - name: numpy,
           icon: fas fa-brain
+        - name: pandas,
+        - name: sklearn,
         - name: TensorFlow,
         - name: Keras,
-        - name: Reinforcement Learning
+        - name: PyTorch          
+    - name: 
+      skills:
+        - name: Ray RLlib,
           icon: fas fa-robot
+        - name: OpenAI Baselines,
+        - name: OpenAI Gym
 
 
