@@ -520,8 +520,13 @@ reviews:
     year: 2019
     
 organization:
+
+  - event: 3rd KuVS Workshop on Machine Learning & Networking (FG MLN)
+    link: https://hpi.de/karl/research-and-projects/events/malene.html
+    role: Organizer
+    year: 2022
   - event: 2nd KuVS Workshop on Machine Learning & Networking (FG MLN)
-    link: http://www.comnet.informatik.uni-wuerzburg.de/veranstaltungen/local-events/2nd-kuvs-fachgespraech-machine-learning-and-networking/
+    link: https://www.informatik.uni-wuerzburg.de/comnet/veranstaltungen/local-events/2nd-kuvs-fachgespraech-machine-learning-and-networking/
     role: TPC Member
     year: 2020
   - event: 1st KuVS Workshop on Machine Learning & Networking (FG MLN)
