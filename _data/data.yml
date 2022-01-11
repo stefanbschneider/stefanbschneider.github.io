@@ -254,8 +254,14 @@ publications:
       I have authored and co-authored more than 25 research papers in international, peer-reviewed journals and conferences. A full list of my publications and citations is on [Google Scholar](https://scholar.google.de/citations?user=7fimejMAAAAJ&hl=en).
 
     papers:
+      - title: "Use What You Know: Network and Service Coordination Beyond Certainty"
+        authors: "S. Werner, S. Schneider, and H. Karl"
+        published_in: "IEEE/IFIP Network Operations and Management Symposium (NOMS)"
+        year: 2022
+        preprint: https://ris.uni-paderborn.de/download/29220/29222/author_version.pdf
+        code: https://github.com/CN-UPB/FutureCoord
       - title: "Self-Learning Multi-Objective Service Coordination Using Deep Reinforcement Learning"
-        authors: "S. Schneider, R. Khalili, A. Manzoor, H. Qarawlus, R. Schellenberg, H. Karl, A. Hecker"
+        authors: "S. Schneider, R. Khalili, A. Manzoor, H. Qarawlus, R. Schellenberg, H. Karl, and A. Hecker"
         published_in: "IEEE Transactions on Network and Service Management (TNSM)"
         year: 2021
         link: https://ieeexplore.ieee.org/document/9419067
