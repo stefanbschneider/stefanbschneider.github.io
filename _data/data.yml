@@ -189,7 +189,7 @@ projects:
           - Combining networking and machine learning to tackle real-world problems
         technology: Leadership, Network Management, 5G & Beyond, Machine Learning, Reinforcement Learning, Tensorflow, Keras, OpenAI Gym, Python
       - title: "5GTANGO: 5G Development and Validation Platform for Global Industry-Specific Network Services and Apps"
-        link: "https://5gtango.eu/"
+        link: "https://5g-ppp.eu/5gtango/"
         funding: European Project, 5GPPP Horzion 2020
         time: 2017 - 2020
         details: |
@@ -205,9 +205,7 @@ projects:
           Design and development of a prototyping platform congestion control and messaging of an ETSI ITS vehicular networking stack.
           Publication and presentation of results and live demo at the 2016 IEEE Vehicular Networking Conference.
         technology: Vehicular Networking, C++, ZMQ Messaging, Linux
-        
-  # Todo: Add project logos?
-  
+          
 personal_projects:
   title: Personal Projects
   intro:
