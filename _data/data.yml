@@ -258,6 +258,11 @@ publications:
       I have authored and co-authored more than 25 research papers in international, peer-reviewed journals and conferences. A full list of my publications and citations is on [Google Scholar](https://scholar.google.de/citations?user=7fimejMAAAAJ&hl=en).
 
     papers:
+      - title: "Network and Service Coordination: Conventional and Machine Learning Approaches"
+        authors: "S. Schneider"
+        published_in: "PhD Thesis, Paderborn University, Germany"
+        year: 2022
+        link: https://digital.ub.uni-paderborn.de/hs/content/titleinfo/6209882
       - title: "Use What You Know: Network and Service Coordination Beyond Certainty"
         authors: "S. Werner, S. Schneider, and H. Karl"
         published_in: "IEEE/IFIP Network Operations and Management Symposium (NOMS)"
