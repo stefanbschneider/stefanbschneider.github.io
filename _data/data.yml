@@ -91,9 +91,12 @@ career-profile:
 
 education:
     - degree: PhD in Computer Science
-      university: Paderborn University, Germany
+      university: |
+        Paderborn University, Germany
+
+        PhD Thesis: ["Network and Service Coordination: Conventional and Machine Learning Approaches"](https://digital.ub.uni-paderborn.de/hs/content/titleinfo/6209882)
       time: 2017 - 2022
-      details: 
+      details: "PhD Thesis: [Network and Service Coordination: Conventional and Machine Learning Approaches](https://digital.ub.uni-paderborn.de/hs/content/titleinfo/6209882)"
   
     - degree: MSc in Computer Science (Grade 1.0 with honors)
       university: Paderborn University, Germany
