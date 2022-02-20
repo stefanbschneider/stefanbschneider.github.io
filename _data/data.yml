@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Stefan Schneider
-    tagline: Cloud, Networking, and AI Researcher
+    tagline: Senior Software & AI Engineer
     avatar: bio-photo.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -36,7 +36,7 @@ sidebar:
       - idiom: Spanish
         level: Intermediate
       - idiom: Finnish
-        level: Beginner
+        level: Intermediate
   
     interests:
       - item: Machine Learning
@@ -76,12 +76,11 @@ sidebar:
 career-profile:
     title: Bio
     summary: |
-      Computer science PhD candidate and researcher at the [Paderborn University](https://cs.uni-paderborn.de/en/), Germany. 
-      Research interests include network softwarization
-      and optimization, cloud and edge computing, 5G and beyond, as well as
-      machine learning, in particular reinforcement learning. 
+      Senior Software & AI Engineer at [DSD](https://digitale-schiene-deutschland.de/en), working on machine learning and simulation to optimize train schedules.
+      My interests include machine learning, in particular reinforcement learning, software architecture & engineering, networking, as well as research and tech in general.      . 
       
-      - 5+ years of experience in networking research and engineering with Python
+      - Computer science PhD from [Paderborn University](https://cs.uni-paderborn.de/en/), Germany ([thesis](https://digital.ub.uni-paderborn.de/hs/content/titleinfo/6209882)) 
+      - 5+ years of experience in research and in software engineering with Python
       - Project leader of [own 2-year project](https://realvnf.github.io/) from ideas to implementation (€ 100K grant)
       - Author of 25+ peer-reviewed [publications](publications) with 2 awards
       - Experienced collaborator in large interdisciplinary [projects](projects) with industry partners
@@ -93,7 +92,7 @@ career-profile:
 education:
     - degree: PhD in Computer Science
       university: Paderborn University, Germany
-      time: 2017 - 2021
+      time: 2017 - 2022
       details: 
   
     - degree: MSc in Computer Science (Grade 1.0 with honors)
@@ -112,8 +111,15 @@ education:
       details: "German grades: 1.0 = excellent, 4.0 = sufficient/passing grade"
 
 experiences:
+    - role: Senior Software & AI Engineer
+      time: 2022 - Present
+      company: Digital Railway (DSD) at Deutsche Bahn
+      link: https://digitale-schiene-deutschland.de/en
+      details: |
+        Design of reinforcement learning approaches for optimizing train schedules quickly and autonomously. Development of high performance simulation. Coordination between AI and simulation teams.
+
     - role: Research Associate
-      time: 2017 - Present
+      time: 2017-2022
       company: Computer Networks Group, Paderborn University, Germany
       link: "https://en.cs.uni-paderborn.de/cn/"
       details: |
@@ -174,8 +180,8 @@ projects:
         time: 2020 - 2021
         details: |
           Research project on machine learning for autonomous coordination in 5G and beyond.
-          - Developing distributed and robust machine learning and deep reinforcement learning approaches for 5G networks and beyond
-          - Collaborating with researchers from Huawei Munich
+          - Developed distributed and robust machine learning and deep reinforcement learning approaches for 5G networks and beyond
+          - Collaborated with researchers from Huawei Munich
         technology: Machine Learning, Reinforcement Learning, 5G & Beyond, Cloud & Edge Computing, Python, TensorFlow, Ray RLlib, OpenAI Gym & Baselines
       - title: "RealVNF: Improved Coordination of Chained VNFs Under Realistic Conditions"
         link: https://realvnf.github.io/
