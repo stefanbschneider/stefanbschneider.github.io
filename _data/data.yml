@@ -90,7 +90,7 @@ career-profile:
       Enjoy tackling difficult problems and finding creative solutions.
 
 education:
-    - degree: PhD in Computer Science
+    - degree: PhD in Computer Science (summa cum laude, with honors)
       university: Paderborn University, Germany
       time: 2017 - 2022
       details: "PhD Thesis: [Network and Service Coordination: Conventional and Machine Learning Approaches](https://digital.ub.uni-paderborn.de/hs/content/titleinfo/6209882)"
@@ -263,6 +263,7 @@ publications:
         published_in: "PhD Thesis, Paderborn University, Germany"
         year: 2022
         link: https://digital.ub.uni-paderborn.de/hs/content/titleinfo/6209882
+        award: "Dissertation with distinction (summa cum laude)"
       - title: "Use What You Know: Network and Service Coordination Beyond Certainty"
         authors: "S. Werner, S. Schneider, and H. Karl"
         published_in: "IEEE/IFIP Network Operations and Management Symposium (NOMS)"
