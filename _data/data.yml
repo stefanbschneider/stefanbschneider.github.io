@@ -264,6 +264,12 @@ publications:
         year: 2022
         link: https://digital.ub.uni-paderborn.de/hs/content/titleinfo/6209882
         award: "Dissertation with distinction (summa cum laude)"
+      - title: "mobile-env: An Open Platform for Reinforcement Learning in Wireless Mobile Networks"
+        authors: "S. Schneider, S. Werner, R. Khalili, A. Hecker, and H. Karl"
+        published_in: "IEEE/IFIP Network Operations and Management Symposium (NOMS)"
+        year: 2022
+        preprint: https://ris.uni-paderborn.de/download/30236/30237/author_version.pdf
+        code: https://github.com/stefanbschneider/mobile-env
       - title: "Use What You Know: Network and Service Coordination Beyond Certainty"
         authors: "S. Werner, S. Schneider, and H. Karl"
         published_in: "IEEE/IFIP Network Operations and Management Symposium (NOMS)"
