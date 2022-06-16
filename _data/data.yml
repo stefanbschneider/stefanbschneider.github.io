@@ -264,16 +264,19 @@ publications:
         year: 2022
         link: https://digital.ub.uni-paderborn.de/hs/content/titleinfo/6209882
         award: "Dissertation with distinction (summa cum laude)"
+        award_link: "https://digital.ub.uni-paderborn.de/hs/content/titleinfo/6209882"
       - title: "mobile-env: An Open Platform for Reinforcement Learning in Wireless Mobile Networks"
         authors: "S. Schneider, S. Werner, R. Khalili, A. Hecker, and H. Karl"
         published_in: "IEEE/IFIP Network Operations and Management Symposium (NOMS)"
         year: 2022
+        link: https://ieeexplore.ieee.org/document/9789886
         preprint: https://ris.uni-paderborn.de/download/30236/30237/author_version.pdf
         code: https://github.com/stefanbschneider/mobile-env
       - title: "Use What You Know: Network and Service Coordination Beyond Certainty"
         authors: "S. Werner, S. Schneider, and H. Karl"
         published_in: "IEEE/IFIP Network Operations and Management Symposium (NOMS)"
         year: 2022
+        link: https://ieeexplore.ieee.org/document/9789713
         preprint: https://ris.uni-paderborn.de/download/29220/29222/author_version.pdf
         code: https://github.com/CN-UPB/FutureCoord
       - title: "Self-Learning Multi-Objective Service Coordination Using Deep Reinforcement Learning"
@@ -287,12 +290,14 @@ publications:
         authors: "S. Schneider, H. Qarawlus, and H. Karl"
         published_in: "IEEE International Conference on Distributed Computing Systems (ICDCS)"
         year: 2021
+        link: https://ieeexplore.ieee.org/document/9546526
         preprint: https://ris.uni-paderborn.de/download/21543/21544/public_author_version.pdf
         code: https://github.com/RealVNF/distributed-drl-coordination
       - title: "Divide and Conquer: Hierarchical Network and Service Coordination"
         authors: "S. Schneider, M. Jürgens, and H. Karl"
         published_in: "IFIP/IEEE International Symposium on Integrated Network Management (IM)"
         year: 2021
+        link: https://ieeexplore.ieee.org/document/9463972
         preprint: "https://ris.uni-paderborn.de/download/20693/20694/preprint_with_header.pdf"
         code: https://github.com/CN-UPB/hierarchical-coordination
         video: https://youtu.be/0uQYqxtB3Q0
