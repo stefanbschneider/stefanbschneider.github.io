@@ -258,11 +258,6 @@ publications:
       I have authored and co-authored more than 25 research papers in international, peer-reviewed journals and conferences. A full list of my publications and citations is on [Google Scholar](https://scholar.google.de/citations?user=7fimejMAAAAJ&hl=en).
 
     papers:
-      - title: "DeepCoMP: Coordinated Multipoint Using Multi-Agent Deep Reinforcement Learning"
-        authors: "S. Schneider,  H. Karl, R. Khalili, and A. Hecker"
-        year: 2021
-        link: https://ris.uni-paderborn.de/download/33854/33855/preprint.pdf
-        preprint: https://ris.uni-paderborn.de/download/33854/33855/preprint.pdf
       - title: "Research Challenges in Coupling Artificial Intelligence and Network Management"
         authors: "J. Francois, A. Clemm, D. Papadimitriou, S. Fernandes, and S. Schneider"
         published_in: "IETF Internet Draft, draft-francois-nmrg-ai-challenges-00"
@@ -289,6 +284,11 @@ publications:
         link: https://ieeexplore.ieee.org/document/9789713
         preprint: https://ris.uni-paderborn.de/download/29220/29222/author_version.pdf
         code: https://github.com/CN-UPB/FutureCoord
+      - title: "DeepCoMP: Coordinated Multipoint Using Multi-Agent Deep Reinforcement Learning"
+        authors: "S. Schneider,  H. Karl, R. Khalili, and A. Hecker"
+        year: 2021
+        link: https://ris.uni-paderborn.de/download/33854/33855/preprint.pdf
+        preprint: https://ris.uni-paderborn.de/download/33854/33855/preprint.pdf
       - title: "Self-Learning Multi-Objective Service Coordination Using Deep Reinforcement Learning"
         authors: "S. Schneider, R. Khalili, A. Manzoor, H. Qarawlus, R. Schellenberg, H. Karl, and A. Hecker"
         published_in: "IEEE Transactions on Network and Service Management (TNSM)"
