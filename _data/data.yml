@@ -303,6 +303,12 @@ publications:
         link: https://ieeexplore.ieee.org/document/9546526
         preprint: https://ris.uni-paderborn.de/download/21543/21544/public_author_version.pdf
         code: https://github.com/RealVNF/distributed-drl-coordination
+      - title: "Conventional and Machine Learning Approaches for Network and Service Coordination"
+        authors: "S. Schneider"
+        published_in: "Submitted to the PhD Forum at IEEE International Conference on Distributed Computing Systems (ICDCS)"
+        year: 2021
+        link: https://ris.uni-paderborn.de/download/35889/35890/main.pdf
+        preprint: https://ris.uni-paderborn.de/download/35889/35890/main.pdf
       - title: "Divide and Conquer: Hierarchical Network and Service Coordination"
         authors: "S. Schneider, M. Jürgens, and H. Karl"
         published_in: "IFIP/IEEE International Symposium on Integrated Network Management (IM)"
