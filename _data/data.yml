@@ -260,9 +260,9 @@ publications:
     papers:
       - title: "Research Challenges in Coupling Artificial Intelligence and Network Management"
         authors: "J. Francois, A. Clemm, D. Papadimitriou, S. Fernandes, and S. Schneider"
-        published_in: "IETF Internet Draft, draft-francois-nmrg-ai-challenges-01, -02"
+        published_in: "IETF Internet Draft, draft-francois-nmrg-ai-challenges-01, -02, draft-irtf-nmrg-ai-challenges-00"
         year: "2022, 2023"
-        link: https://datatracker.ietf.org/doc/draft-francois-nmrg-ai-challenges/
+        link: https://datatracker.ietf.org/doc/draft-irtf-nmrg-ai-challenges/
       - title: "Network and Service Coordination: Conventional and Machine Learning Approaches"
         authors: "S. Schneider"
         published_in: "PhD Thesis, Paderborn University, Germany"
