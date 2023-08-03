@@ -262,7 +262,7 @@ publications:
         authors: "S. Schneider,  H. Karl, R. Khalili, and A. Hecker"
         published_in: "IEEE Transactions on Network and Service Management (TNSM)"
         year: 2023
-        link: https://ris.uni-paderborn.de/download/33854/33855
+        link: https://ieeexplore.ieee.org/document/10198677
         preprint: https://ris.uni-paderborn.de/download/33854/33855
         code: https://github.com/CN-UPB/DeepCoMP
       - title: "Research Challenges in Coupling Artificial Intelligence and Network Management"
