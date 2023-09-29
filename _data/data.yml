@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Stefan Schneider
-    tagline: Senior Software & AI Engineer
+    tagline: Senior AI & Software Engineer
     avatar: bio-photo.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -21,7 +21,7 @@ sidebar:
     github: stefanbschneider
     gitlab:
     bitbucket:
-    twitter: stefan_schn
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -258,6 +258,10 @@ publications:
       I have authored and co-authored more than 25 research papers in international, peer-reviewed journals and conferences. A full list of my publications and citations is on [Google Scholar](https://scholar.google.de/citations?user=7fimejMAAAAJ&hl=en).
 
     papers:
+      - title: "Conventional and Machine Learning Approaches for Network and Service Coordination"
+        authors: "S. Schneider"
+        published_in: "IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN)"
+        year: 2023
       - title: "Multi-Agent Deep Reinforcement Learning for Coordinated Multipoint in Mobile Networks"
         authors: "S. Schneider,  H. Karl, R. Khalili, and A. Hecker"
         published_in: "IEEE Transactions on Network and Service Management (TNSM)"
