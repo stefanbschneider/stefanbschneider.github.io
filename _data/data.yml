@@ -262,6 +262,7 @@ publications:
         authors: "S. Schneider"
         published_in: "IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), Doctoral Symposium, Dresden, Germany"
         year: 2023
+        link: "/assets/other/phd_digest_nfvsdn2023.pdf"
         preprint: "/assets/other/phd_digest_nfvsdn2023.pdf"
       - title: "Multi-Agent Deep Reinforcement Learning for Coordinated Multipoint in Mobile Networks"
         authors: "S. Schneider,  H. Karl, R. Khalili, and A. Hecker"
