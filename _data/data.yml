@@ -82,9 +82,8 @@ career-profile:
       - Computer science PhD from [Paderborn University](https://cs.uni-paderborn.de/en/), Germany ([thesis](https://digital.ub.uni-paderborn.de/hs/content/titleinfo/6209882)) 
       - 5+ years of experience in research and in software engineering with Python
       - Project leader of [own 2-year project](https://realvnf.github.io/) from ideas to implementation (€ 100K grant)
-      - Author of 25+ peer-reviewed [publications](publications) with 2 awards
+      - Author of 30+ peer-reviewed [publications](publications) with 3 awards
       - Experienced collaborator in large interdisciplinary [projects](projects) with industry partners
-      - Open-source contributor and maintainer of [Ray RLlib](https://github.com/ray-project/ray), a leading framework for deep RL
       
       Always curious and eager to learn and to challenge myself. 
       Enjoy tackling difficult problems and finding creative solutions.
@@ -143,6 +142,9 @@ experiences:
 awards:
   title: "Honors & Awards"
   awards:
+  - name: "Best Doctoral Symposium Paper Award"
+    time: 11/2023
+    details: For the digest of my PhD thesis at the 2023 IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN)
   - name: "Best Student Paper Award"
     time: 11/2020
     details: For our [paper](http://dl.ifip.org/db/conf/cnsm/cnsm2020/1570659307.pdf) at 2020 IEEE/IFIP International Conference on Network and Service Management (CNSM)
@@ -175,6 +177,14 @@ projects:
     title: Research and Innovation Projects
     intro:
     projects:
+      - title: "Digital Rail for Germany"
+        link: https://digitale-schiene-deutschland.de/en
+        funding: Deutsche Bahn
+        time: 2022 - Now
+        details: |
+          Large railway project to apply future technologies to railway operation, from research to implementation.
+          My team focuses on improving and dynamically adjusting railway schedules with deep reinforcement learning,
+          leading to higher capacity, less delays, and greener transportation.
       - title: "Distributed and Robust Learning in 5G and Beyond"
         funding: Industry Research Project
         time: 2020 - 2021
@@ -255,7 +265,8 @@ personal_projects:
 publications:
     title: Publications
     intro: |
-      I have authored and co-authored more than 25 research papers in international, peer-reviewed journals and conferences. A full list of my publications and citations is on [Google Scholar](https://scholar.google.de/citations?user=7fimejMAAAAJ&hl=en).
+      I have authored and co-authored more than 30 research papers in international, peer-reviewed journals and conferences. 
+      Also see my [Google Scholar profile](https://scholar.google.de/citations?user=7fimejMAAAAJ&hl=en) for publications and citations.
 
     papers:
       - title: "Conventional and Machine Learning Approaches for Network and Service Coordination"
@@ -264,6 +275,7 @@ publications:
         year: 2023
         link: "/assets/other/phd_digest_nfvsdn2023.pdf"
         preprint: "/assets/other/phd_digest_nfvsdn2023.pdf"
+        award: "Best Doctoral Symposium Paper Award"
       - title: "Multi-Agent Deep Reinforcement Learning for Coordinated Multipoint in Mobile Networks"
         authors: "S. Schneider,  H. Karl, R. Khalili, and A. Hecker"
         published_in: "IEEE Transactions on Network and Service Management (TNSM)"
@@ -490,6 +502,14 @@ publications:
 
 # conference presentations in anti-chronological order
 presentations:
+- title: IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN)
+  link: https://nfvsdn2023.ieee-nfvsdn.org/program/doctoral-symposium
+  location: Dresden, Germany
+  date: 2023
+- title: IEEE/IFIP Network Operations and Management Symposium (NOMS)
+  link: https://noms2022.ieee-noms.org/program/demo-sessions.html
+  location: Online
+  date: 2022
 - title: IEEE International Conference on Distributed Computing Systems (ICDCS)
   link: https://icdcs2021.us/
   location: Online
