@@ -145,6 +145,7 @@ awards:
   - name: "Best Doctoral Symposium Paper Award"
     time: 11/2023
     details: For the digest of my PhD thesis at the 2023 IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN)
+    link: https://nfvsdn2023.ieee-nfvsdn.org/program/best-paper-awards
   - name: "Best Student Paper Award"
     time: 11/2020
     details: For our [paper](http://dl.ifip.org/db/conf/cnsm/cnsm2020/1570659307.pdf) at 2020 IEEE/IFIP International Conference on Network and Service Management (CNSM)
@@ -276,6 +277,7 @@ publications:
         link: "/assets/other/phd_digest_nfvsdn2023.pdf"
         preprint: "/assets/other/phd_digest_nfvsdn2023.pdf"
         award: "Best Doctoral Symposium Paper Award"
+        award_link: https://nfvsdn2023.ieee-nfvsdn.org/program/best-paper-awards
       - title: "Multi-Agent Deep Reinforcement Learning for Coordinated Multipoint in Mobile Networks"
         authors: "S. Schneider,  H. Karl, R. Khalili, and A. Hecker"
         published_in: "IEEE Transactions on Network and Service Management (TNSM)"
