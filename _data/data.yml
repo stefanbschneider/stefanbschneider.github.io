@@ -267,14 +267,21 @@ publications:
     title: Publications
     intro: |
       I have authored and co-authored more than 30 research papers in international, peer-reviewed journals and conferences. 
+      Note the author PDF and code linked for the publications listed below.
       Also see my [Google Scholar profile](https://scholar.google.de/citations?user=7fimejMAAAAJ&hl=en) for publications and citations.
 
     papers:
+      - title: "Intelligent Railway Capacity and Traffic Management Using Multi-Agent Deep Reinforcement Learning"
+        authors: "S. Schneider, A. Roets, C. Stirbu, F. Safaei, F. Ghriss, J. Wülfing, M. Güral, N. Siboni, R. Liessner, T. Hustache, T. Lecat, U. Deekshith, V. Markin, V. Le, W. Bejjani, M. Küpper, and I. Sturm"
+        published_in: "IEEE International Conference on Intelligent Transportation Systems (ITSC)"
+        year: 2024
+        link: "/assets/other/marl_itsc2024.pdf"
+        preprint: "/assets/other/marl_itsc2024.pdf"
       - title: "Conventional and Machine Learning Approaches for Network and Service Coordination"
         authors: "S. Schneider"
         published_in: "IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), Doctoral Symposium, Dresden, Germany"
         year: 2023
-        link: "/assets/other/phd_digest_nfvsdn2023.pdf"
+        link: https://ieeexplore.ieee.org/abstract/document/10329611
         preprint: "/assets/other/phd_digest_nfvsdn2023.pdf"
         award: "Best Doctoral Symposium Paper Award"
         award_link: https://nfvsdn2023.ieee-nfvsdn.org/program/best-paper-awards
