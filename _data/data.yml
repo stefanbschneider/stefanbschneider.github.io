@@ -275,8 +275,8 @@ publications:
         authors: "S. Schneider, A. Roets, C. Stirbu, F. Safaei, F. Ghriss, J. Wülfing, M. Güral, N. Siboni, R. Liessner, T. Hustache, T. Lecat, U. Deekshith, V. Markin, V. Le, W. Bejjani, M. Küpper, and I. Sturm"
         published_in: "IEEE International Conference on Intelligent Transportation Systems (ITSC)"
         year: 2024
-        link: "/assets/other/marl_itsc2024.pdf"
-        preprint: "/assets/other/marl_itsc2024.pdf"
+        link: "/assets/other/marl_itsc2024v2.pdf"
+        preprint: "/assets/other/marl_itsc2024v2.pdf"
       - title: "Conventional and Machine Learning Approaches for Network and Service Coordination"
         authors: "S. Schneider"
         published_in: "IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), Doctoral Symposium, Dresden, Germany"
