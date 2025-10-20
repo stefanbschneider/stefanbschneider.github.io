@@ -11,8 +11,8 @@ body {
     font-weight: 400;
     /* Default body color kept as secondary for dark background, but wrapper will override for main content */
     color: $text-color-secondary;
-    /* Keep the site's dark background; the wrapper will be light for the main content region */
-    background: $background-dark;
+    /* Changed from dark background to white for better overall page appearance */
+    background: #ffffff;
     font-size: 16px; /* increased from 14px */
     line-height: 1.6; /* increased from 1.5 for better vertical rhythm */
     padding: 30px;
@@ -121,6 +121,8 @@ p {
         font-weight: 700;
         margin-top: 0;
         margin-bottom: 15px;
+        color: #fff;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
     }
     .degree {
         font-size: 14px;
