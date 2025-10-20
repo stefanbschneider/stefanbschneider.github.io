@@ -12,7 +12,7 @@ body {
     /* Default body color kept as secondary for dark background, but wrapper will override for main content */
     color: $text-color-secondary;
     /* Changed from dark background to white for better overall page appearance */
-    background: #ffffff;
+    background: $lighter-grey;
     font-size: 16px; /* increased from 14px */
     line-height: 1.6; /* increased from 1.5 for better vertical rhythm */
     padding: 30px;
@@ -390,12 +390,12 @@ a {
     padding-top: 30px;
     .copyright {
         line-height: 1.6;
-        color: #ccc;
+        color: $text-color;
         font-size: 13px;
     }
 
     a {
-        color: #ccc;
+        color: $text-color-secondary;
         &:hover {
             color: #fff;
             text-decoration: underline;
