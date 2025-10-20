@@ -15,9 +15,3 @@ gem "github-pages", group: :jekyll_plugins
 group :development do
   gem "webrick", "~> 1.7"
 end
-
-# Helpful: use bundler to install and manage gems
-# You can run:
-#   gem install bundler
-#   bundle install
-#   bundle exec jekyll serve --livereload --host 0.0.0.0
