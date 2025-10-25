@@ -4,16 +4,17 @@ html {
 }
 
 body {
-    /*
-        'Roboto Slab', serif;
-        'Roboto', sans-serif;
-        'Roboto Mono', monospace;
-    */
-    font-family: 'Roboto', sans-serif;
-    font-weight: 200;
+    /* Use a system sans-serif stack (built-in fonts). This avoids external font loading and
+       provides a readable, widely supported sans-serif that matches the user's platform. */
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    /* Increase weight for better on-screen legibility (was 200 - very light) */
+    font-weight: 400;
+    /* Default body color kept as secondary for dark background, but wrapper will override for main content */
     color: $text-color-secondary;
-    background: $background-dark;
-    font-size: 14px;
+    /* Changed from dark background to white for better overall page appearance */
+    background: $lighter-grey;
+    font-size: 16px; /* increased from 14px */
+    line-height: 1.6; /* increased from 1.5 for better vertical rhythm */
     padding: 30px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -27,22 +28,12 @@ body {
 
 h1, h2, h3, h4, h5, h6  {
     font-weight: 700;
-    font-family: 'Roboto', sans-serif;
-}
-
-a {
-    color: darken($theme-color, 20%);
-    &:hover {
-        text-decoration: underline;
-        color: darken($theme-color, 80%);
-    }
-    &:focus {
-        text-decoration: none;
-    }
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    color: $text-color; /* use darker text for headings */
 }
 
 p {
-    line-height: 1.5;
+    line-height: 1.6;
 }
 
 .center-content {
@@ -50,8 +41,10 @@ p {
     text-align: center;
 }
 
+/* Main wrapper: switch to a light, neutral background with dark text for high contrast and readability */
 .wrapper {
-    background:$theme-color;
+    background: $smoky-white; /* was $theme-color; light background improves contrast for long text */
+    color: #222222; /* explicit dark text for good contrast on light background */
     max-width: 1000px;
     margin: 0 auto;
     position: relative;
@@ -83,13 +76,16 @@ p {
         font-weight: 900;
         margin-top: 0;
         margin-bottom: 10px;
+        color: #fff;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
     }
     .tagline {
-        color: rgba(256, 256, 256, 0.6);
+        color: rgba(255, 255, 255, 0.95);
         font-size: 16px;
-        font-weight: 400;
+        font-weight: 500;
         margin-top: 0;
         margin-bottom: 0;
+        text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
     }
     .profile {
         margin-bottom: 15px;
@@ -125,6 +121,8 @@ p {
         font-weight: 700;
         margin-top: 0;
         margin-bottom: 15px;
+        color: #fff;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
     }
     .degree {
         font-size: 14px;
@@ -211,7 +209,7 @@ p {
     }
     .upper-row {
         position: relative;
-        overflow: hidden;
+        overflow: visible;
         margin-bottom: 2px;
     }
     .job-title, .degree {
@@ -247,7 +245,7 @@ p {
         }
     }
 	.project-time {
-		color: $text-grey;
+		color: $darker-grey;
 		text-align: left;
 		margin-top: 5px;
 		margin-bottom: 5px;
@@ -257,32 +255,21 @@ p {
 		float: right;
 	}
 	
-	.project-tech {
-		font-family: 'Roboto', sans-serif;
-		font-weight: 200;
-	}
-	
     .teaching-subheader{
         font-size: 16px;
-        color: $text-grey;
+        color: $darker-grey;
         margin-bottom: 8px;
         margin-top: 16px;
     }
 
     .publication-subheader{
         font-size: 16px;
-        color: $text-grey;
+        color: $darker-grey;
         margin-bottom: 8px;
         margin-top: 16px;
     }
     .publication-counter{
-        color: $text-grey;
-    }
-    .publication-title {
-        //font-size: 16px;
-        font-weight: 400;
-        color: $text-color;
-        margin-bottom: 1px;
+        color: $darker-grey;
     }
     .publication-authors {
         font-style: italic;
@@ -316,7 +303,6 @@ p {
 .block-text{
     text-align: justify;
 }
-
 
 .menu {
     .menu-wrapper {
@@ -353,8 +339,25 @@ p {
             color: #fff;
             text-decoration: none;
         }
-        
     }
+}
+
+/* Links inside the readable content area use the theme color as accent */
+a {
+    color: $theme-color;
+    &:hover {
+        text-decoration: underline;
+        color: darken($theme-color, 10%);
+    }
+    &:focus {
+        text-decoration: none;
+    }
+}
+
+/* Small typography tweaks for improved readability */
+.project-tech, .publication-title {
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-weight: 400;
 }
 
 
@@ -387,12 +390,12 @@ p {
     padding-top: 30px;
     .copyright {
         line-height: 1.6;
-        color: #ccc;
+        color: $text-color;
         font-size: 13px;
     }
 
     a {
-        color: #ccc;
+        color: $text-color-secondary;
         &:hover {
             color: #fff;
             text-decoration: underline;
