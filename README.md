@@ -15,12 +15,11 @@
 ### Serve
 
 ```sh
-bundle exec jekyll serve --livereload
+bundle exec jekyll serve --livereload --open-url
 ```
 
-Open: [http://127.0.0.1:4000/](http://127.0.0.1:4000/)
+Opens: [http://127.0.0.1:4000/](http://127.0.0.1:4000/)
 
-* Use Safari if Chrome makes trouble
 
 ### Configure
 
