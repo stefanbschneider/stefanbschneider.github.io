@@ -1,15 +1,7 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
-    enable_hobbies: False  # same for hobbies
-
     # Profile information
     name: Stefan Schneider
-    tagline: Senior AI & Software Engineer
+    tagline: Lead AI & Software Engineer
     avatar: bio-photo.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -42,19 +34,13 @@ sidebar:
       - item: Machine Learning
         icon: fa-brain
         link:
+      - item: Reinforcement Learning
+        icon: fa-robot
+        link:
       - item: Cloud & Edge Computing
         icon: fa-cloud
         link: 
-      - item: NFV & SDN
-        icon: fa-server
-        link:
-      - item: IoT, 5G & Beyond
-        icon: fa-broadcast-tower
-        link:
-      - item: Software Architecture
-        icon: fa-drafting-compass
-        link:
-      - item: DevOps
+      - item: Software Engineering
         icon: fa-terminal
         link:
 
@@ -76,17 +62,44 @@ sidebar:
 career-profile:
     title: Bio
     summary: |
-      Senior Software & AI Engineer at [DSD](https://digitale-schiene-deutschland.de/en), working on machine learning and simulation to optimize train schedules.
-      My interests include machine learning, in particular reinforcement learning, software architecture & engineering, networking, as well as research and tech in general.      . 
+      Lead AI & Software Engineer at [Digital Rail](https://digitale-schiene-deutschland.de/en), 
+      where I lead a team optimizing railway traffic with reinforcement learning.
+      I am entuthastic about technical leadership, high-impact research, and hands-on software engineering.
       
-      - Computer science PhD from [Paderborn University](https://cs.uni-paderborn.de/en/), Germany ([thesis](https://digital.ub.uni-paderborn.de/hs/content/titleinfo/6209882)) 
-      - 5+ years of experience in research and in software engineering with Python
-      - Project leader of [own 2-year project](https://realvnf.github.io/) from ideas to implementation (€ 100K grant)
-      - Author of 30+ peer-reviewed [publications](publications) with 3 awards
-      - Experienced collaborator in large interdisciplinary [projects](projects) with industry partners
-      
-      Always curious and eager to learn and to challenge myself. 
-      Enjoy tackling difficult problems and finding creative solutions.
+      - Experienced developer focusing on machine learning with Python (8+ years)
+      - Curious researcher with [30+ peer-reviewed papers](publications) (3 awards, [h-index 15](https://scholar.google.com/citations?user=7fimejMAAAAJ&hl=en))
+      - Passionate technical leader of AI-focused teams (2 projects, 2+ years) 
+      - Computer science PhD with distinction from [Paderborn University](https://cs.uni-paderborn.de/en/)
+
+experiences:
+    - role: Lead AI & Software Engineer
+      time: 2024 - Present
+      company: Digital Railway (DSD) at Deutsche Bahn
+      link: https://digitale-schiene-deutschland.de/en
+      details: |
+        Leading a team of AI researchers and engineers to optimize railway traffic with deep reinforcement learning. I set and drive the AI strategy and work hands-on on research and development.
+
+
+    - role: Senior AI & Software Engineer
+      time: 2022 - 2024
+      company: Digital Railway (DSD) at Deutsche Bahn
+      link: https://digitale-schiene-deutschland.de/en
+      details: |
+        Design of reinforcement learning approaches for optimizing train schedules quickly and autonomously. Development of high performance simulation. Coordination between AI and simulation teams.
+
+    - role: Research Associate
+      time: 2017-2022
+      company: Computer Networks Group, Paderborn University, Germany
+      link: "https://en.cs.uni-paderborn.de/cn/"
+      details: |
+        Research on network management and optimization, network softwarization (NFV/SDN), cloud and edge computing, 5G and beyond, as well as machine learning and reinforcement learning.
+
+    - role: Student Assistant (Teaching & Research)
+      time: 2012-2016
+      company: Paderborn University, Germany
+      details: |
+        - Prototyping and evaluating protocols for vehicular networking.
+        - Teaching two undergrad classes on Java and systems software.
 
 education:
     - degree: PhD in Computer Science (summa cum laude, with honors)
@@ -108,36 +121,6 @@ education:
       university: Paderborn University, Germany
       time: 2011 - 2015
       details: "German grades: 1.0 = excellent, 4.0 = sufficient/passing grade"
-
-experiences:
-    - role: Senior Software & AI Engineer
-      time: 2022 - Present
-      company: Digital Railway (DSD) at Deutsche Bahn
-      link: https://digitale-schiene-deutschland.de/en
-      details: |
-        Design of reinforcement learning approaches for optimizing train schedules quickly and autonomously. Development of high performance simulation. Coordination between AI and simulation teams.
-
-    - role: Research Associate
-      time: 2017-2022
-      company: Computer Networks Group, Paderborn University, Germany
-      link: "https://en.cs.uni-paderborn.de/cn/"
-      details: |
-        Research on network management and optimization, network softwarization (NFV/SDN), cloud and edge computing, 5G and beyond, as well as machine learning and reinforcement learning.
-
-    - role: Student Research Assistant
-      time: 2015-2016
-      company: Computer and Communication Systems Group, Paderborn University, Germany
-      link: https://www.ccs-labs.org/
-      details: |
-        Researching, implementing, and evaluating different protocols for vehicular networking.
-
-    - role: Student Teaching Assistant
-      time: 2012-2014
-      company: Paderborn University, Germany
-      details: |
-        Teaching weekly tutorials on 
-        - Java fundamentals at the [databases and electronic commerce group](https://cs.uni-paderborn.de/en/ecdb/)
-        - Systems software at the [computer networks group](https://en.cs.uni-paderborn.de/cn/).
 
 awards:
   title: "Honors & Awards"
