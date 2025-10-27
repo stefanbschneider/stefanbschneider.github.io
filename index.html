@@ -5,12 +5,9 @@ title: About
 
 {% include career-profile.html %}
 
-{% assign sidebar = site.data.data.sidebar %}
-{% unless sidebar.education %}
-{% include education.html %}
-{% endunless %}
-
 {% include experiences.html %}
+
+{% include education.html %}
 
 {% include awards.html %}
 
@@ -18,6 +15,4 @@ title: About
 
 {% include skills_icons.html %}
 
-{% unless sidebar.enable_hobbies %}
 {% include hobbies.html %}
-{% endunless %}
