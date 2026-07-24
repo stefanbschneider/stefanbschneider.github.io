@@ -67,8 +67,9 @@ career-profile:
       I combine high-impact research with hands-on engineering &mdash; designing, training, and evaluating
       neural networks at scale, and turning research ideas into production-quality code.
 
-      - Hands-on ML engineer and researcher building deep learning models with Python & PyTorch (8+ years)
-      - Curious researcher with [30+ peer-reviewed papers](publications) (3 awards, [h-index 15](https://scholar.google.com/citations?user=7fimejMAAAAJ&hl=en)) and open-source contributions used across the community
+      - Hands-on ML engineer and researcher building machine learning and deep learning models with Python & PyTorch (8+ years)
+      - At home across the ML toolbox &mdash; reinforcement learning, deep learning, and gradient-boosted trees &mdash; with a focus on rigorous benchmarking and evaluation
+      - Curious researcher with [30+ peer-reviewed papers](publications) (3 awards, [h-index 16](https://scholar.google.com/citations?user=7fimejMAAAAJ&hl=en)) and open-source contributions used across the community
       - Hands-on with transformers, foundation models, and LLMs &mdash; from fine-tuning to building agentic pipelines
       - Passionate technical leader of AI-focused teams and a computer science PhD with distinction from [Paderborn University](https://cs.uni-paderborn.de/en/)
 
@@ -78,7 +79,7 @@ experiences:
       company: Digital Railway (DSD) at Deutsche Bahn
       link: https://digitale-schiene-deutschland.de/en
       details: |
-        Leading a team of AI researchers and engineers building deep learning models to optimize railway traffic. I set and drive the AI strategy and work hands-on &mdash; designing and training neural networks (including transformer/attention-based architectures) and establishing rigorous evaluation and benchmarking for meaningful progress.
+        Leading a team of AI researchers and engineers building deep learning models to optimize railway traffic. I set and drive the AI strategy and work hands-on &mdash; designing and training neural networks (including graph- and transformer-based architectures) and establishing rigorous evaluation and benchmarking for meaningful progress.
 
 
     - role: Senior AI & Software Engineer
@@ -86,14 +87,14 @@ experiences:
       company: Digital Railway (DSD) at Deutsche Bahn
       link: https://digitale-schiene-deutschland.de/en
       details: |
-        Built training and evaluation pipelines for deep reinforcement learning (Python, PyTorch, Ray). Developed a scalable, high-performance simulation used as the RL training environment. Drove systematic benchmarking and better evaluation metrics for comparable, meaningful progress.
+        Built training and evaluation pipelines for deep reinforcement learning (Python, PyTorch, Ray, MLflow). Developed a scalable, high-performance simulation used as the RL training environment. Drove systematic benchmarking and better evaluation metrics for comparable, meaningful progress.
 
     - role: Research Associate
       time: 2017-2022
       company: Computer Networks Group, Paderborn University, Germany
       link: "https://en.cs.uni-paderborn.de/cn/"
       details: |
-        Designed, implemented, and trained deep reinforcement learning models for self-learning network and service management. Research on machine learning, network optimization, network softwarization (NFV/SDN), cloud and edge computing, and 5G and beyond.
+        Designed, implemented, and trained deep reinforcement learning models for self-learning network and service management, using diverse optimization approaches &mdash; from numerical optimization and metaheuristics to machine learning. Research on network optimization, network softwarization (NFV/SDN), cloud and edge computing, and 5G and beyond.
 
     - role: Student Assistant (Teaching & Research)
       time: 2012-2016
@@ -214,9 +215,9 @@ opensourceprojects:
     - title: "Ray RLlib"
       link: https://docs.ray.io/en/latest/rllib.html
       founding: 2020 - Present
-      time: Contributor & Maintainer
+      time: Contributor
       details: |
-        Contributor and maintainer of [Ray RLlib](https://docs.ray.io/en/latest/rllib.html),
+        Contributor to [Ray RLlib](https://docs.ray.io/en/latest/rllib.html),
         a widely used open-source library for scalable deep reinforcement learning.
     - title: "mobile-env"
       link: https://github.com/stefanbschneider/mobile-env
@@ -237,13 +238,14 @@ personal_projects:
         Competing in the ongoing LLM-agent challenge on real-world travel planning at IJCAI 2026,
         building an agentic pipeline around an open LLM (Qwen). Currently ranked 4th on the leaderboard.
       technology: Python, LLMs, Agents, Qwen
-    - title: "Generative Question Answering with Hugging Face Transformers"
-      link: https://stefanbschneider.github.io/blog/posts/question-answering-huggingface/index.html
-      time: 2024
+    - title: "Side Projects on LLMs & Agents"
+      link: https://stefanbschneider.github.io/blog/
+      time: 2024 - Present
       details: |
-        Fine-tuned a foundation model for generative question answering, with a [demo app](https://stefanbschneider.github.io/blog/posts/question-answering-huggingface/index.html)
-        and [blog posts](https://stefanbschneider.github.io/blog/) on transformers and LLMs.
-      technology: Python, PyTorch, Hugging Face Transformers, Foundation Models
+        Hands-on exploration of the LLM and agent stack: fine-tuned an encoder-decoder model (Longformer) for long-form
+        question answering, built a [Q&A demo app](https://stefanbschneider.github.io/blog/posts/question-answering-huggingface/index.html),
+        and wrote a custom MCP server. Write-ups on my [blog](https://stefanbschneider.github.io/blog/).
+      technology: Python, PyTorch, Hugging Face Transformers, LLMs, MCP
     - title: "Image Classification Web App"
       link: https://github.com/stefanbschneider/pytorch-django
       time: 2021
@@ -702,7 +704,9 @@ skills_icons:
         - name: NumPy,
           icon: fas fa-table
         - name: pandas,
-        - name: scikit-learn
+        - name: scikit-learn,
+        - name: XGBoost,
+        - name: MLflow
     - name: Reinforcement Learning
       skills:
         - name: Ray RLlib,
