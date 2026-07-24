@@ -31,7 +31,7 @@ sidebar:
         level: Intermediate
   
     interests:
-      - item: Deep Learning &amp; Foundation Models
+      - item: Machine Learning
         icon: fa-brain
         link:
       - item: Reinforcement Learning
@@ -63,14 +63,13 @@ career-profile:
     title: Bio
     summary: |
       Lead AI & Software Engineer at [Digital Rail](https://digitale-schiene-deutschland.de/en),
-      where I lead a team building deep learning and reinforcement learning models to optimize railway traffic.
+      where I lead a team building deep reinforcement learning approaches to optimize railway traffic.
       I combine high-impact research with hands-on engineering &mdash; designing, training, and evaluating
       neural networks at scale, and turning research ideas into production-quality code.
 
-      - Hands-on ML engineer and researcher building machine learning and deep learning models with Python & PyTorch (8+ years)
-      - At home across the ML toolbox &mdash; reinforcement learning, deep learning, and gradient-boosted trees &mdash; with a focus on rigorous benchmarking and evaluation
+      - Hands-on ML engineer and researcher building machine learning and deep learning models with Python (8+ years)
+      - Experienced across industries (railway, cloud, telecom, manufacturing) and the ML toolbox (reinforcement learning, deep learning, trees/boosting, transformers) &mdash; with a focus on reinforcement learning and rigorous benchmarking and evaluation
       - Curious researcher with [30+ peer-reviewed papers](publications) (3 awards, [h-index 16](https://scholar.google.com/citations?user=7fimejMAAAAJ&hl=en)) and open-source contributions used across the community
-      - Hands-on with transformers, foundation models, and LLMs &mdash; from fine-tuning to building agentic pipelines
       - Passionate technical leader of AI-focused teams and a computer science PhD with distinction from [Paderborn University](https://cs.uni-paderborn.de/en/)
 
 experiences:
@@ -79,7 +78,7 @@ experiences:
       company: Digital Railway (DSD) at Deutsche Bahn
       link: https://digitale-schiene-deutschland.de/en
       details: |
-        Leading a team of AI researchers and engineers building deep learning models to optimize railway traffic. I set and drive the AI strategy and work hands-on &mdash; designing and training neural networks (including graph- and transformer-based architectures) and establishing rigorous evaluation and benchmarking for meaningful progress.
+        Leading a team of AI researchers and engineers building deep reinforcement learning approaches to optimize railway traffic. I set and drive the AI strategy and work hands-on (Python, PyTorch, Ray, MLflow). I design and train neural networks (including graph- and transformer-based architectures) and establish rigorous evaluation and benchmarking to ensure meaningful progress.
 
 
     - role: Senior AI & Software Engineer
@@ -87,14 +86,14 @@ experiences:
       company: Digital Railway (DSD) at Deutsche Bahn
       link: https://digitale-schiene-deutschland.de/en
       details: |
-        Built training and evaluation pipelines for deep reinforcement learning (Python, PyTorch, Ray, MLflow). Developed a scalable, high-performance simulation used as the RL training environment. Drove systematic benchmarking and better evaluation metrics for comparable, meaningful progress.
+        Built training and evaluation pipelines for deep reinforcement learning. Developed a scalable, high-performance simulation used as the RL training environment (PyTorch, NumPy). Coordination and prioritization between AI and simulation teams.
 
     - role: Research Associate
       time: 2017-2022
       company: Computer Networks Group, Paderborn University, Germany
       link: "https://en.cs.uni-paderborn.de/cn/"
       details: |
-        Designed, implemented, and trained deep reinforcement learning models for self-learning network and service management, using diverse optimization approaches &mdash; from numerical optimization and metaheuristics to machine learning. Research on network optimization, network softwarization (NFV/SDN), cloud and edge computing, and 5G and beyond.
+        Designed, implemented, and trained machine learning and deep reinforcement learning models for self-learning network and service management, using diverse optimization approaches &mdash; from numerical optimization and metaheuristics to machine learning. Research on network optimization, network softwarization (NFV/SDN), cloud and edge computing, and 5G and beyond.
 
     - role: Student Assistant (Teaching & Research)
       time: 2012-2016
@@ -671,16 +670,39 @@ skills_icons:
         - name: German (native),
         - name: English (professional),
         - name: Spanish,
-        - name: Finnish (intermediate)
+        - name: Finnish
     - name: Programming
       skills:
-        - name: Python, 
+        - name: Python (proficient), 
           icon: fab fa-python
         - name: Java,
           icon: fab fa-java
         - name: C++,
         - name: JavaScript
           icon: fab fa-js
+    - name: Machine Learning
+      skills:
+        - name: PyTorch,
+          icon: fas fa-brain
+        - name: TensorFlow,
+        - name: NumPy,
+        - name: pandas,
+        - name: scikit-learn,
+        - name: MLflow
+    - name: RL
+      skills:
+        - name: Ray RLlib,
+          icon: fas fa-robot
+        - name: Stable Baselines,
+        - name: CleanRL,
+        - name: Gymnasium
+    - name: LLMs & Agents
+      skills:
+        - name: HuggingFace,
+          icon: fas fa-comments
+        - name: MCP,
+        - name: Agent Skills & Hooks,
+        - name: Orchestration
     - name: Cloud & Container
       skills:
         - name: Docker,
@@ -692,26 +714,4 @@ skills_icons:
           icon: fab fa-google
         - name: DevOps
           icon: fas fa-sync-alt
-    - name: Deep Learning
-      skills:
-        - name: PyTorch,
-          icon: fas fa-brain
-        - name: Hugging Face Transformers,
-        - name: TensorFlow,
-        - name: Keras
-    - name: ML &amp; Data
-      skills:
-        - name: NumPy,
-          icon: fas fa-table
-        - name: pandas,
-        - name: scikit-learn,
-        - name: XGBoost,
-        - name: MLflow
-    - name: Reinforcement Learning
-      skills:
-        - name: Ray RLlib,
-          icon: fas fa-robot
-        - name: Stable Baselines,
-        - name: OpenAI Gym
-
 
