@@ -31,13 +31,13 @@ sidebar:
         level: Intermediate
   
     interests:
-      - item: Deep Learning & Foundation Models
+      - item: Deep Learning &amp; Foundation Models
         icon: fa-brain
         link:
       - item: Reinforcement Learning
         icon: fa-robot
         link:
-      - item: LLMs & Agents
+      - item: LLMs &amp; Agents
         icon: fa-comments
         link:
       - item: Software Engineering
@@ -699,7 +699,7 @@ skills_icons:
         - name: Hugging Face Transformers,
         - name: TensorFlow,
         - name: Keras
-    - name: ML & Data
+    - name: ML &amp; Data
       skills:
         - name: NumPy,
           icon: fas fa-table
