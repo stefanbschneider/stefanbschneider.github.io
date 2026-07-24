@@ -209,7 +209,7 @@ projects:
           
 opensourceprojects:
   title: Open Source
-  intro:
+  intro: I open-source my work whenever I can, including all of my research code from my PhD. Find more on my <a href="https://github.com/stefanbschneider" target="_blank">GitHub profile</a>.
   assignments:
     - title: "Ray RLlib"
       link: https://docs.ray.io/en/latest/rllib.html
