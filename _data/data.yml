@@ -126,6 +126,10 @@ education:
 awards:
   title: "Honors & Awards"
   awards:
+  - name: "Special Contribution Award"
+    time: 08/2026
+    details: "For outstanding results (competition phase 1) and responsible disclosure of evaluation loopholes at the [2nd Travel Planning Competition at International Joint Conferences on Artificial Intelligence (IJCAI)](https://chinatravel-competition.github.io/IJCAI2026/)"
+    link: "assets/other/ijcai2026-tpc-certificate.png"
   - name: "Best Doctoral Symposium Paper Award"
     time: 11/2023
     details: For the digest of my PhD thesis at the 2023 IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN)
@@ -289,6 +293,15 @@ publications:
       Also see my [Google Scholar profile](https://scholar.google.de/citations?user=7fimejMAAAAJ&hl=en) for publications and citations.
 
     papers:
+      - title: "Agentic Travel Planning: Where AI Helped, and Where It Did Not"
+        authors: "S. Schneider, F. Missbrenner"
+        published_in: "Technical Report - 2nd Travel Planning Competition at International Joint Conferences on Artificial Intelligence (IJCAI)"
+        year: 2026
+        link: https://github.com/stefanbschneider/travel-agent/blob/main/report/fabiundstefan.pdf
+        preprint: https://github.com/stefanbschneider/travel-agent/blob/main/report/fabiundstefan.pdf
+        code: https://github.com/stefanbschneider/travel-agent
+        award: "Competition Finalists & Special Contribution Award"
+        award_link: "assets/other/ijcai2026-tpc-certificate.png"
       - title: "Intelligent Railway Capacity and Traffic Management Using Multi-Agent Deep Reinforcement Learning"
         authors: "S. Schneider, A. Roets, C. Stirbu, F. Safaei, F. Ghriss, J. Wülfing, M. Güral, N. Siboni, R. Liessner, T. Hustache, T. Lecat, U. Deekshith, V. Markin, V. Le, W. Bejjani, M. Küpper, and I. Sturm"
         published_in: "IEEE International Conference on Intelligent Transportation Systems (ITSC)"
