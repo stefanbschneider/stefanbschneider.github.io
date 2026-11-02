@@ -128,7 +128,7 @@ awards:
   awards:
   - name: "Special Contribution Award"
     time: 08/2026
-    details: "For outstanding results (competition phase 1) and responsible disclosure of evaluation loopholes at the [2nd Travel Planning Competition at International Joint Conferences on Artificial Intelligence (IJCAI)](https://chinatravel-competition.github.io/IJCAI2026/)"
+    details: "For outstanding results (competition phase 1) and responsible disclosure of evaluation loopholes at the [2nd Travel Planning Competition at the International Joint Conference on Artificial Intelligence (IJCAI)](https://chinatravel-competition.github.io/IJCAI2026/)"
     link: "assets/other/ijcai2026-tpc-certificate.png"
   - name: "Best Doctoral Symposium Paper Award"
     time: 11/2023
@@ -238,8 +238,8 @@ personal_projects:
       link: https://chinatravel-competition.github.io/IJCAI2026/
       time: 2026
       details: |
-        Competing in the ongoing LLM-agent challenge on real-world travel planning at IJCAI 2026,
-        building an agentic pipeline around an open LLM (Qwen). Currently ranked 4th on the leaderboard.
+        Finalist in LLM-agent challenge on real-world travel planning at IJCAI 2026,
+        building an agentic pipeline around an open LLM (Qwen).
       technology: Python, LLMs, Agents, Qwen
     - title: "Side Projects on LLMs & Agents"
       link: https://stefanbschneider.github.io/blog/
@@ -295,7 +295,7 @@ publications:
     papers:
       - title: "Agentic Travel Planning: Where AI Helped, and Where It Did Not"
         authors: "S. Schneider, F. Missbrenner"
-        published_in: "Technical Report - 2nd Travel Planning Competition at International Joint Conferences on Artificial Intelligence (IJCAI)"
+        published_in: "Technical Report - 2nd Travel Planning Competition at the International Joint Conference on Artificial Intelligence (IJCAI)"
         year: 2026
         link: https://github.com/stefanbschneider/travel-agent/blob/main/report/fabiundstefan.pdf
         preprint: https://github.com/stefanbschneider/travel-agent/blob/main/report/fabiundstefan.pdf
